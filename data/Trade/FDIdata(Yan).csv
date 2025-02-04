@@ -1,0 +1,3862 @@
+"Year","Quantity in Millions","Sector","Country","BRI"
+"2022-06-01",100,"Transport","Ghana",1
+"2022-06-01",200,"Transport","Jamaica",1
+"2022-06-01",410,"Transport","Philippines",1
+"2022-06-01",140,"Health","Papua New Guinea",1
+"2022-06-01",180,"Energy","Indonesia",1
+"2022-06-01",110,"Energy","South Africa",1
+"2022-06-01",190,"Energy","Kenya",1
+"2022-06-01",280,"Metals","Tajikistan",1
+"2022-06-01",170,"Energy","Bangladesh",1
+"2022-06-01",200,"Metals","Zimbabwe",1
+"2022-06-01",220,"Energy","Spain",0
+"2022-06-01",260,"Consumer","India",0
+"2022-05-01",150,"Energy","Myanmar",1
+"2022-05-01",430,"Energy","Thailand",1
+"2022-05-01",1100,"Metals","Algeria",1
+"2022-05-01",130,"Utilities","Pakistan",1
+"2022-05-01",210,"Energy","Rwanda",1
+"2022-05-01",190,"Entertainment","Guinea",1
+"2022-05-01",150,"Transport","Pakistan",1
+"2022-05-01",520,"Chemicals","Algeria",1
+"2022-05-01",410,"Energy","Laos",1
+"2022-05-01",260,"Transport","Guyana",1
+"2022-05-01",110,"Technology","Saudi Arabia",1
+"2022-05-01",140,"Energy","Finland",0
+"2022-05-01",100,"Health","Chile",1
+"2022-05-01",420,"Technology","Finland",0
+"2022-05-01",300,"Metals","Zimbabwe",1
+"2022-05-01",430,"Energy","Algeria",1
+"2022-05-01",680,"Metals","Cameroon",1
+"2022-05-01",200,"Transport","South Korea",1
+"2022-05-01",290,"Metals","Indonesia",1
+"2022-05-01",320,"Real estate","Canada",0
+"2022-04-01",450,"Technology","Bangladesh",1
+"2022-04-01",190,"Transport","Tanzania",1
+"2022-04-01",200,"Chemicals","Qatar",1
+"2022-04-01",310,"Energy","Pakistan",1
+"2022-04-01",780,"Transport","Australia",0
+"2022-04-01",110,"Real estate","Cambodia",1
+"2022-04-01",150,"Consumer","Mexico",0
+"2022-04-01",100,"Energy","Sweden",0
+"2022-04-01",110,"Real estate","Britain",0
+"2022-03-01",160,"Chemicals","Turkey",1
+"2022-03-01",310,"Energy","Indonesia",1
+"2022-03-01",230,"Metals","Indonesia",1
+"2022-03-01",190,"Utilities","Democratic Republic of the Congo",1
+"2022-03-01",170,"Metals","Vietnam",1
+"2022-03-01",1760,"Transport","Serbia",1
+"2022-03-01",150,"Transport","Serbia",1
+"2022-03-01",140,"Transport","Bangladesh",1
+"2022-03-01",210,"Agriculture","Thailand",1
+"2022-03-01",230,"Energy","Ecuador",1
+"2022-03-01",100,"Transport","Ghana",1
+"2022-03-01",550,"Metals","Democratic Republic of the Congo",1
+"2022-03-01",270,"Health","Chile",1
+"2022-03-01",470,"Other","France",0
+"2022-03-01",180,"Energy","Saudi Arabia",1
+"2022-03-01",300,"Energy","Chile",1
+"2022-02-01",270,"Real estate","Uzbekistan",1
+"2022-02-01",270,"Energy","Kazakhstan",1
+"2022-02-01",960,"Transport","Chile",1
+"2022-02-01",110,"Energy","Niger",1
+"2022-02-01",110,"Energy","Burkina Faso",1
+"2022-02-01",110,"Energy","Benin",1
+"2022-02-01",130,"Transport","Singapore",1
+"2022-02-01",290,"Transport","Singapore",1
+"2022-02-01",320,"Energy","Iraq",1
+"2022-02-01",180,"Energy","Algeria",1
+"2022-02-01",610,"Energy","Uganda",1
+"2022-02-01",400,"Energy","Saudi Arabia",1
+"2022-02-01",4650,"Energy","Saudi Arabia",1
+"2022-02-01",110,"Finance","USA",0
+"2022-02-01",210,"Energy","Saudi Arabia",1
+"2022-02-01",590,"Health","Germany",0
+"2022-02-01",380,"Metals","Argentina",1
+"2022-02-01",180,"Metals","Zimbabwe",1
+"2022-02-01",200,"Transport","Morocco",1
+"2022-01-01",220,"Energy","Bosnia",1
+"2022-01-01",120,"Energy","Brazil",0
+"2022-01-01",140,"Energy","Philippines",1
+"2022-01-01",270,"Other","Iraq",1
+"2022-01-01",880,"Energy","Iraq",1
+"2022-01-01",170,"Health","Kenya",1
+"2022-01-01",100,"Metals","Malaysia",1
+"2022-01-01",170,"Real estate","UAE",1
+"2022-01-01",270,"Transport","Australia",0
+"2022-01-01",150,"Transport","Australia",0
+"2022-01-01",150,"Transport","Bangladesh",1
+"2022-01-01",2770,"Transport","Philippines",1
+"2022-01-01",300,"Transport","Cambodia",1
+"2022-01-01",210,"Metals","Malaysia",1
+"2022-01-01",600,"Energy","Iraq",1
+"2022-01-01",120,"Energy","Bangladesh",1
+"2022-01-01",270,"Metals","Indonesia",1
+"2022-01-01",250,"Real estate","USA",0
+"2022-01-01",240,"Transport","Bangladesh",1
+"2022-01-01",590,"Transport","Spain",0
+"2021-12-01",350,"Real estate","Nigeria",1
+"2021-12-01",460,"Chemicals","Uzbekistan",1
+"2021-12-01",120,"Energy","Bosnia",1
+"2021-12-01",1330,"Chemicals","Russian Federation",1
+"2021-12-01",160,"Transport","Angola",1
+"2021-12-01",220,"Utilities","Philippines",1
+"2021-12-01",140,"Health","Burkina Faso",0
+"2021-12-01",150,"Energy","Saudi Arabia",1
+"2021-12-01",670,"Transport","Australia",0
+"2021-12-01",400,"Transport","Singapore",1
+"2021-12-01",270,"Transport","Philippines",1
+"2021-12-01",130,"Metals","Zimbabwe",1
+"2021-12-01",500,"Technology","Ireland",0
+"2021-12-01",1150,"Entertainment","Britain",0
+"2021-12-01",1770,"Transport","Germany",0
+"2021-12-01",230,"Energy","Nepal",1
+"2021-12-01",250,"Metals","Indonesia",1
+"2021-12-01",300,"Health","Israel",1
+"2021-12-01",420,"Metals","Zimbabwe",1
+"2021-12-01",100,"Finance","Britain",0
+"2021-11-01",450,"Energy","Mongolia",1
+"2021-11-01",170,"Real estate","Uzbekistan",1
+"2021-11-01",150,"Health","Angola",1
+"2021-11-01",1090,"Transport","Serbia",1
+"2021-11-01",280,"Transport","Jamaica",1
+"2021-11-01",360,"Energy","Mexico",0
+"2021-11-01",100,"Transport","Thailand",1
+"2021-11-01",420,"Energy","Kuwait",1
+"2021-11-01",2850,"Energy","Iraq",1
+"2021-11-01",200,"Utilities","Saudi Arabia",1
+"2021-11-01",1370,"Transport","Serbia",1
+"2021-11-01",110,"Transport","Peru",1
+"2021-11-01",120,"Transport","Hungary",1
+"2021-11-01",560,"Transport","Britain",0
+"2021-11-01",890,"Transport","France",0
+"2021-11-01",300,"Energy","Bangladesh",1
+"2021-11-01",140,"Metals","Australia",0
+"2021-11-01",170,"Technology","Germany",0
+"2021-11-01",100,"Consumer","Indonesia",1
+"2021-11-01",280,"Metals","Democratic Republic of the Congo",1
+"2021-11-01",280,"Logistics","Thailand",1
+"2021-11-01",470,"Metals","Ghana",1
+"2021-11-01",350,"Energy","Spain",0
+"2021-11-01",200,"Technology","USA",0
+"2021-10-01",300,"Energy","Bosnia",1
+"2021-10-01",220,"Real estate","Kuwait",1
+"2021-10-01",110,"Transport","Benin",1
+"2021-10-01",120,"Energy","Saudi Arabia",1
+"2021-10-01",180,"Transport","Bangladesh",1
+"2021-10-01",390,"Transport","Serbia",1
+"2021-10-01",3810,"Utilities","Serbia",1
+"2021-10-01",610,"Consumer","USA",0
+"2021-10-01",200,"Metals","Argentina",1
+"2021-10-01",110,"Consumer","Germany",0
+"2021-10-01",260,"Other","Japan",0
+"2021-10-01",110,"Transport","Greece",1
+"2021-10-01",340,"Other","Egypt",1
+"2021-10-01",280,"Finance","Germany",0
+"2021-10-01",2080,"Energy","Brazil",0
+"2021-10-01",770,"Metals","Canada",0
+"2021-10-01",150,"Energy","Bosnia",1
+"2021-09-01",110,"Energy","Zimbabwe",0
+"2021-09-01",110,"Energy","Indonesia",1
+"2021-09-01",390,"Chemicals","Kazakhstan",1
+"2021-09-01",230,"Transport","Bangladesh",1
+"2021-09-01",240,"Transport","Bangladesh",1
+"2021-09-01",100,"Metals","Kazakhstan",1
+"2021-09-01",220,"Energy","Chile",1
+"2021-09-01",130,"Energy","Ecuador",1
+"2021-09-01",910,"Energy","Iraq",1
+"2021-09-01",100,"Health","Canada",0
+"2021-09-01",140,"Metals","Indonesia",1
+"2021-09-01",200,"Logistics","Singapore",1
+"2021-09-01",500,"Energy","Vietnam",1
+"2021-09-01",120,"Logistics","Germany",0
+"2021-09-01",990,"Logistics","Denmark",0
+"2021-09-01",1700,"Transport","Israel",1
+"2021-09-01",230,"Metals","Indonesia",1
+"2021-09-01",240,"Metals","Democratic Republic of the Congo",1
+"2021-08-01",160,"Real estate","Ethiopia",1
+"2021-08-01",150,"Utilities","Peru",1
+"2021-08-01",7070,"Energy","Turkmenistan",1
+"2021-08-01",110,"Energy","Brazil",0
+"2021-08-01",290,"Chemicals","Russian Federation",1
+"2021-08-01",1790,"Transport","Guinea",1
+"2021-08-01",130,"Transport","Democratic Republic of the Congo",1
+"2021-08-01",230,"Health","Ghana",1
+"2021-08-01",2510,"Metals","Democratic Republic of the Congo",1
+"2021-08-01",3790,"Transport","Colombia",0
+"2021-08-01",440,"Energy","Kazakhstan",1
+"2021-08-01",460,"Transport","Japan",0
+"2021-08-01",120,"Transport","Brazil",0
+"2021-08-01",350,"Energy","Egypt",1
+"2021-08-01",160,"Energy","Jordan",1
+"2021-08-01",100,"Finance","Argentina",1
+"2021-08-01",210,"Metals","Mexico",0
+"2021-07-01",1690,"Transport","Nigeria",1
+"2021-07-01",110,"Other","Senegal",1
+"2021-07-01",160,"Utilities","Singapore",1
+"2021-07-01",290,"Energy","Argentina",1
+"2021-07-01",500,"Energy","Iraq",1
+"2021-07-01",240,"Energy","Nigeria",1
+"2021-07-01",120,"Metals","Kazakhstan",1
+"2021-07-01",100,"Utilities","Britain",0
+"2021-07-01",220,"Metals","Indonesia",1
+"2021-07-01",280,"Technology","USA",0
+"2021-07-01",520,"Energy","Brazil",0
+"2021-06-01",140,"Utilities","Pakistan",1
+"2021-06-01",930,"Metals","Indonesia",1
+"2021-06-01",440,"Real estate","Egypt",1
+"2021-06-01",260,"Metals","Guyana",1
+"2021-06-01",760,"Energy","Uzbekistan",1
+"2021-06-01",240,"Energy","Pakistan",1
+"2021-06-01",370,"Transport","Iraq",1
+"2021-06-01",1920,"Real estate","Egypt",1
+"2021-06-01",110,"Logistics","Ethiopia",1
+"2021-06-01",110,"Transport","Sweden",0
+"2021-06-01",200,"Real estate","Canada",0
+"2021-06-01",130,"Agriculture","Slovakia",1
+"2021-06-01",700,"Metals","South Africa",1
+"2021-06-01",150,"Real estate","Zambia",1
+"2021-06-01",130,"Metals","Mali",1
+"2021-06-01",2940,"Energy","Brazil",0
+"2021-06-01",1220,"Energy","Saudi Arabia",1
+"2021-05-01",420,"Transport","Nepal",1
+"2021-05-01",750,"Transport","Peru",1
+"2021-05-01",200,"Energy","Saudi Arabia",1
+"2021-05-01",790,"Transport","Singapore",1
+"2021-05-01",180,"Energy","Uruguay",1
+"2021-05-01",170,"Entertainment","Australia",0
+"2021-05-01",140,"Real estate","Singapore",1
+"2021-05-01",160,"Energy","Pakistan",1
+"2021-05-01",350,"Energy","Pakistan",1
+"2021-05-01",160,"Other","Ethiopia",1
+"2021-05-01",950,"Metals","Zimbabwe",1
+"2021-05-01",220,"Health","Chile",1
+"2021-05-01",660,"Health","Finland",0
+"2021-05-01",210,"Consumer","Vietnam",1
+"2021-04-01",360,"Energy","Bangladesh",1
+"2021-04-01",210,"Energy","Argentina",1
+"2021-04-01",320,"Real estate","Singapore",1
+"2021-04-01",190,"Transport","Singapore",1
+"2021-04-01",300,"Energy","Australia",0
+"2021-04-01",380,"Transport","Thailand",1
+"2021-04-01",120,"Transport","Serbia",1
+"2021-04-01",190,"Energy","Saudi Arabia",1
+"2021-04-01",100,"Energy","Saudi Arabia",1
+"2021-04-01",170,"Transport","Kenya",1
+"2021-04-01",170,"Energy","Myanmar",1
+"2021-04-01",1300,"Logistics","Indonesia",1
+"2021-04-01",100,"Technology","Germany",0
+"2021-04-01",200,"Energy","Uganda",1
+"2021-04-01",790,"Energy","Tanzania",1
+"2021-04-01",350,"Consumer","Turkey",1
+"2021-04-01",410,"Metals","Serbia",1
+"2021-04-01",190,"Transport","France",0
+"2021-04-01",800,"Transport","Chile",1
+"2021-03-01",1360,"Energy","Indonesia",1
+"2021-03-01",470,"Energy","Pakistan",1
+"2021-03-01",900,"Energy","Russian Federation",1
+"2021-03-01",130,"Transport","Singapore",1
+"2021-03-01",120,"Energy","Saudi Arabia",1
+"2021-03-01",170,"Other","Ethiopia",1
+"2021-03-01",290,"Energy","Sweden",0
+"2021-03-01",160,"Consumer","Britain",0
+"2021-03-01",300,"Other","Malaysia",1
+"2021-03-01",140,"Health","Britain",0
+"2021-03-01",140,"Technology","Singapore",1
+"2021-03-01",650,"Consumer","Japan",0
+"2021-03-01",260,"Consumer","Mexico",0
+"2021-03-01",200,"Transport","Japan",0
+"2021-03-01",4380,"Consumer","Netherlands",0
+"2021-02-01",360,"Transport","Singapore",1
+"2021-02-01",100,"Real estate","Saudi Arabia",1
+"2021-02-01",240,"Agriculture","Sri Lanka",1
+"2021-02-01",360,"Energy","Kuwait",1
+"2021-02-01",1320,"Transport","Tanzania",1
+"2021-02-01",160,"Chemicals","USA",0
+"2021-02-01",120,"Health","Britain",0
+"2021-02-01",140,"Logistics","Saudi Arabia",1
+"2021-02-01",420,"Energy","USA",0
+"2021-02-01",560,"Energy","Peru",1
+"2021-02-01",590,"Energy","Spain",0
+"2021-01-01",150,"Real estate","Saudi Arabia",1
+"2021-01-01",430,"Energy","Vietnam",1
+"2021-01-01",450,"Chemicals","Russian Federation",1
+"2021-01-01",300,"Real estate","Guinea",1
+"2021-01-01",940,"Transport","Philippines",1
+"2021-01-01",140,"Energy","Gabon",1
+"2021-01-01",140,"Transport","Singapore",1
+"2021-01-01",400,"Energy","Cambodia",1
+"2021-01-01",430,"Transport","Vietnam",1
+"2021-01-01",360,"Chemicals","Russian Federation",1
+"2020-12-01",130,"Transport","Nepal",1
+"2020-12-01",710,"Transport","Serbia",1
+"2020-12-01",890,"Energy","UAE",1
+"2020-12-01",420,"Transport","Thailand",1
+"2020-12-01",820,"Transport","Argentina",1
+"2020-12-01",150,"Transport","Uganda",1
+"2020-12-01",460,"Energy","Vietnam",1
+"2020-12-01",120,"Energy","Uzbekistan",1
+"2020-12-01",320,"Transport","Kazakhstan",1
+"2020-12-01",180,"Utilities","Singapore",1
+"2020-12-01",180,"Energy","Iraq",1
+"2020-12-01",240,"Energy","Vietnam",1
+"2020-12-01",1430,"Real estate","Sri Lanka",1
+"2020-12-01",2400,"Energy","Laos",1
+"2020-12-01",450,"Technology","France",0
+"2020-12-01",3420,"Entertainment","France",0
+"2020-12-01",180,"Health","Germany",0
+"2020-12-01",390,"Energy","Indonesia",1
+"2020-12-01",550,"Metals","Democratic Republic of the Congo",1
+"2020-12-01",320,"Health","Japan",0
+"2020-12-01",430,"Metals","Australia",0
+"2020-12-01",240,"Technology","France",0
+"2020-11-01",130,"Energy","Indonesia",1
+"2020-11-01",310,"Transport","Georgia",1
+"2020-11-01",160,"Energy","Chile",1
+"2020-11-01",200,"Real estate","Uzbekistan",1
+"2020-11-01",180,"Technology","Ghana",1
+"2020-11-01",520,"Energy","UAE",1
+"2020-11-01",540,"Transport","Australia",0
+"2020-11-01",410,"Transport","Cambodia",1
+"2020-11-01",530,"Energy","Mexico",0
+"2020-11-01",440,"Metals","Indonesia",1
+"2020-11-01",160,"Consumer","USA",0
+"2020-11-01",200,"Real estate","Portugal",1
+"2020-11-01",110,"Technology","Israel",1
+"2020-11-01",670,"Energy","Cambodia",1
+"2020-11-01",670,"Real estate","Australia",0
+"2020-11-01",300,"Transport","Sri Lanka",1
+"2020-11-01",140,"Health","USA",0
+"2020-11-01",300,"Consumer","Britain",0
+"2020-11-01",3030,"Energy","Chile",1
+"2020-11-01",320,"Energy","Vietnam",1
+"2020-10-01",310,"Energy","Vietnam",1
+"2020-10-01",400,"Transport","Nigeria",1
+"2020-10-01",380,"Logistics","Egypt",1
+"2020-10-01",110,"Transport","Ivory Coast",1
+"2020-10-01",450,"Agriculture","Russian Federation",1
+"2020-10-01",890,"Chemicals","Russian Federation",1
+"2020-10-01",1240,"Transport","Brazil",0
+"2020-10-01",240,"Health","USA",0
+"2020-10-01",120,"Logistics","Belgium",0
+"2020-10-01",580,"Agriculture","Italy",1
+"2020-10-01",510,"Transport","Djibouti",1
+"2020-10-01",750,"Logistics","Vietnam",1
+"2020-10-01",180,"Tourism","Switzerland",0
+"2020-10-01",780,"Consumer","USA",0
+"2020-09-01",130,"Transport","Uganda",1
+"2020-09-01",120,"Real estate","New Zealand",1
+"2020-09-01",130,"Transport","New Zealand",1
+"2020-09-01",280,"Transport","Thailand",1
+"2020-09-01",370,"Other","Australia",0
+"2020-09-01",130,"Other","Pakistan",1
+"2020-09-01",400,"Energy","Oman",1
+"2020-09-01",180,"Energy","Vietnam",1
+"2020-09-01",1260,"Transport","Philippines",1
+"2020-09-01",150,"Real estate","Cambodia",1
+"2020-09-01",390,"Chemicals","UAE",1
+"2020-09-01",110,"Energy","Niger",1
+"2020-09-01",140,"Energy","UAE",1
+"2020-09-01",150,"Real estate","Canada",0
+"2020-09-01",780,"Transport","Peru",1
+"2020-09-01",740,"Transport","Thailand",1
+"2020-09-01",540,"Transport","Russian Federation",1
+"2020-09-01",740,"Finance","Britain",0
+"2020-08-01",600,"Transport","Cambodia",1
+"2020-08-01",520,"Agriculture","Belarus",1
+"2020-08-01",560,"Energy","UAE",1
+"2020-08-01",430,"Logistics","Ivory Coast",1
+"2020-08-01",1220,"Energy","Saudi Arabia",1
+"2020-08-01",530,"Transport","Poland",1
+"2020-08-01",130,"Transport","Ethiopia",1
+"2020-08-01",300,"Real estate","Senegal",1
+"2020-08-01",410,"Chemicals","Oman",1
+"2020-08-01",380,"Transport","Brazil",0
+"2020-08-01",160,"Metals","Indonesia",1
+"2020-08-01",300,"Other","Bangladesh",1
+"2020-08-01",290,"Energy","Australia",0
+"2020-08-01",100,"Metals","Australia",0
+"2020-08-01",330,"Entertainment","France",0
+"2020-08-01",260,"Energy","Brazil",0
+"2020-08-01",610,"Energy","Spain",0
+"2020-07-01",740,"Transport","Mexico",0
+"2020-07-01",100,"Transport","Ethiopia",1
+"2020-07-01",330,"Utilities","Singapore",1
+"2020-07-01",120,"Transport","Bangladesh",1
+"2020-07-01",120,"Transport","UAE",1
+"2020-07-01",100,"Transport","Tanzania",1
+"2020-07-01",600,"Technology","USA",0
+"2020-07-01",260,"Energy","Portugal",1
+"2020-07-01",320,"Energy","Malaysia",1
+"2020-07-01",180,"Finance","Argentina",1
+"2020-07-01",180,"Energy","UAE",1
+"2020-07-01",1230,"Energy","Pakistan",1
+"2020-06-01",120,"Transport","Trinidad-Tobago",1
+"2020-06-01",180,"Energy","Bangladesh",1
+"2020-06-01",290,"Real estate","Qatar",1
+"2020-06-01",1930,"Energy","Pakistan",1
+"2020-06-01",180,"Transport","Serbia",1
+"2020-06-01",120,"Energy","Bosnia",1
+"2020-06-01",380,"Transport","Sweden",0
+"2020-06-01",280,"Real estate","Myanmar",1
+"2020-06-01",760,"Technology","South Korea",1
+"2020-06-01",490,"Other","Singapore",1
+"2020-06-01",200,"Entertainment","USA",0
+"2020-06-01",190,"Technology","Japan",0
+"2020-06-01",240,"Metals","Guyana",1
+"2020-05-01",110,"Energy","Panama",1
+"2020-05-01",430,"Utilities","Saudi Arabia",1
+"2020-05-01",140,"Transport","Laos",1
+"2020-05-01",170,"Transport","Australia",0
+"2020-05-01",120,"Logistics","Algeria",1
+"2020-05-01",1370,"Transport","Indonesia",1
+"2020-05-01",130,"Health","Zambia",1
+"2020-05-01",550,"Energy","Zambia",1
+"2020-05-01",1400,"Energy","Vietnam",1
+"2020-05-01",600,"Real estate","Singapore",1
+"2020-05-01",180,"Transport","Norway",0
+"2020-04-01",500,"Energy","Thailand",1
+"2020-04-01",320,"Energy","Laos",1
+"2020-04-01",160,"Entertainment","Cambodia",1
+"2020-04-01",930,"Energy","Ghana",1
+"2020-04-01",100,"Transport","Uzbekistan",1
+"2020-04-01",320,"Utilities","Singapore",1
+"2020-04-01",110,"Metals","Bosnia",1
+"2020-04-01",250,"Finance","Australia",0
+"2020-03-01",860,"Chemicals","Belarus",1
+"2020-03-01",320,"Utilities","Oman",1
+"2020-03-01",120,"Other","Peru",1
+"2020-03-01",830,"Transport","Zambia",1
+"2020-03-01",190,"Transport","Cambodia",1
+"2020-03-01",190,"Technology","Philippines",1
+"2020-03-01",130,"Energy","Bangladesh",1
+"2020-03-01",630,"Energy","Zimbabwe",1
+"2020-03-01",260,"Transport","Bangladesh",1
+"2020-03-01",240,"Energy","Ukraine",1
+"2020-03-01",200,"Energy","Iraq",1
+"2020-03-01",140,"Agriculture","Indonesia",1
+"2020-03-01",180,"Energy","Australia",0
+"2020-03-01",300,"Energy","Indonesia",1
+"2020-03-01",100,"Transport","Germany",0
+"2020-03-01",1120,"Logistics","Australia",0
+"2020-03-01",530,"Metals","Indonesia",1
+"2020-03-01",220,"Transport","Nigeria",1
+"2020-03-01",310,"Health","Japan",0
+"2020-03-01",140,"Other","Malaysia",1
+"2020-03-01",100,"Finance","India",0
+"2020-03-01",140,"Health","Germany",0
+"2020-03-01",890,"Technology","Netherlands",0
+"2020-02-01",100,"Real estate","Singapore",1
+"2020-02-01",380,"Energy","Indonesia",1
+"2020-02-01",990,"Transport","Nigeria",1
+"2020-02-01",460,"Energy","Qatar",1
+"2020-02-01",100,"Energy","Poland",1
+"2020-02-01",230,"Transport","UAE",1
+"2020-02-01",1040,"Metals","Indonesia",1
+"2020-02-01",180,"Transport","USA",0
+"2020-02-01",180,"Real estate","Australia",0
+"2020-02-01",860,"Transport","Bangladesh",1
+"2020-02-01",200,"Transport","Thailand",1
+"2020-02-01",360,"Metals","Serbia",1
+"2020-01-01",310,"Real estate","Tajikistan",1
+"2020-01-01",840,"Energy","Nigeria",1
+"2020-01-01",140,"Transport","Kenya",1
+"2020-01-01",520,"Metals","Indonesia",1
+"2020-01-01",750,"Energy","Vietnam",1
+"2020-01-01",140,"Transport","India",0
+"2020-01-01",1100,"Metals","Guinea",1
+"2020-01-01",100,"Other","Kuwait",1
+"2020-01-01",290,"Energy","Egypt",1
+"2020-01-01",1190,"Energy","Cambodia",1
+"2020-01-01",240,"Metals","Democratic Republic of the Congo",1
+"2020-01-01",140,"Real estate","Zambia",1
+"2020-01-01",100,"Real estate","Namibia",1
+"2020-01-01",260,"Real estate","Britain",0
+"2020-01-01",130,"Finance","Switzerland",0
+"2020-01-01",150,"Metals","Britain",0
+"2020-01-01",110,"Entertainment","Norway",0
+"2020-01-01",890,"Transport","Colombia",0
+"2019-12-01",220,"Energy","Pakistan",1
+"2019-12-01",310,"Metals","Malaysia",1
+"2019-12-01",120,"Energy","Algeria",1
+"2019-12-01",280,"Metals","Tanzania",1
+"2019-12-01",190,"Transport","Thailand",1
+"2019-12-01",850,"Chemicals","Egypt",1
+"2019-12-01",600,"Transport","UAE",1
+"2019-12-01",170,"Transport","Cyprus",1
+"2019-12-01",420,"Transport","Ecuador",1
+"2019-12-01",140,"Energy","Saudi Arabia",1
+"2019-12-01",160,"Transport","Singapore",1
+"2019-12-01",140,"Transport","Singapore",1
+"2019-12-01",110,"Real estate","UAE",1
+"2019-12-01",690,"Real estate","Bahrain",1
+"2019-12-01",160,"Transport","Australia",0
+"2019-12-01",100,"Transport","Australia",0
+"2019-12-01",360,"Real estate","Philippines",1
+"2019-12-01",1100,"Utilities","Saudi Arabia",1
+"2019-12-01",100,"Consumer","Mexico",0
+"2019-12-01",120,"Health","Britain",0
+"2019-12-01",420,"Transport","Kenya",1
+"2019-12-01",2750,"Transport","Germany",0
+"2019-12-01",3500,"Metals","Philippines",1
+"2019-12-01",2910,"Energy","Nigeria",1
+"2019-12-01",290,"Other","Malaysia",1
+"2019-12-01",170,"Metals","France",0
+"2019-12-01",600,"Metals","Indonesia",1
+"2019-12-01",280,"Real estate","Spain",0
+"2019-12-01",3130,"Entertainment","France",0
+"2019-12-01",400,"Energy","Guyana",1
+"2019-12-01",240,"Finance","Belgium",0
+"2019-12-01",340,"Real estate","Malaysia",1
+"2019-12-01",970,"Energy","Oman",1
+"2019-12-01",120,"Technology","USA",0
+"2019-12-01",170,"Technology","Netherlands",0
+"2019-12-01",100,"Consumer","India",0
+"2019-12-01",120,"Real estate","USA",0
+"2019-12-01",1030,"Metals","Canada",0
+"2019-12-01",1120,"Metals","Canada",0
+"2019-11-01",350,"Transport","Serbia",1
+"2019-11-01",360,"Agriculture","Angola",1
+"2019-11-01",500,"Entertainment","Australia",0
+"2019-11-01",540,"Transport","Singapore",1
+"2019-11-01",190,"Tourism","Cambodia",1
+"2019-11-01",340,"Energy","Pakistan",1
+"2019-11-01",1660,"Transport","Nigeria",1
+"2019-11-01",110,"Real estate","Uzbekistan",1
+"2019-11-01",190,"Transport","Poland",1
+"2019-11-01",370,"Utilities","UAE",1
+"2019-11-01",290,"Energy","Sri Lanka",1
+"2019-11-01",100,"Energy","Bangladesh",1
+"2019-11-01",110,"Energy","Turkey",1
+"2019-11-01",400,"Energy","Saudi Arabia",1
+"2019-11-01",140,"Energy","Iraq",1
+"2019-11-01",540,"Transport","Singapore",1
+"2019-11-01",140,"Transport","Ethiopia",1
+"2019-11-01",120,"Energy","Iraq",1
+"2019-11-01",980,"Energy","Iraq",1
+"2019-11-01",110,"Real estate","Cambodia",1
+"2019-11-01",300,"Other","Malaysia",1
+"2019-11-01",150,"Finance","India",0
+"2019-11-01",100,"Real estate","Australia",0
+"2019-11-01",150,"Transport","Sweden",0
+"2019-11-01",390,"Transport","Nigeria",1
+"2019-11-01",240,"Health","Ireland",0
+"2019-11-01",830,"Metals","Guinea",1
+"2019-11-01",300,"Energy","Singapore",1
+"2019-11-01",420,"Real estate","Singapore",1
+"2019-11-01",200,"Metals","Solomon Islands",1
+"2019-11-01",100,"Consumer","Nigeria",1
+"2019-11-01",1240,"Metals","Indonesia",1
+"2019-11-01",780,"Tourism","Germany",0
+"2019-11-01",380,"Metals","Serbia",1
+"2019-11-01",870,"Logistics","France",0
+"2019-11-01",400,"Consumer","India",0
+"2019-10-01",680,"Transport","Brazil",0
+"2019-10-01",780,"Energy","Bangladesh",1
+"2019-10-01",110,"Transport","Thailand",1
+"2019-10-01",230,"Transport","Singapore",1
+"2019-10-01",200,"Utilities","Singapore",1
+"2019-10-01",140,"Utilities","Angola",1
+"2019-10-01",330,"Transport","Australia",0
+"2019-10-01",2360,"Real estate","Bangladesh",1
+"2019-10-01",1120,"Energy","Ukraine",1
+"2019-10-01",190,"Energy","Cambodia",1
+"2019-10-01",220,"Energy","Uganda",1
+"2019-10-01",210,"Transport","Myanmar",1
+"2019-10-01",110,"Metals","Namibia",1
+"2019-10-01",150,"Energy","Nepal",1
+"2019-10-01",300,"Other","USA",0
+"2019-10-01",100,"Transport","Philippines",1
+"2019-10-01",320,"Metals","Australia",0
+"2019-10-01",1650,"Transport","Indonesia",1
+"2019-10-01",150,"Metals","Canada",0
+"2019-10-01",2230,"Energy","Chile",1
+"2019-10-01",980,"Agriculture","Australia",0
+"2019-09-01",1310,"Energy","Niger",1
+"2019-09-01",690,"Energy","Benin",1
+"2019-09-01",650,"Transport","Ghana",1
+"2019-09-01",520,"Transport","Israel",1
+"2019-09-01",140,"Metals","Indonesia",1
+"2019-09-01",100,"Transport","Senegal",1
+"2019-09-01",110,"Energy","Iraq",1
+"2019-09-01",340,"Transport","Singapore",1
+"2019-09-01",150,"Real estate","Tanzania",1
+"2019-09-01",1130,"Chemicals","India",0
+"2019-09-01",300,"Tourism","USA",0
+"2019-09-01",230,"Chemicals","Kazakhstan",1
+"2019-09-01",270,"Utilities","Ethiopia",1
+"2019-09-01",360,"Energy","Democratic Republic of the Congo",1
+"2019-09-01",290,"Other","Malaysia",1
+"2019-09-01",110,"Logistics","Belgium",0
+"2019-09-01",270,"Transport","Azerbaijan",1
+"2019-09-01",760,"Technology","Philippines",1
+"2019-09-01",120,"Real estate","India",0
+"2019-09-01",150,"Real estate","Tanzania",1
+"2019-09-01",420,"Transport","Netherlands",0
+"2019-09-01",100,"Health","Poland",1
+"2019-09-01",370,"Transport","Greece",1
+"2019-09-01",1030,"Energy","Brazil",0
+"2019-09-01",310,"Entertainment","India",0
+"2019-09-01",1320,"Energy","Turkey",1
+"2019-09-01",3590,"Energy","Peru",1
+"2019-08-01",580,"Energy","Australia",0
+"2019-08-01",210,"Real estate","Singapore",1
+"2019-08-01",110,"Real estate","Malaysia",1
+"2019-08-01",240,"Real estate","Indonesia",1
+"2019-08-01",120,"Transport","Georgia",1
+"2019-08-01",460,"Real estate","UAE",1
+"2019-08-01",970,"Energy","Tanzania",1
+"2019-08-01",150,"Energy","Kenya",1
+"2019-08-01",100,"Transport","Saudi Arabia",1
+"2019-08-01",270,"Transport","Tanzania",1
+"2019-08-01",100,"Other","Ivory Coast",1
+"2019-08-01",260,"Utilities","Saudi Arabia",1
+"2019-08-01",450,"Utilities","Zambia",1
+"2019-08-01",150,"Energy","Nigeria",1
+"2019-08-01",1540,"Transport","Iran",1
+"2019-08-01",180,"Metals","Argentina",1
+"2019-08-01",260,"Metals","Argentina",1
+"2019-08-01",100,"Technology","Chile",1
+"2019-08-01",100,"Technology","USA",0
+"2019-08-01",2210,"Technology","Britain",0
+"2019-08-01",270,"Entertainment","Finland",0
+"2019-08-01",340,"Consumer","Russian Federation",1
+"2019-08-01",150,"Metals","Indonesia",1
+"2019-08-01",170,"Metals","USA",0
+"2019-07-01",110,"Energy","Malaysia",1
+"2019-07-01",260,"Real estate","Singapore",1
+"2019-07-01",140,"Energy","Kazakhstan",1
+"2019-07-01",120,"Real estate","UAE",1
+"2019-07-01",220,"Real estate","Indonesia",1
+"2019-07-01",610,"Energy","Russian Federation",1
+"2019-07-01",250,"Utilities","France",0
+"2019-07-01",360,"Energy","Argentina",1
+"2019-07-01",840,"Chemicals","Egypt",1
+"2019-07-01",390,"Other","Singapore",1
+"2019-07-01",110,"Real estate","Russian Federation",1
+"2019-07-01",200,"Energy","Zimbabwe",1
+"2019-07-01",240,"Real estate","Kenya",1
+"2019-07-01",350,"Energy","Laos",1
+"2019-07-01",780,"Other","Saudi Arabia",1
+"2019-07-01",440,"Energy","Indonesia",1
+"2019-07-01",140,"Real estate","Singapore",1
+"2019-07-01",1250,"Technology","Italy",1
+"2019-07-01",120,"Metals","Serbia",1
+"2019-07-01",130,"Chemicals","Sweden",0
+"2019-07-01",100,"Energy","Australia",0
+"2019-07-01",120,"Technology","Singapore",1
+"2019-07-01",840,"Other","Taiwan",0
+"2019-07-01",140,"Energy","Argentina",1
+"2019-07-01",260,"Energy","Israel",1
+"2019-07-01",100,"Tourism","Australia",0
+"2019-07-01",190,"Other","Britain",0
+"2019-07-01",130,"Transport","Germany",0
+"2019-07-01",2750,"Transport","Germany",0
+"2019-06-01",230,"Finance","Uzbekistan",1
+"2019-06-01",280,"Energy","Democratic Republic of the Congo",1
+"2019-06-01",140,"Energy","Ukraine",1
+"2019-06-01",180,"Transport","Ethiopia",1
+"2019-06-01",600,"Transport","UAE",1
+"2019-06-01",200,"Tourism","Cambodia",1
+"2019-06-01",350,"Real estate","USA",0
+"2019-06-01",210,"Energy","Uganda",1
+"2019-06-01",120,"Real estate","UAE",1
+"2019-06-01",300,"Chemicals","Ghana",1
+"2019-06-01",100,"Transport","Bosnia",1
+"2019-06-01",320,"Agriculture","Cambodia",1
+"2019-06-01",1040,"Transport","Hungary",1
+"2019-06-01",8860,"Energy","Britain",0
+"2019-06-01",290,"Transport","Sweden",0
+"2019-06-01",210,"Energy","Democratic Republic of the Congo",1
+"2019-06-01",110,"Real estate","Australia",0
+"2019-06-01",110,"Energy","Hungary",1
+"2019-06-01",100,"Consumer","Finland",0
+"2019-06-01",960,"Energy","Saudi Arabia",1
+"2019-06-01",190,"Transport","Morocco",1
+"2019-06-01",450,"Agriculture","Britain",0
+"2019-06-01",740,"Other","India",0
+"2019-05-01",680,"Transport","Kazakhstan",1
+"2019-05-01",170,"Real estate","Singapore",1
+"2019-05-01",730,"Utilities","Bahrain",1
+"2019-05-01",210,"Transport","Moldova",1
+"2019-05-01",430,"Transport","Ivory Coast",1
+"2019-05-01",330,"Transport","Singapore",1
+"2019-05-01",460,"Utilities","UAE",1
+"2019-05-01",160,"Health","Trinidad-Tobago",1
+"2019-05-01",260,"Real estate","Iraq",1
+"2019-05-01",160,"Transport","Madagascar",1
+"2019-05-01",120,"Energy","Saudi Arabia",1
+"2019-05-01",110,"Transport","Ghana",1
+"2019-05-01",350,"Health","USA",0
+"2019-05-01",150,"Real estate","Uzbekistan",1
+"2019-05-01",100,"Other","Ethiopia",1
+"2019-05-01",100,"Other","Indonesia",1
+"2019-05-01",100,"Entertainment","India",0
+"2019-05-01",560,"Transport","Kazakhstan",1
+"2019-05-01",220,"Metals","Brazil",0
+"2019-05-01",250,"Transport","Nigeria",1
+"2019-05-01",1070,"Energy","Iraq",1
+"2019-05-01",260,"Other","USA",0
+"2019-04-01",220,"Transport","Mongolia",1
+"2019-04-01",140,"Agriculture","Singapore",1
+"2019-04-01",200,"Entertainment","UAE",1
+"2019-04-01",420,"Transport","Russian Federation",1
+"2019-04-01",100,"Real estate","Sri Lanka",1
+"2019-04-01",110,"Real estate","Singapore",1
+"2019-04-01",800,"Energy","Philippines",1
+"2019-04-01",960,"Energy","Pakistan",1
+"2019-04-01",1120,"Metals","Guinea",1
+"2019-04-01",130,"Utilities","Fiji",1
+"2019-04-01",500,"Transport","Ghana",1
+"2019-04-01",190,"Transport","UAE",1
+"2019-04-01",130,"Transport","Bulgaria",1
+"2019-04-01",240,"Agriculture","Kazakhstan",1
+"2019-04-01",160,"Real estate","Macedonia",1
+"2019-04-01",570,"Energy","Mongolia",1
+"2019-04-01",160,"Energy","Indonesia",1
+"2019-04-01",1290,"Energy","Pakistan",1
+"2019-04-01",540,"Metals","Tajikistan",1
+"2019-04-01",140,"Real estate","Australia",0
+"2019-04-01",790,"Energy","Bangladesh",1
+"2019-04-01",350,"Transport","Bosnia",1
+"2019-04-01",120,"Other","Pakistan",1
+"2019-04-01",220,"Metals","Australia",0
+"2019-04-01",140,"Real estate","Uzbekistan",1
+"2019-04-01",170,"Agriculture","Vietnam",1
+"2019-04-01",120,"Energy","Guinea",1
+"2019-04-01",170,"Technology","Kenya",1
+"2019-04-01",970,"Energy","Pakistan",1
+"2019-04-01",1090,"Tourism","India",0
+"2019-04-01",4040,"Energy","Russian Federation",1
+"2019-04-01",450,"Metals","Canada",0
+"2019-04-01",100,"Metals","Mexico",0
+"2019-03-01",600,"Real estate","Nigeria",1
+"2019-03-01",150,"Real estate","Myanmar",1
+"2019-03-01",170,"Energy","Iraq",1
+"2019-03-01",180,"Metals","Indonesia",1
+"2019-03-01",170,"Energy","Niger",1
+"2019-03-01",810,"Energy","Guinea",1
+"2019-03-01",240,"Utilities","Zimbabwe",1
+"2019-03-01",220,"Transport","Kuwait",1
+"2019-03-01",270,"Energy","UAE",1
+"2019-03-01",220,"Transport","Bangladesh",1
+"2019-03-01",210,"Transport","UAE",1
+"2019-03-01",230,"Entertainment","USA",0
+"2019-03-01",320,"Real estate","Australia",0
+"2019-03-01",690,"Finance","India",0
+"2019-03-01",490,"Consumer","India",0
+"2019-03-01",5050,"Entertainment","Finland",0
+"2019-03-01",110,"Other","Japan",0
+"2019-03-01",400,"Agriculture","New Zealand",1
+"2019-03-01",1950,"Transport","Cambodia",1
+"2019-03-01",1080,"Entertainment","Singapore",1
+"2019-03-01",100,"Metals","Russian Federation",1
+"2019-03-01",280,"Transport","France",0
+"2019-03-01",520,"Consumer","India",0
+"2019-03-01",1930,"Health","USA",0
+"2019-02-01",900,"Energy","Pakistan",1
+"2019-02-01",310,"Transport","Papua New Guinea",1
+"2019-02-01",1860,"Energy","India",0
+"2019-02-01",170,"Technology","Nepal",1
+"2019-02-01",150,"Energy","Iraq",1
+"2019-02-01",180,"Energy","Mexico",0
+"2019-02-01",270,"Utilities","Mongolia",1
+"2019-02-01",280,"Energy","Thailand",1
+"2019-02-01",320,"Energy","Greece",1
+"2019-02-01",130,"Energy","Vietnam",1
+"2019-02-01",700,"Transport","Bangladesh",1
+"2019-02-01",480,"Real estate","USA",0
+"2019-02-01",1480,"Chemicals","Russian Federation",1
+"2019-02-01",670,"Real estate","Saudi Arabia",1
+"2019-02-01",140,"Real estate","Canada",0
+"2019-02-01",1620,"Metals","Indonesia",1
+"2019-02-01",230,"Energy","Mexico",0
+"2019-02-01",220,"Other","Ethiopia",1
+"2019-02-01",370,"Energy","Argentina",1
+"2019-02-01",220,"Energy","Australia",0
+"2019-02-01",140,"Energy","Malaysia",1
+"2019-02-01",690,"Finance","Britain",0
+"2019-02-01",150,"Technology","USA",0
+"2019-01-01",590,"Energy","Saudi Arabia",1
+"2019-01-01",1220,"Transport","Madagascar",1
+"2019-01-01",450,"Transport","Singapore",1
+"2019-01-01",270,"Energy","Saudi Arabia",1
+"2019-01-01",520,"Energy","Vietnam",1
+"2019-01-01",110,"Other","Vietnam",1
+"2019-01-01",160,"Transport","Mongolia",1
+"2019-01-01",440,"Energy","Algeria",1
+"2019-01-01",130,"Transport","Ivory Coast",1
+"2019-01-01",260,"Transport","Cambodia",1
+"2019-01-01",250,"Real estate","Iraq",1
+"2019-01-01",200,"Technology","Argentina",1
+"2019-01-01",990,"Real estate","Tanzania",1
+"2019-01-01",110,"Finance","Peru",1
+"2019-01-01",400,"Energy","Philippines",1
+"2019-01-01",140,"Chemicals","USA",0
+"2019-01-01",340,"Transport","Indonesia",1
+"2019-01-01",260,"Technology","Vietnam",1
+"2019-01-01",300,"Transport","Philippines",1
+"2019-01-01",230,"Logistics","Peru",1
+"2019-01-01",330,"Metals","Singapore",1
+"2019-01-01",130,"Metals","Thailand",1
+"2019-01-01",610,"Transport","UAE",1
+"2019-01-01",320,"Transport","Sweden",0
+"2019-01-01",930,"Transport","Sweden",0
+"2019-01-01",780,"Energy","Brazil",0
+"2019-01-01",100,"Technology","India",0
+"2019-01-01",100,"Technology","Germany",0
+"2018-12-01",1760,"Energy","Pakistan",1
+"2018-12-01",150,"Transport","Thailand",1
+"2018-12-01",2360,"Transport","Malaysia",1
+"2018-12-01",170,"Energy","Myanmar",1
+"2018-12-01",2080,"Transport","Cambodia",1
+"2018-12-01",210,"Tourism","Zambia",1
+"2018-12-01",680,"Metals","Russian Federation",1
+"2018-12-01",100,"Transport","Lesotho",1
+"2018-12-01",240,"Transport","Ethiopia",1
+"2018-12-01",680,"Energy","Ukraine",1
+"2018-12-01",100,"Agriculture","Ethiopia",1
+"2018-12-01",180,"Transport","Bangladesh",1
+"2018-12-01",1170,"Metals","Azerbaijan",1
+"2018-12-01",300,"Energy","Saudi Arabia",1
+"2018-12-01",250,"Real estate","Philippines",1
+"2018-12-01",230,"Real estate","Zambia",1
+"2018-12-01",160,"Transport","Tanzania",1
+"2018-12-01",140,"Real estate","Britain",0
+"2018-12-01",3020,"Transport","Saudi Arabia",1
+"2018-12-01",920,"Metals","Ecuador",1
+"2018-12-01",950,"Transport","Serbia",1
+"2018-12-01",180,"Transport","Vietnam",1
+"2018-12-01",110,"Entertainment","Germany",0
+"2018-12-01",150,"Consumer","India",0
+"2018-12-01",120,"Other","Zimbabwe",1
+"2018-12-01",130,"Technology","Canada",0
+"2018-12-01",1780,"Energy","Britain",0
+"2018-12-01",2040,"Other","USA",0
+"2018-12-01",280,"Transport","Germany",0
+"2018-12-01",560,"Technology","India",0
+"2018-12-01",880,"Technology","Netherlands",0
+"2018-12-01",150,"Metals","Democratic Republic of the Congo",1
+"2018-12-01",250,"Real estate","Zambia",1
+"2018-12-01",360,"Other","Vietnam",1
+"2018-11-01",780,"Energy","Bangladesh",1
+"2018-11-01",350,"Energy","Ivory Coast",1
+"2018-11-01",150,"Other","Ivory Coast",1
+"2018-11-01",340,"Metals","Greece",1
+"2018-11-01",100,"Other","Trinidad-Tobago",1
+"2018-11-01",230,"Real estate","Ivory Coast",1
+"2018-11-01",140,"Utilities","Malaysia",1
+"2018-11-01",100,"Energy","Iraq",1
+"2018-11-01",150,"Transport","Nepal",1
+"2018-11-01",370,"Transport","Peru",1
+"2018-11-01",110,"Real estate","Zimbabwe",1
+"2018-11-01",230,"Energy","Philippines",1
+"2018-11-01",270,"Transport","Philippines",1
+"2018-11-01",160,"Energy","Iraq",1
+"2018-11-01",120,"Real estate","Britain",0
+"2018-11-01",230,"Energy","Colombia",0
+"2018-11-01",340,"Technology","India",0
+"2018-11-01",190,"Consumer","India",0
+"2018-11-01",910,"Transport","Myanmar",1
+"2018-11-01",490,"Real estate","USA",0
+"2018-11-01",200,"Real estate","Uzbekistan",1
+"2018-11-01",2360,"Metals","Peru",1
+"2018-11-01",100,"Energy","Japan",0
+"2018-11-01",200,"Other","Zambia",1
+"2018-11-01",270,"Other","Germany",0
+"2018-11-01",830,"Agriculture","Chile",1
+"2018-11-01",2300,"Finance","Britain",0
+"2018-10-01",140,"Energy","Cuba",1
+"2018-10-01",610,"Real estate","South Korea",1
+"2018-10-01",140,"Other","Ethiopia",1
+"2018-10-01",350,"Energy","Philippines",1
+"2018-10-01",220,"Transport","UAE",1
+"2018-10-01",250,"Real estate","Singapore",1
+"2018-10-01",170,"Energy","Nepal",1
+"2018-10-01",150,"Real estate","Saudi Arabia",1
+"2018-10-01",100,"Technology","UAE",1
+"2018-10-01",100,"Chemicals","Bolivia",1
+"2018-10-01",400,"Agriculture","Bangladesh",1
+"2018-10-01",220,"Energy","Croatia",1
+"2018-10-01",4170,"Transport","Laos",1
+"2018-10-01",340,"Real estate","Australia",0
+"2018-10-01",110,"Energy","Australia",0
+"2018-10-01",150,"Energy","Britain",0
+"2018-10-01",120,"Energy","Australia",0
+"2018-10-01",550,"Consumer","Italy",1
+"2018-10-01",210,"Agriculture","India",0
+"2018-10-01",100,"Finance","Brazil",0
+"2018-10-01",180,"Finance","Brazil",0
+"2018-10-01",270,"Entertainment","Zambia",1
+"2018-10-01",2830,"Energy","Canada",0
+"2018-09-01",3050,"Real estate","Egypt",1
+"2018-09-01",670,"Other","Egypt",1
+"2018-09-01",490,"Logistics","Timor-Leste",1
+"2018-09-01",120,"Transport","Bolivia",1
+"2018-09-01",140,"Real estate","UAE",1
+"2018-09-01",390,"Transport","India",0
+"2018-09-01",340,"Energy","Ukraine",1
+"2018-09-01",200,"Transport","Ghana",1
+"2018-09-01",400,"Energy","Kenya",1
+"2018-09-01",200,"Energy","Gabon",1
+"2018-09-01",400,"Real estate","USA",0
+"2018-09-01",980,"Energy","Pakistan",1
+"2018-09-01",300,"Real estate","Indonesia",1
+"2018-09-01",150,"Logistics","Russian Federation",1
+"2018-09-01",360,"Energy","Venezuela",1
+"2018-09-01",300,"Transport","Thailand",1
+"2018-09-01",690,"Other","USA",0
+"2018-09-01",650,"Energy","Kuwait",1
+"2018-09-01",100,"Health","Israel",1
+"2018-09-01",440,"Technology","Malaysia",1
+"2018-09-01",480,"Technology","Russian Federation",1
+"2018-09-01",110,"Consumer","Netherlands",0
+"2018-09-01",260,"Other","Serbia",1
+"2018-09-01",200,"Other","Nigeria",1
+"2018-09-01",950,"Finance","Britain",0
+"2018-09-01",610,"Metals","Indonesia",1
+"2018-09-01",1410,"Metals","Canada",0
+"2018-08-01",230,"Energy","Kenya",1
+"2018-08-01",160,"Real estate","Singapore",1
+"2018-08-01",140,"Transport","Mongolia",1
+"2018-08-01",150,"Energy","Indonesia",1
+"2018-08-01",410,"Chemicals","Saudi Arabia",1
+"2018-08-01",300,"Transport","Kenya",1
+"2018-08-01",280,"Utilities","Bangladesh",1
+"2018-08-01",180,"Real estate","Malaysia",1
+"2018-08-01",290,"Energy","Nigeria",1
+"2018-08-01",320,"Energy","Oman",1
+"2018-08-01",110,"Real estate","Uganda",1
+"2018-08-01",350,"Real estate","UAE",1
+"2018-08-01",2130,"Transport","Argentina",1
+"2018-08-01",200,"Technology","Papua New Guinea",1
+"2018-08-01",1390,"Energy","Peru",1
+"2018-08-01",200,"Technology","India",0
+"2018-08-01",1070,"Transport","Japan",0
+"2018-08-01",160,"Transport","Canada",0
+"2018-08-01",220,"Health","Britain",0
+"2018-08-01",170,"Other","USA",0
+"2018-08-01",180,"Other","Egypt",1
+"2018-08-01",2130,"Metals","Bangladesh",1
+"2018-08-01",690,"Metals","Serbia",1
+"2018-08-01",540,"Agriculture","Netherlands",0
+"2018-07-01",370,"Logistics","Djibouti",1
+"2018-07-01",820,"Energy","Ivory Coast",1
+"2018-07-01",220,"Transport","Serbia",1
+"2018-07-01",210,"Real estate","USA",0
+"2018-07-01",740,"Transport","Australia",0
+"2018-07-01",100,"Real estate","Belarus",1
+"2018-07-01",300,"Metals","Sierra Leone",1
+"2018-07-01",130,"Transport","Rwanda",1
+"2018-07-01",330,"Utilities","Bangladesh",1
+"2018-07-01",1060,"Energy","Kuwait",1
+"2018-07-01",560,"Energy","Saudi Arabia",1
+"2018-07-01",1600,"Energy","UAE",1
+"2018-07-01",2760,"Transport","Bangladesh",1
+"2018-07-01",100,"Transport","Philippines",1
+"2018-07-01",1520,"Transport","Panama",1
+"2018-07-01",840,"Real estate","Malaysia",1
+"2018-07-01",120,"Real estate","Australia",0
+"2018-07-01",100,"Transport","USA",0
+"2018-07-01",100,"Transport","USA",0
+"2018-07-01",170,"Real estate","USA",0
+"2018-07-01",640,"Other","Laos",1
+"2018-07-01",160,"Other","Kazakhstan",1
+"2018-07-01",710,"Energy","Sweden",0
+"2018-07-01",930,"Energy","UAE",1
+"2018-07-01",250,"Energy","Venezuela",1
+"2018-07-01",500,"Chemicals","Jordan",1
+"2018-07-01",470,"Utilities","Luxembourg",1
+"2018-07-01",2440,"Technology","Britain",0
+"2018-07-01",2570,"Technology","France",0
+"2018-07-01",110,"Transport","Britain",0
+"2018-06-01",160,"Energy","Kazakhstan",1
+"2018-06-01",160,"Metals","Democratic Republic of the Congo",1
+"2018-06-01",390,"Energy","Vietnam",1
+"2018-06-01",110,"Utilities","Bolivia",1
+"2018-06-01",1490,"Energy","Zimbabwe",1
+"2018-06-01",140,"Health","Britain",0
+"2018-06-01",120,"Consumer","USA",0
+"2018-06-01",310,"Energy","Canada",0
+"2018-06-01",370,"Entertainment","Singapore",1
+"2018-06-01",280,"Metals","Laos",1
+"2018-06-01",710,"Transport","Germany",0
+"2018-06-01",650,"Other","Germany",0
+"2018-06-01",200,"Transport","Singapore",1
+"2018-06-01",190,"Other","Switzerland",0
+"2018-06-01",160,"Transport","USA",0
+"2018-06-01",150,"Health","USA",0
+"2018-06-01",1300,"Metals","Peru",1
+"2018-06-01",100,"Entertainment","USA",0
+"2018-06-01",1430,"Health","Australia",0
+"2018-06-01",560,"Metals","Canada",0
+"2018-06-01",860,"Transport","USA",0
+"2018-06-01",240,"Energy","Chile",1
+"2018-05-01",200,"Transport","Zambia",1
+"2018-05-01",130,"Utilities","Panama",1
+"2018-05-01",240,"Transport","Ivory Coast",1
+"2018-05-01",100,"Energy","Indonesia",1
+"2018-05-01",1350,"Energy","Iraq",1
+"2018-05-01",130,"Energy","Kenya",1
+"2018-05-01",260,"Energy","Pakistan",1
+"2018-05-01",220,"Transport","Cambodia",1
+"2018-05-01",330,"Health","Australia",0
+"2018-05-01",130,"Real estate","Singapore",1
+"2018-05-01",100,"Metals","Indonesia",1
+"2018-05-01",460,"Energy","Australia",0
+"2018-05-01",220,"Energy","Iraq",1
+"2018-05-01",930,"Energy","Guyana",1
+"2018-05-01",980,"Energy","Zimbabwe",1
+"2018-05-01",450,"Transport","Germany",0
+"2018-05-01",390,"Metals","Indonesia",1
+"2018-05-01",110,"Energy","Indonesia",1
+"2018-05-01",4070,"Metals","Chile",1
+"2018-05-01",130,"Other","France",0
+"2018-05-01",200,"Technology","Netherlands",0
+"2018-05-01",180,"Health","USA",0
+"2018-05-01",190,"Utilities","Brazil",0
+"2018-05-01",350,"Finance","Czech Republic",1
+"2018-05-01",560,"Tourism","France",0
+"2018-05-01",230,"Chemicals","Netherlands",0
+"2018-05-01",180,"Other","USA",0
+"2018-05-01",240,"Agriculture","Taiwan",0
+"2018-05-01",630,"Consumer","Norway",0
+"2018-05-01",340,"Consumer","Slovenia",1
+"2018-05-01",540,"Health","Britain",0
+"2018-04-01",2120,"Transport","Malaysia",1
+"2018-04-01",180,"Energy","Egypt",1
+"2018-04-01",600,"Energy","Laos",1
+"2018-04-01",150,"Transport","Tanzania",1
+"2018-04-01",190,"Real estate","Russian Federation",1
+"2018-04-01",280,"Energy","Pakistan",1
+"2018-04-01",150,"Transport","Zimbabwe",1
+"2018-04-01",180,"Energy","Mongolia",1
+"2018-04-01",140,"Energy","Kuwait",1
+"2018-04-01",120,"Energy","Ukraine",1
+"2018-04-01",1930,"Energy","UAE",1
+"2018-04-01",110,"Health","Laos",1
+"2018-04-01",210,"Energy","Ukraine",1
+"2018-04-01",340,"Transport","Croatia",1
+"2018-04-01",230,"Real estate","Qatar",1
+"2018-04-01",220,"Real estate","Kuwait",1
+"2018-04-01",300,"Transport","Cambodia",1
+"2018-04-01",1230,"Transport","Laos",1
+"2018-04-01",1690,"Entertainment","Sweden",0
+"2018-04-01",280,"Energy","Australia",0
+"2018-04-01",110,"Real estate","Australia",0
+"2018-04-01",110,"Real estate","Britain",0
+"2018-04-01",200,"Energy","Australia",0
+"2018-04-01",360,"Energy","Bangladesh",1
+"2018-04-01",120,"Energy","UAE",1
+"2018-04-01",190,"Energy","Brazil",0
+"2018-04-01",370,"Energy","India",0
+"2018-04-01",550,"Technology","Nigeria",1
+"2018-04-01",190,"Health","France",0
+"2018-04-01",390,"Health","Ireland",0
+"2018-04-01",320,"Agriculture","France",0
+"2018-04-01",210,"Utilities","Australia",0
+"2018-04-01",150,"Consumer","Pakistan",1
+"2018-04-01",320,"Consumer","Thailand",1
+"2018-04-01",140,"Other","USA",0
+"2018-04-01",470,"Health","Australia",0
+"2018-03-01",480,"Transport","Nigeria",1
+"2018-03-01",310,"Transport","Tanzania",1
+"2018-03-01",210,"Transport","Bangladesh",1
+"2018-03-01",470,"Transport","Costa Rica",1
+"2018-03-01",130,"Real estate","Algeria",1
+"2018-03-01",470,"Transport","Senegal",1
+"2018-03-01",410,"Transport","Guinea",1
+"2018-03-01",120,"Logistics","Egypt",1
+"2018-03-01",120,"Energy","Indonesia",1
+"2018-03-01",890,"Energy","Cameroon",1
+"2018-03-01",150,"Energy","Nepal",1
+"2018-03-01",420,"Metals","Bolivia",1
+"2018-03-01",270,"Energy","Saudi Arabia",1
+"2018-03-01",470,"Chemicals","Thailand",1
+"2018-03-01",530,"Energy","Brazil",0
+"2018-03-01",100,"Entertainment","USA",0
+"2018-03-01",100,"Utilities","Kazakhstan",1
+"2018-03-01",360,"Chemicals","USA",0
+"2018-03-01",230,"Real estate","Australia",0
+"2018-03-01",170,"Transport","Australia",0
+"2018-03-01",700,"Transport","Iran",1
+"2018-03-01",840,"Transport","Iran",1
+"2018-03-01",160,"Real estate","UAE",1
+"2018-03-01",210,"Metals","Argentina",1
+"2018-03-01",110,"Transport","Maldives",1
+"2018-03-01",170,"Consumer","New Zealand",1
+"2018-03-01",850,"Energy","Indonesia",1
+"2018-03-01",300,"Energy","Brazil",0
+"2018-03-01",300,"Finance","South Africa",1
+"2018-03-01",360,"Health","Italy",1
+"2018-03-01",230,"Transport","Thailand",1
+"2018-03-01",300,"Entertainment","Australia",0
+"2018-03-01",500,"Transport","Cambodia",1
+"2018-03-01",2000,"Consumer","Singapore",1
+"2018-03-01",610,"Other","Finland",0
+"2018-03-01",600,"Transport","South Korea",1
+"2018-03-01",460,"Entertainment","France",0
+"2018-03-01",500,"Transport","Sweden",0
+"2018-03-01",180,"Finance","Pakistan",1
+"2018-03-01",1180,"Energy","UAE",1
+"2018-03-01",100,"Energy","Botswana",1
+"2018-03-01",1330,"Energy","South Africa",1
+"2018-02-01",190,"Transport","Bolivia",1
+"2018-02-01",270,"Energy","Kenya",1
+"2018-02-01",460,"Transport","Nigeria",1
+"2018-02-01",350,"Energy","Moldova",1
+"2018-02-01",720,"Energy","Nigeria",1
+"2018-02-01",430,"Energy","Nigeria",1
+"2018-02-01",1140,"Real estate","UAE",1
+"2018-02-01",710,"Transport","Israel",1
+"2018-02-01",100,"Energy","Kenya",1
+"2018-02-01",320,"Real estate","Mauritius",0
+"2018-02-01",430,"Metals","Guinea",1
+"2018-02-01",140,"Energy","Laos",1
+"2018-02-01",1850,"Chemicals","USA",0
+"2018-02-01",160,"Health","USA",0
+"2018-02-01",360,"Energy","Ethiopia",1
+"2018-02-01",1160,"Metals","India",0
+"2018-02-01",220,"Metals","Congo",1
+"2018-02-01",9030,"Transport","Germany",0
+"2018-02-01",160,"Finance","Bangladesh",1
+"2018-02-01",100,"Real estate","Britain",0
+"2018-02-01",300,"Consumer","USA",0
+"2018-02-01",150,"Other","France",0
+"2018-02-01",310,"Energy","India",0
+"2018-02-01",180,"Finance","Britain",0
+"2018-02-01",550,"Health","Australia",0
+"2018-02-01",150,"Agriculture","India",0
+"2018-02-01",150,"Agriculture","India",0
+"2018-02-01",1260,"Entertainment","Spain",0
+"2018-01-01",420,"Energy","Russian Federation",1
+"2018-01-01",150,"Energy","Egypt",1
+"2018-01-01",220,"Transport","Trinidad-Tobago",1
+"2018-01-01",210,"Transport","South Sudan",1
+"2018-01-01",140,"Consumer","UAE",1
+"2018-01-01",170,"Real estate","Malaysia",1
+"2018-01-01",130,"Real estate","Indonesia",1
+"2018-01-01",100,"Metals","Vietnam",1
+"2018-01-01",320,"Metals","Indonesia",1
+"2018-01-01",600,"Transport","USA",0
+"2018-01-01",150,"Energy","Ecuador",1
+"2018-01-01",380,"Technology","Myanmar",1
+"2018-01-01",110,"Energy","Laos",1
+"2018-01-01",150,"Transport","Myanmar",1
+"2018-01-01",230,"Utilities","Tanzania",1
+"2018-01-01",540,"Transport","Iran",1
+"2018-01-01",240,"Real estate","Australia",0
+"2018-01-01",400,"Metals","Indonesia",1
+"2018-01-01",2460,"Transport","Indonesia",1
+"2018-01-01",240,"Transport","Australia",0
+"2018-01-01",290,"Energy","Australia",0
+"2018-01-01",490,"Other","USA",0
+"2018-01-01",140,"Energy","Serbia",1
+"2018-01-01",3270,"Transport","Sweden",0
+"2018-01-01",140,"Other","Laos",1
+"2018-01-01",100,"Energy","Australia",0
+"2018-01-01",140,"Real estate","Nepal",1
+"2018-01-01",160,"Energy","Vietnam",1
+"2018-01-01",920,"Real estate","USA",0
+"2018-01-01",490,"Consumer","France",0
+"2018-01-01",600,"Transport","Brazil",0
+"2018-01-01",1150,"Health","Germany",0
+"2018-01-01",150,"Entertainment","USA",0
+"2018-01-01",160,"Metals","Guinea",1
+"2018-01-01",470,"Metals","Netherlands",0
+"2018-01-01",1300,"Energy","Chile",1
+"2018-01-01",1120,"Transport","Sri Lanka",1
+"2017-12-01",1720,"Energy","Pakistan",1
+"2017-12-01",170,"Transport","Kazakhstan",1
+"2017-12-01",200,"Agriculture","Nigeria",1
+"2017-12-01",790,"Transport","Slovenia",1
+"2017-12-01",200,"Transport","Australia",0
+"2017-12-01",1670,"Energy","Philippines",1
+"2017-12-01",100,"Real estate","Singapore",1
+"2017-12-01",1070,"Transport","Australia",0
+"2017-12-01",110,"Transport","Malaysia",1
+"2017-12-01",210,"Tourism","Malaysia",1
+"2017-12-01",100,"Energy","Saudi Arabia",1
+"2017-12-01",1050,"Energy","Iran",1
+"2017-12-01",230,"Energy","Serbia",1
+"2017-12-01",200,"Energy","Cambodia",1
+"2017-12-01",150,"Energy","Zimbabwe",1
+"2017-12-01",400,"Energy","Cameroon",1
+"2017-12-01",1380,"Transport","Australia",0
+"2017-12-01",290,"Health","USA",0
+"2017-12-01",360,"Health","Italy",1
+"2017-12-01",210,"Real estate","Britain",0
+"2017-12-01",9660,"Finance","Britain",0
+"2017-12-01",740,"Energy","Britain",0
+"2017-12-01",190,"Energy","Uzbekistan",1
+"2017-11-01",110,"Energy","Uzbekistan",1
+"2017-11-01",130,"Energy","Myanmar",1
+"2017-11-01",100,"Energy","Montenegro",1
+"2017-11-01",220,"Energy","Peru",1
+"2017-11-01",1090,"Energy","Turkey",1
+"2017-11-01",310,"Utilities","Serbia",1
+"2017-11-01",390,"Agriculture","Zambia",1
+"2017-11-01",1520,"Energy","UAE",1
+"2017-11-01",160,"Real estate","Uzbekistan",1
+"2017-11-01",170,"Transport","Indonesia",1
+"2017-11-01",250,"Energy","Georgia",1
+"2017-11-01",1530,"Chemicals","Iran",1
+"2017-11-01",350,"Utilities","Singapore",1
+"2017-11-01",520,"Transport","Serbia",1
+"2017-11-01",500,"Transport","Kuwait",1
+"2017-11-01",240,"Real estate","Maldives",1
+"2017-11-01",360,"Energy","Kenya",1
+"2017-11-01",170,"Transport","Israel",1
+"2017-11-01",150,"Transport","Singapore",1
+"2017-11-01",110,"Energy","Peru",1
+"2017-11-01",100,"Energy","Russian Federation",1
+"2017-11-01",250,"Transport","Vietnam",1
+"2017-11-01",120,"Other","USA",0
+"2017-11-01",3440,"Energy","Brazil",0
+"2017-11-01",140,"Technology","Britain",0
+"2017-11-01",1640,"Energy","Greece",1
+"2017-11-01",2240,"Entertainment","USA",0
+"2017-11-01",110,"Entertainment","Japan",0
+"2017-11-01",1590,"Transport","Japan",0
+"2017-11-01",9060,"Logistics","Singapore",1
+"2017-11-01",220,"Technology","Japan",0
+"2017-10-01",220,"Utilities","Australia",0
+"2017-10-01",340,"Tourism","Malaysia",1
+"2017-10-01",210,"Energy","Serbia",1
+"2017-10-01",100,"Transport","Ukraine",1
+"2017-10-01",1230,"Real estate","South Africa",1
+"2017-10-01",1990,"Energy","Egypt",1
+"2017-10-01",180,"Utilities","Australia",0
+"2017-10-01",460,"Energy","Britain",0
+"2017-10-01",230,"Transport","Singapore",1
+"2017-10-01",470,"Entertainment","Singapore",1
+"2017-10-01",100,"Entertainment","USA",0
+"2017-10-01",500,"Energy","Russian Federation",1
+"2017-10-01",120,"Energy","Brazil",0
+"2017-10-01",360,"Energy","Canada",0
+"2017-10-01",270,"Agriculture","Australia",0
+"2017-10-01",400,"Transport","India",0
+"2017-10-01",1080,"Health","India",0
+"2017-10-01",340,"Finance","Denmark",0
+"2017-10-01",370,"Energy","Singapore",1
+"2017-09-01",3660,"Energy","Argentina",1
+"2017-09-01",2170,"Real estate","UAE",1
+"2017-09-01",190,"Utilities","Argentina",1
+"2017-09-01",140,"Transport","Pakistan",1
+"2017-09-01",520,"Energy","Pakistan",1
+"2017-09-01",1200,"Transport","Zambia",1
+"2017-09-01",110,"Transport","Bangladesh",1
+"2017-09-01",100,"Transport","Pakistan",1
+"2017-09-01",120,"Transport","Singapore",1
+"2017-09-01",1040,"Other","Oman",1
+"2017-09-01",300,"Real estate","USA",0
+"2017-09-01",130,"Transport","Germany",0
+"2017-09-01",600,"Transport","USA",0
+"2017-09-01",180,"Transport","South Korea",1
+"2017-09-01",180,"Agriculture","Britain",0
+"2017-09-01",2260,"Energy","Brazil",0
+"2017-09-01",140,"Tourism","Sweden",0
+"2017-09-01",740,"Technology","Britain",0
+"2017-09-01",230,"Metals","Germany",0
+"2017-09-01",230,"Consumer","Thailand",1
+"2017-09-01",290,"Health","Canada",0
+"2017-09-01",350,"Tourism","Britain",0
+"2017-09-01",100,"Other","USA",0
+"2017-09-01",850,"Health","USA",0
+"2017-09-01",240,"Health","Japan",0
+"2017-09-01",920,"Transport","Brazil",0
+"2017-09-01",1030,"Logistics","Singapore",1
+"2017-09-01",230,"Energy","Australia",0
+"2017-08-01",230,"Transport","Kenya",1
+"2017-08-01",280,"Technology","Zambia",1
+"2017-08-01",230,"Energy","Morocco",1
+"2017-08-01",100,"Energy","Mongolia",1
+"2017-08-01",120,"Utilities","Bangladesh",1
+"2017-08-01",190,"Energy","Thailand",1
+"2017-08-01",280,"Real estate","Argentina",1
+"2017-08-01",200,"Energy","Pakistan",1
+"2017-08-01",170,"Transport","Thailand",1
+"2017-08-01",190,"Energy","Bolivia",1
+"2017-08-01",400,"Transport","Zambia",1
+"2017-08-01",1240,"Transport","Egypt",1
+"2017-08-01",100,"Technology","USA",0
+"2017-08-01",130,"Energy","Laos",1
+"2017-08-01",220,"Technology","Belgium",0
+"2017-08-01",110,"Utilities","Samoa",1
+"2017-08-01",100,"Consumer","Poland",1
+"2017-08-01",770,"Transport","Germany",0
+"2017-08-01",270,"Entertainment","Britain",0
+"2017-08-01",500,"Consumer","Indonesia",1
+"2017-08-01",220,"Real estate","Singapore",1
+"2017-08-01",140,"Energy","Malaysia",1
+"2017-08-01",100,"Transport","Indonesia",1
+"2017-08-01",1760,"Finance","Luxembourg",1
+"2017-07-01",1400,"Transport","Angola",1
+"2017-07-01",810,"Energy","Vietnam",1
+"2017-07-01",440,"Logistics","Germany",0
+"2017-07-01",390,"Real estate","Morocco",1
+"2017-07-01",110,"Real estate","Vietnam",1
+"2017-07-01",1470,"Energy","Russian Federation",1
+"2017-07-01",500,"Real estate","Uganda",1
+"2017-07-01",1900,"Other","Kenya",1
+"2017-07-01",100,"Transport","Panama",1
+"2017-07-01",120,"Energy","Cameroon",1
+"2017-07-01",180,"Energy","Britain",0
+"2017-07-01",130,"Energy","Kenya",1
+"2017-07-01",110,"Real estate","UAE",1
+"2017-07-01",170,"Transport","UAE",1
+"2017-07-01",200,"Energy","Angola",1
+"2017-07-01",490,"Energy","Malaysia",1
+"2017-07-01",380,"Transport","Pakistan",1
+"2017-07-01",140,"Real estate","Brazil",0
+"2017-07-01",160,"Tourism","Canada",0
+"2017-07-01",160,"Health","USA",0
+"2017-07-01",290,"Other","Sweden",0
+"2017-07-01",240,"Health","Australia",0
+"2017-07-01",300,"Other","UAE",1
+"2017-07-01",210,"Real estate","Laos",1
+"2017-07-01",300,"Real estate","Australia",0
+"2017-07-01",190,"Real estate","India",0
+"2017-07-01",500,"Transport","Singapore",1
+"2017-07-01",150,"Transport","Indonesia",1
+"2017-07-01",190,"Real estate","USA",0
+"2017-07-01",440,"Transport","France",0
+"2017-07-01",730,"Agriculture","France",0
+"2017-07-01",1100,"Agriculture","Brazil",0
+"2017-07-01",13790,"Logistics","Britain",0
+"2017-06-01",350,"Tourism","UAE",1
+"2017-06-01",480,"Energy","Papua New Guinea",1
+"2017-06-01",130,"Energy","Democratic Republic of the Congo",1
+"2017-06-01",100,"Transport","Botswana",1
+"2017-06-01",130,"Real estate","Cambodia",1
+"2017-06-01",100,"Transport","Rwanda",1
+"2017-06-01",170,"Real estate","UAE",1
+"2017-06-01",2770,"Energy","Angola",1
+"2017-06-01",590,"Real estate","Russian Federation",1
+"2017-06-01",710,"Metals","Kazakhstan",1
+"2017-06-01",450,"Real estate","Iraq",1
+"2017-06-01",130,"Real estate","Ethiopia",1
+"2017-06-01",1190,"Transport","Mozambique",1
+"2017-06-01",960,"Transport","Australia",0
+"2017-06-01",380,"Energy","Jordan",1
+"2017-06-01",1830,"Tourism","South Korea",1
+"2017-06-01",200,"Metals","Indonesia",1
+"2017-06-01",250,"Metals","Liberia",1
+"2017-06-01",110,"Other","Bangladesh",1
+"2017-06-01",250,"Agriculture","Brazil",0
+"2017-06-01",230,"Health","USA",0
+"2017-06-01",180,"Health","USA",0
+"2017-06-01",110,"Transport","USA",0
+"2017-06-01",1000,"Consumer","Singapore",1
+"2017-06-01",280,"Real estate","Malaysia",1
+"2017-06-01",600,"Real estate","Britain",0
+"2017-06-01",43060,"Agriculture","Switzerland",0
+"2017-06-01",710,"Energy","Australia",0
+"2017-06-01",1480,"Energy","Australia",0
+"2017-06-01",110,"Transport","Malaysia",1
+"2017-06-01",400,"Consumer","Britain",0
+"2017-06-01",230,"Transport","Spain",0
+"2017-06-01",110,"Finance","Kazakhstan",1
+"2017-06-01",120,"Finance","Malaysia",1
+"2017-06-01",180,"Other","France",0
+"2017-06-01",260,"Entertainment","USA",0
+"2017-05-01",390,"Energy","Argentina",1
+"2017-05-01",1170,"Transport","Kazakhstan",1
+"2017-05-01",400,"Agriculture","Egypt",1
+"2017-05-01",350,"Transport","Nepal",1
+"2017-05-01",940,"Transport","Kazakhstan",1
+"2017-05-01",280,"Transport","Bolivia",1
+"2017-05-01",190,"Transport","Bangladesh",1
+"2017-05-01",250,"Transport","Morocco",1
+"2017-05-01",260,"Energy","Ethiopia",1
+"2017-05-01",120,"Real estate","Cambodia",1
+"2017-05-01",1370,"Utilities","Saudi Arabia",1
+"2017-05-01",100,"Chemicals","Malaysia",1
+"2017-05-01",470,"Energy","Pakistan",1
+"2017-05-01",390,"Tourism","Netherlands",0
+"2017-05-01",250,"Energy","USA",0
+"2017-05-01",120,"Health","Australia",0
+"2017-05-01",1420,"Real estate","Germany",0
+"2017-05-01",190,"Energy","Canada",0
+"2017-05-01",1240,"Transport","Germany",0
+"2017-05-01",140,"Real estate","USA",0
+"2017-05-01",560,"Technology","Greece",1
+"2017-05-01",100,"Health","Australia",0
+"2017-05-01",110,"Real estate","USA",0
+"2017-05-01",130,"Other","USA",0
+"2017-05-01",110,"Health","Germany",0
+"2017-05-01",190,"Real estate","Britain",0
+"2017-05-01",290,"Energy","Australia",0
+"2017-05-01",750,"Real estate","Singapore",1
+"2017-05-01",100,"Tourism","Australia",0
+"2017-05-01",600,"Health","Australia",0
+"2017-05-01",900,"Real estate","USA",0
+"2017-05-01",390,"Finance","Denmark",0
+"2017-05-01",140,"Energy","Australia",0
+"2017-05-01",600,"Transport","Germany",0
+"2017-05-01",370,"Tourism","Switzerland",0
+"2017-05-01",1360,"Finance","Germany",0
+"2017-05-01",230,"Finance","Austria",1
+"2017-05-01",1600,"Real estate","USA",0
+"2017-04-01",390,"Transport","Russian Federation",1
+"2017-04-01",150,"Transport","Tanzania",1
+"2017-04-01",350,"Real estate","Papua New Guinea",1
+"2017-04-01",120,"Other","Kuwait",1
+"2017-04-01",100,"Transport","Australia",0
+"2017-04-01",560,"Energy","Cambodia",1
+"2017-04-01",850,"Energy","Finland",0
+"2017-04-01",160,"Entertainment","Cambodia",1
+"2017-04-01",150,"Real estate","Rwanda",1
+"2017-04-01",2520,"Energy","Russian Federation",1
+"2017-04-01",190,"Real estate","Britain",0
+"2017-04-01",170,"Energy","Pakistan",1
+"2017-04-01",420,"Metals","Democratic Republic of the Congo",1
+"2017-04-01",240,"Transport","Brazil",0
+"2017-04-01",110,"Transport","Canada",0
+"2017-04-01",10380,"Transport","USA",0
+"2017-04-01",1360,"Tourism","Switzerland",0
+"2017-04-01",700,"Consumer","India",0
+"2017-04-01",160,"Health","Spain",0
+"2017-04-01",960,"Metals","Argentina",1
+"2017-03-01",130,"Energy","Malaysia",1
+"2017-03-01",910,"Energy","Pakistan",1
+"2017-03-01",1530,"Transport","Nigeria",1
+"2017-03-01",180,"Real estate","Pakistan",1
+"2017-03-01",1620,"Tourism","Britain",0
+"2017-03-01",150,"Energy","Poland",1
+"2017-03-01",100,"Transport","Brazil",0
+"2017-03-01",110,"Transport","Bangladesh",1
+"2017-03-01",100,"Energy","Ethiopia",1
+"2017-03-01",120,"Transport","Barbados",1
+"2017-03-01",170,"Energy","Nigeria",1
+"2017-03-01",120,"Energy","Mongolia",1
+"2017-03-01",100,"Energy","Ethiopia",1
+"2017-03-01",130,"Transport","Mozambique",1
+"2017-03-01",710,"Real estate","Kuwait",1
+"2017-03-01",510,"Other","Australia",0
+"2017-03-01",170,"Transport","Kenya",1
+"2017-03-01",310,"Energy","Chad",1
+"2017-03-01",310,"Energy","Laos",1
+"2017-03-01",1170,"Energy","Russian Federation",1
+"2017-03-01",100,"Real estate","Sri Lanka",1
+"2017-03-01",1470,"Transport","Nigeria",1
+"2017-03-01",130,"Chemicals","Britain",0
+"2017-03-01",500,"Metals","Peru",1
+"2017-03-01",230,"Real estate","Australia",0
+"2017-03-01",120,"Real estate","Britain",0
+"2017-03-01",160,"Energy","Laos",1
+"2017-03-01",280,"Technology","New Zealand",1
+"2017-03-01",580,"Energy","Switzerland",0
+"2017-03-01",110,"Real estate","Indonesia",1
+"2017-03-01",100,"Transport","USA",0
+"2017-03-01",300,"Real estate","Indonesia",1
+"2017-03-01",1480,"Energy","Pakistan",1
+"2017-03-01",280,"Agriculture","Malaysia",1
+"2017-03-01",110,"Other","Poland",1
+"2017-03-01",100,"Tourism","USA",0
+"2017-03-01",180,"Consumer","India",0
+"2017-03-01",1410,"Real estate","Britain",0
+"2017-03-01",530,"Entertainment","Italy",1
+"2017-03-01",460,"Finance","Germany",0
+"2017-03-01",450,"Finance","USA",0
+"2017-03-01",1780,"Transport","USA",0
+"2017-03-01",430,"Entertainment","USA",0
+"2017-02-01",190,"Real estate","Pakistan",1
+"2017-02-01",640,"Transport","Indonesia",1
+"2017-02-01",760,"Agriculture","Australia",0
+"2017-02-01",760,"Energy","Jamaica",1
+"2017-02-01",130,"Energy","Pakistan",1
+"2017-02-01",1080,"Transport","Senegal",1
+"2017-02-01",220,"Transport","UAE",1
+"2017-02-01",590,"Energy","Iran",1
+"2017-02-01",250,"Energy","Saudi Arabia",1
+"2017-02-01",130,"Real estate","Pakistan",1
+"2017-02-01",110,"Real estate","Philippines",1
+"2017-02-01",220,"Metals","Iran",1
+"2017-02-01",250,"Real estate","Cambodia",1
+"2017-02-01",190,"Consumer","Philippines",1
+"2017-02-01",110,"Real estate","Singapore",1
+"2017-02-01",2310,"Real estate","Japan",0
+"2017-02-01",230,"Metals","Australia",0
+"2017-02-01",200,"Technology","Pakistan",1
+"2017-02-01",190,"Technology","Japan",0
+"2017-02-01",310,"Real estate","Kenya",1
+"2017-02-01",220,"Real estate","Singapore",1
+"2017-02-01",170,"Energy","Guinea-Bissau",1
+"2017-02-01",260,"Energy","Portugal",1
+"2017-02-01",510,"Real estate","Canada",0
+"2017-02-01",110,"Transport","Mexico",0
+"2017-02-01",200,"Consumer","South Korea",1
+"2017-02-01",890,"Energy","UAE",1
+"2017-02-01",1770,"Energy","UAE",1
+"2017-02-01",800,"Finance","Germany",0
+"2017-02-01",310,"Finance","Portugal",1
+"2017-02-01",190,"Technology","South Korea",1
+"2017-02-01",170,"Other","Israel",1
+"2017-01-01",100,"Other","Britain",0
+"2017-01-01",1660,"Metals","Malaysia",1
+"2017-01-01",230,"Real estate","Indonesia",1
+"2017-01-01",240,"Other","Ethiopia",1
+"2017-01-01",880,"Energy","Papua New Guinea",1
+"2017-01-01",300,"Real estate","UAE",1
+"2017-01-01",230,"Real estate","Vietnam",1
+"2017-01-01",350,"Tourism","USA",0
+"2017-01-01",110,"Other","Ethiopia",1
+"2017-01-01",200,"Tourism","Barbados",1
+"2017-01-01",130,"Utilities","Angola",1
+"2017-01-01",250,"Real estate","Zambia",1
+"2017-01-01",160,"Transport","Angola",1
+"2017-01-01",210,"Transport","Afghanistan",1
+"2017-01-01",170,"Metals","Canada",0
+"2017-01-01",140,"Entertainment","USA",0
+"2017-01-01",100,"Energy","Vietnam",1
+"2017-01-01",1040,"Energy","Indonesia",1
+"2017-01-01",1140,"Metals","Democratic Republic of the Congo",1
+"2017-01-01",290,"Other","Laos",1
+"2017-01-01",110,"Real estate","Uzbekistan",1
+"2017-01-01",210,"Technology","Hungary",1
+"2017-01-01",100,"Real estate","Brazil",0
+"2017-01-01",1050,"Entertainment","Slovenia",1
+"2017-01-01",540,"Technology","USA",0
+"2017-01-01",360,"Real estate","USA",0
+"2017-01-01",160,"Consumer","USA",0
+"2017-01-01",960,"Entertainment","Sweden",0
+"2017-01-01",820,"Health","Canada",0
+"2016-12-01",230,"Transport","Serbia",1
+"2016-12-01",190,"Transport","Angola",1
+"2016-12-01",170,"Agriculture","Zambia",1
+"2016-12-01",1080,"Energy","Pakistan",1
+"2016-12-01",110,"Transport","Singapore",1
+"2016-12-01",220,"Transport","Singapore",1
+"2016-12-01",280,"Energy","Bangladesh",1
+"2016-12-01",1010,"Technology","Italy",1
+"2016-12-01",110,"Transport","Britain",0
+"2016-12-01",170,"Real estate","Indonesia",1
+"2016-12-01",150,"Transport","Maldives",1
+"2016-12-01",110,"Transport","Zambia",1
+"2016-12-01",150,"Energy","Brazil",0
+"2016-12-01",390,"Transport","Bangladesh",1
+"2016-12-01",450,"Chemicals","Ethiopia",1
+"2016-12-01",1470,"Energy","Indonesia",1
+"2016-12-01",350,"Transport","Jamaica",1
+"2016-12-01",150,"Energy","Uzbekistan",1
+"2016-12-01",540,"Agriculture","Thailand",1
+"2016-12-01",200,"Energy","UAE",1
+"2016-12-01",530,"Health","Kuwait",1
+"2016-12-01",490,"Metals","Indonesia",1
+"2016-12-01",220,"Real estate","Singapore",1
+"2016-12-01",120,"Other","Britain",0
+"2016-12-01",150,"Technology","Israel",1
+"2016-12-01",290,"Real estate","USA",0
+"2016-12-01",350,"Agriculture","Spain",0
+"2016-12-01",1680,"Tourism","Malaysia",1
+"2016-12-01",200,"Transport","Greece",1
+"2016-12-01",100,"Transport","Brazil",0
+"2016-12-01",1030,"Real estate","USA",0
+"2016-12-01",1110,"Energy","Mexico",0
+"2016-12-01",100,"Real estate","USA",0
+"2016-12-01",4910,"Energy","Brazil",0
+"2016-12-01",170,"Agriculture","Canada",0
+"2016-12-01",220,"Health","Australia",0
+"2016-12-01",1150,"Energy","Russian Federation",1
+"2016-12-01",240,"Consumer","Italy",1
+"2016-12-01",2960,"Technology","Britain",0
+"2016-12-01",140,"Real estate","Australia",0
+"2016-12-01",120,"Metals","Serbia",1
+"2016-12-01",430,"Energy","Ireland",0
+"2016-12-01",100,"Technology","Turkey",1
+"2016-11-01",260,"Energy","Russian Federation",1
+"2016-11-01",170,"Other","Australia",0
+"2016-11-01",210,"Energy","Britain",0
+"2016-11-01",110,"Metals","Australia",0
+"2016-11-01",180,"Metals","Russian Federation",1
+"2016-11-01",460,"Real estate","Algeria",1
+"2016-11-01",300,"Agriculture","Belarus",1
+"2016-11-01",110,"Chemicals","Malaysia",1
+"2016-11-01",890,"Energy","Indonesia",1
+"2016-11-01",440,"Energy","Philippines",1
+"2016-11-01",440,"Transport","Australia",0
+"2016-11-01",130,"Transport","Australia",0
+"2016-11-01",280,"Energy","Iraq",1
+"2016-11-01",280,"Energy","Philippines",1
+"2016-11-01",100,"Health","Ecuador",1
+"2016-11-01",310,"Transport","Kuwait",1
+"2016-11-01",200,"Energy","Nigeria",1
+"2016-11-01",340,"Entertainment","Qatar",1
+"2016-11-01",410,"Energy","Algeria",1
+"2016-11-01",150,"Tourism","UAE",1
+"2016-11-01",140,"Energy","Chile",1
+"2016-11-01",420,"Tourism","South Korea",1
+"2016-11-01",200,"Transport","Germany",0
+"2016-11-01",320,"Real estate","USA",0
+"2016-11-01",400,"Transport","Britain",0
+"2016-11-01",260,"Finance","South Korea",1
+"2016-11-01",120,"Real estate","Australia",0
+"2016-11-01",120,"Real estate","Canada",0
+"2016-11-01",700,"Real estate","USA",0
+"2016-11-01",180,"Energy","Ukraine",1
+"2016-11-01",1460,"Energy","Venezuela",1
+"2016-11-01",860,"Real estate","USA",0
+"2016-11-01",180,"Finance","Portugal",1
+"2016-11-01",1740,"Tourism","Britain",0
+"2016-11-01",310,"Real estate","Czech Republic",1
+"2016-11-01",140,"Entertainment","Britain",0
+"2016-11-01",120,"Energy","Australia",0
+"2016-11-01",1080,"Energy","Russian Federation",1
+"2016-11-01",600,"Energy","Iran",1
+"2016-10-01",170,"Energy","Tajikistan",1
+"2016-10-01",230,"Real estate","Malaysia",1
+"2016-10-01",120,"Transport","Myanmar",1
+"2016-10-01",410,"Energy","Nigeria",1
+"2016-10-01",240,"Real estate","Iraq",1
+"2016-10-01",130,"Tourism","Cape Verde",1
+"2016-10-01",130,"Energy","Kenya",1
+"2016-10-01",100,"Utilities","Laos",1
+"2016-10-01",480,"Agriculture","Sri Lanka",1
+"2016-10-01",1140,"Energy","Bangladesh",1
+"2016-10-01",190,"Chemicals","Malaysia",1
+"2016-10-01",120,"Energy","Cambodia",1
+"2016-10-01",1010,"Energy","Iraq",1
+"2016-10-01",830,"Energy","Bangladesh",1
+"2016-10-01",770,"Transport","Guinea",1
+"2016-10-01",170,"Technology","Serbia",1
+"2016-10-01",210,"Technology","Thailand",1
+"2016-10-01",150,"Transport","Italy",1
+"2016-10-01",190,"Real estate","Australia",0
+"2016-10-01",130,"Other","USA",0
+"2016-10-01",140,"Energy","Kenya",1
+"2016-10-01",250,"Energy","Indonesia",1
+"2016-10-01",100,"Agriculture","Australia",0
+"2016-10-01",1130,"Real estate","Germany",0
+"2016-10-01",290,"Energy","Argentina",1
+"2016-10-01",810,"Tourism","USA",0
+"2016-10-01",6500,"Tourism","USA",0
+"2016-10-01",560,"Real estate","Netherlands",0
+"2016-10-01",350,"Energy","Greece",1
+"2016-10-01",340,"Other","Germany",0
+"2016-10-01",140,"Entertainment","USA",0
+"2016-10-01",1200,"Energy","Brazil",0
+"2016-10-01",990,"Finance","Singapore",1
+"2016-09-01",250,"Transport","Malaysia",1
+"2016-09-01",210,"Energy","Kuwait",1
+"2016-09-01",120,"Real estate","Cameroon",1
+"2016-09-01",1580,"Transport","Laos",1
+"2016-09-01",230,"Health","Australia",0
+"2016-09-01",160,"Energy","Georgia",1
+"2016-09-01",990,"Energy","Bolivia",1
+"2016-09-01",410,"Energy","Brazil",0
+"2016-09-01",210,"Transport","Germany",0
+"2016-09-01",100,"Energy","Canada",0
+"2016-09-01",100,"Finance","Australia",0
+"2016-09-01",510,"Technology","USA",0
+"2016-09-01",1570,"Utilities","Spain",0
+"2016-09-01",1090,"Energy","Brazil",0
+"2016-09-01",110,"Energy","France",0
+"2016-09-01",430,"Other","USA",0
+"2016-09-01",260,"Consumer","USA",0
+"2016-09-01",260,"Other","Germany",0
+"2016-09-01",110,"Energy","Chad",1
+"2016-09-01",150,"Real estate","Britain",0
+"2016-09-01",110,"Real estate","Britain",0
+"2016-09-01",670,"Logistics","UAE",1
+"2016-09-01",210,"Metals","Chile",1
+"2016-09-01",310,"Metals","Australia",0
+"2016-09-01",1460,"Transport","Australia",0
+"2016-08-01",660,"Energy","Democratic Republic of the Congo",1
+"2016-08-01",190,"Real estate","Pakistan",1
+"2016-08-01",130,"Real estate","Angola",1
+"2016-08-01",440,"Transport","Angola",1
+"2016-08-01",480,"Logistics","Ghana",1
+"2016-08-01",540,"Transport","Nigeria",1
+"2016-08-01",230,"Metals","Indonesia",1
+"2016-08-01",220,"Real estate","Ethiopia",1
+"2016-08-01",410,"Energy","Ivory Coast",1
+"2016-08-01",130,"Real estate","Papua New Guinea",1
+"2016-08-01",160,"Transport","Sierra Leone",1
+"2016-08-01",180,"Transport","Singapore",1
+"2016-08-01",200,"Transport","Kuwait",1
+"2016-08-01",370,"Transport","Malaysia",1
+"2016-08-01",540,"Energy","Ethiopia",1
+"2016-08-01",720,"Energy","Kenya",1
+"2016-08-01",100,"Entertainment","USA",0
+"2016-08-01",110,"Other","Germany",0
+"2016-08-01",260,"Real estate","USA",0
+"2016-08-01",300,"Real estate","USA",0
+"2016-08-01",180,"Real estate","Kazakhstan",1
+"2016-08-01",100,"Energy","Mongolia",1
+"2016-08-01",110,"Entertainment","France",0
+"2016-08-01",130,"Energy","India",0
+"2016-08-01",100,"Real estate","Kenya",1
+"2016-08-01",1440,"Agriculture","Netherlands",0
+"2016-08-01",220,"Transport","Germany",0
+"2016-08-01",520,"Transport","South Africa",1
+"2016-08-01",4680,"Technology","Germany",0
+"2016-08-01",190,"Entertainment","Britain",0
+"2016-08-01",140,"Real estate","USA",0
+"2016-08-01",350,"Tourism","USA",0
+"2016-08-01",120,"Health","USA",0
+"2016-08-01",150,"Energy","USA",0
+"2016-08-01",170,"Technology","USA",0
+"2016-08-01",1000,"Transport","USA",0
+"2016-08-01",340,"Technology","USA",0
+"2016-08-01",230,"Agriculture","Australia",0
+"2016-08-01",150,"Metals","India",0
+"2016-07-01",120,"Energy","Sri Lanka",1
+"2016-07-01",160,"Metals","Algeria",1
+"2016-07-01",130,"Utilities","Venezuela",1
+"2016-07-01",650,"Metals","Democratic Republic of the Congo",1
+"2016-07-01",110,"Energy","Thailand",1
+"2016-07-01",160,"Utilities","Malaysia",1
+"2016-07-01",300,"Real estate","Congo",1
+"2016-07-01",1220,"Transport","Nigeria",1
+"2016-07-01",530,"Energy","Pakistan",1
+"2016-07-01",250,"Other","Ethiopia",1
+"2016-07-01",110,"Metals","Malaysia",1
+"2016-07-01",330,"Energy","Saudi Arabia",1
+"2016-07-01",180,"Utilities","Papua New Guinea",1
+"2016-07-01",160,"Transport","Kenya",1
+"2016-07-01",320,"Transport","Greece",1
+"2016-07-01",610,"Technology","USA",0
+"2016-07-01",120,"Transport","Britain",0
+"2016-07-01",500,"Real estate","Japan",0
+"2016-07-01",4400,"Entertainment","Israel",1
+"2016-07-01",700,"Transport","Switzerland",0
+"2016-07-01",130,"Real estate","Australia",0
+"2016-07-01",110,"Real estate","Australia",0
+"2016-07-01",410,"Tourism","USA",0
+"2016-07-01",140,"Real estate","Australia",0
+"2016-07-01",200,"Technology","Japan",0
+"2016-07-01",440,"Other","Germany",0
+"2016-07-01",1160,"Entertainment","USA",0
+"2016-07-01",100,"Real estate","Brazil",0
+"2016-07-01",220,"Energy","Pakistan",1
+"2016-07-01",300,"Metals","Jamaica",1
+"2016-07-01",1400,"Agriculture","Israel",1
+"2016-07-01",180,"Agriculture","New Zealand",1
+"2016-07-01",270,"Health","Switzerland",0
+"2016-07-01",370,"Health","Australia",0
+"2016-07-01",230,"Other","USA",0
+"2016-07-01",1210,"Entertainment","Britain",0
+"2016-07-01",610,"Technology","Norway",0
+"2016-06-01",110,"Utilities","Ecuador",1
+"2016-06-01",680,"Utilities","Angola",1
+"2016-06-01",260,"Metals","Algeria",1
+"2016-06-01",150,"Real estate","Philippines",1
+"2016-06-01",330,"Energy","Oman",1
+"2016-06-01",110,"Energy","Qatar",1
+"2016-06-01",120,"Utilities","Angola",1
+"2016-06-01",2350,"Energy","UAE",1
+"2016-06-01",140,"Energy","Indonesia",1
+"2016-06-01",240,"Real estate","Malaysia",1
+"2016-06-01",440,"Chemicals","Russian Federation",1
+"2016-06-01",400,"Energy","Angola",1
+"2016-06-01",1190,"Real estate","Egypt",1
+"2016-06-01",110,"Transport","Panama",1
+"2016-06-01",240,"Energy","Malaysia",1
+"2016-06-01",250,"Real estate","India",0
+"2016-06-01",150,"Transport","Germany",0
+"2016-06-01",580,"Agriculture","Canada",0
+"2016-06-01",8600,"Entertainment","Finland",0
+"2016-06-01",250,"Real estate","USA",0
+"2016-06-01",140,"Utilities","Poland",1
+"2016-06-01",120,"Real estate","Cambodia",1
+"2016-06-01",2100,"Logistics","Luxembourg",1
+"2016-06-01",1540,"Energy","Germany",0
+"2016-06-01",150,"Technology","USA",0
+"2016-06-01",210,"Consumer","USA",0
+"2016-06-01",2750,"Technology","Netherlands",0
+"2016-06-01",200,"Transport","Australia",0
+"2016-06-01",310,"Entertainment","Italy",1
+"2016-05-01",200,"Transport","Uganda",1
+"2016-05-01",130,"Energy","Myanmar",1
+"2016-05-01",320,"Transport","Australia",0
+"2016-05-01",2300,"Energy","Oman",1
+"2016-05-01",100,"Other","Ethiopia",1
+"2016-05-01",1960,"Utilities","Iran",1
+"2016-05-01",120,"Chemicals","Saudi Arabia",1
+"2016-05-01",230,"Real estate","Algeria",1
+"2016-05-01",190,"Energy","Kenya",1
+"2016-05-01",580,"Other","Kuwait",1
+"2016-05-01",350,"Transport","Angola",1
+"2016-05-01",100,"Energy","Bangladesh",1
+"2016-05-01",120,"Real estate","UAE",1
+"2016-05-01",120,"Energy","Indonesia",1
+"2016-05-01",810,"Real estate","USA",0
+"2016-05-01",1190,"Health","Britain",0
+"2016-05-01",140,"Health","USA",0
+"2016-05-01",310,"Energy","Australia",0
+"2016-05-01",340,"Real estate","USA",0
+"2016-05-01",460,"Real estate","Singapore",1
+"2016-05-01",200,"Transport","Panama",1
+"2016-05-01",100,"Energy","Mexico",0
+"2016-05-01",110,"Chemicals","USA",0
+"2016-05-01",270,"Real estate","Canada",0
+"2016-05-01",720,"Real estate","USA",0
+"2016-05-01",140,"Metals","Malaysia",1
+"2016-05-01",950,"Energy","Jordan",1
+"2016-05-01",300,"Other","USA",0
+"2016-05-01",110,"Finance","Turkey",1
+"2016-05-01",160,"Finance","Britain",0
+"2016-05-01",110,"Transport","Australia",0
+"2016-05-01",150,"Finance","USA",0
+"2016-05-01",660,"Entertainment","Britain",0
+"2016-05-01",680,"Real estate","USA",0
+"2016-05-01",100,"Entertainment","Britain",0
+"2016-05-01",200,"Transport","Indonesia",1
+"2016-05-01",140,"Logistics","Netherlands",0
+"2016-05-01",120,"Technology","USA",0
+"2016-05-01",220,"Agriculture","Australia",0
+"2016-05-01",300,"Entertainment","Britain",0
+"2016-05-01",290,"Agriculture","Brazil",0
+"2016-05-01",150,"Technology","Germany",0
+"2016-05-01",2650,"Metals","Democratic Republic of the Congo",1
+"2016-04-01",160,"Real estate","Belarus",1
+"2016-04-01",450,"Energy","Brazil",0
+"2016-04-01",910,"Energy","Pakistan",1
+"2016-04-01",220,"Energy","Zambia",1
+"2016-04-01",100,"Tourism","USA",0
+"2016-04-01",110,"Real estate","Algeria",1
+"2016-04-01",260,"Energy","Israel",1
+"2016-04-01",220,"Energy","Bangladesh",1
+"2016-04-01",110,"Energy","Brazil",0
+"2016-04-01",490,"Real estate","Singapore",1
+"2016-04-01",140,"Transport","Singapore",1
+"2016-04-01",300,"Transport","Bolivia",1
+"2016-04-01",200,"Consumer","Britain",0
+"2016-04-01",420,"Energy","Pakistan",1
+"2016-04-01",200,"Transport","Mexico",0
+"2016-04-01",120,"Transport","Spain",0
+"2016-04-01",190,"Logistics","Singapore",1
+"2016-04-01",2030,"Energy","Laos",1
+"2016-04-01",360,"Agriculture","Cambodia",1
+"2016-04-01",1990,"Tourism","USA",0
+"2016-04-01",300,"Transport","USA",0
+"2016-04-01",3400,"Technology","USA",0
+"2016-04-01",780,"Finance","USA",0
+"2016-04-01",270,"Real estate","USA",0
+"2016-04-01",350,"Finance","USA",0
+"2016-04-01",510,"Real estate","Canada",0
+"2016-04-01",820,"Energy","UAE",1
+"2016-04-01",1540,"Chemicals","Brazil",0
+"2016-04-01",1440,"Tourism","Switzerland",0
+"2016-04-01",1000,"Consumer","Singapore",1
+"2016-04-01",190,"Real estate","Britain",0
+"2016-04-01",280,"Tourism","France",0
+"2016-04-01",100,"Health","Australia",0
+"2016-04-01",350,"Other","Ethiopia",1
+"2016-04-01",110,"Energy","Brazil",0
+"2016-04-01",190,"Technology","Finland",0
+"2016-04-01",2100,"Energy","Myanmar",1
+"2016-03-01",280,"Transport","Thailand",1
+"2016-03-01",660,"Utilities","Qatar",1
+"2016-03-01",650,"Agriculture","Ethiopia",1
+"2016-03-01",250,"Chemicals","Ethiopia",1
+"2016-03-01",300,"Real estate","Indonesia",1
+"2016-03-01",780,"Energy","Egypt",1
+"2016-03-01",2100,"Energy","Laos",1
+"2016-03-01",100,"Energy","Cambodia",1
+"2016-03-01",780,"Energy","Bangladesh",1
+"2016-03-01",130,"Transport","Singapore",1
+"2016-03-01",180,"Transport","Saudi Arabia",1
+"2016-03-01",120,"Energy","Laos",1
+"2016-03-01",100,"Energy","Malaysia",1
+"2016-03-01",160,"Transport","USA",0
+"2016-03-01",180,"Agriculture","Singapore",1
+"2016-03-01",280,"Health","USA",0
+"2016-03-01",5520,"Tourism","USA",0
+"2016-03-01",690,"Real estate","USA",0
+"2016-03-01",780,"Energy","Bangladesh",1
+"2016-03-01",610,"Transport","Australia",0
+"2016-03-01",750,"Energy","Australia",0
+"2016-03-01",230,"Energy","Australia",0
+"2016-03-01",120,"Technology","Australia",0
+"2016-03-01",110,"Agriculture","Australia",0
+"2016-03-01",130,"Health","Australia",0
+"2016-03-01",1480,"Other","France",0
+"2016-03-01",440,"Energy","Canada",0
+"2016-03-01",430,"Real estate","Britain",0
+"2016-03-01",250,"Transport","USA",0
+"2016-03-01",500,"Entertainment","USA",0
+"2016-03-01",420,"Real estate","USA",0
+"2016-03-01",470,"Consumer","Japan",0
+"2016-03-01",570,"Tourism","USA",0
+"2016-02-01",110,"Energy","Bangladesh",1
+"2016-02-01",100,"Health","Ecuador",1
+"2016-02-01",100,"Energy","Myanmar",1
+"2016-02-01",230,"Real estate","Saudi Arabia",1
+"2016-02-01",830,"Transport","Angola",1
+"2016-02-01",2300,"Transport","Congo",1
+"2016-02-01",220,"Energy","Kenya",1
+"2016-02-01",270,"Utilities","Iraq",1
+"2016-02-01",110,"Transport","Latvia",1
+"2016-02-01",350,"Chemicals","Jordan",1
+"2016-02-01",390,"Energy","Argentina",1
+"2016-02-01",160,"Entertainment","Ethiopia",1
+"2016-02-01",1650,"Energy","Pakistan",1
+"2016-02-01",160,"Entertainment","USA",0
+"2016-02-01",260,"Energy","Britain",0
+"2016-02-01",100,"Entertainment","USA",0
+"2016-02-01",560,"Energy","Canada",0
+"2016-02-01",100,"Real estate","India",0
+"2016-02-01",6000,"Technology","USA",0
+"2016-02-01",140,"Technology","Germany",0
+"2016-02-01",450,"Tourism","France",0
+"2016-02-01",250,"Entertainment","USA",0
+"2016-02-01",130,"Consumer","USA",0
+"2016-02-01",220,"Utilities","Germany",0
+"2016-02-01",1590,"Energy","Germany",0
+"2016-02-01",200,"Transport","Germany",0
+"2016-02-01",920,"Transport","USA",0
+"2016-01-01",430,"Transport","Bolivia",1
+"2016-01-01",220,"Transport","Pakistan",1
+"2016-01-01",200,"Real estate","Myanmar",1
+"2016-01-01",1320,"Transport","Pakistan",1
+"2016-01-01",700,"Transport","Senegal",1
+"2016-01-01",210,"Tourism","Malaysia",1
+"2016-01-01",150,"Real estate","New Zealand",1
+"2016-01-01",170,"Energy","Kazakhstan",1
+"2016-01-01",270,"Energy","Madagascar",1
+"2016-01-01",390,"Real estate","Saudi Arabia",1
+"2016-01-01",190,"Real estate","Panama",1
+"2016-01-01",200,"Transport","Zambia",1
+"2016-01-01",1720,"Transport","Algeria",1
+"2016-01-01",170,"Real estate","UAE",1
+"2016-01-01",120,"Transport","Australia",0
+"2016-01-01",300,"Energy","Cameroon",1
+"2016-01-01",660,"Energy","Turkey",1
+"2016-01-01",120,"Energy","Kenya",1
+"2016-01-01",330,"Transport","Iran",1
+"2016-01-01",470,"Metals","Iran",1
+"2016-01-01",300,"Transport","India",0
+"2016-01-01",390,"Energy","Pakistan",1
+"2016-01-01",210,"Real estate","Malaysia",1
+"2016-01-01",3660,"Energy","Brazil",0
+"2016-01-01",140,"Real estate","USA",0
+"2016-01-01",1200,"Transport","Ireland",0
+"2016-01-01",5400,"Consumer","USA",0
+"2016-01-01",110,"Consumer","Norway",0
+"2016-01-01",1000,"Real estate","Germany",0
+"2016-01-01",3500,"Entertainment","USA",0
+"2016-01-01",100,"Real estate","Malawi",1
+"2016-01-01",260,"Real estate","Britain",0
+"2016-01-01",100,"Entertainment","India",0
+"2016-01-01",180,"Tourism","India",0
+"2015-12-01",350,"Transport","Laos",1
+"2015-12-01",2010,"Energy","Zambia",1
+"2015-12-01",200,"Agriculture","Saudi Arabia",1
+"2015-12-01",430,"Utilities","Saudi Arabia",1
+"2015-12-01",100,"Energy","Pakistan",1
+"2015-12-01",250,"Real estate","Sri Lanka",1
+"2015-12-01",610,"Utilities","Angola",1
+"2015-12-01",170,"Energy","Zambia",1
+"2015-12-01",120,"Real estate","Laos",1
+"2015-12-01",1550,"Transport","Bangladesh",1
+"2015-12-01",240,"Utilities","Laos",1
+"2015-12-01",1190,"Energy","Laos",1
+"2015-12-01",160,"Energy","Benin",1
+"2015-12-01",140,"Health","Australia",0
+"2015-12-01",2890,"Transport","Pakistan",1
+"2015-12-01",170,"Tourism","Barbados",1
+"2015-12-01",1260,"Transport","Senegal",1
+"2015-12-01",990,"Energy","Mongolia",1
+"2015-12-01",1160,"Energy","Indonesia",1
+"2015-12-01",110,"Real estate","Singapore",1
+"2015-12-01",1870,"Chemicals","Kazakhstan",1
+"2015-12-01",1460,"Transport","Pakistan",1
+"2015-12-01",260,"Real estate","Cambodia",1
+"2015-12-01",300,"Technology","USA",0
+"2015-12-01",300,"Energy","Thailand",1
+"2015-12-01",1350,"Energy","USA",0
+"2015-12-01",110,"Tourism","France",0
+"2015-12-01",360,"Energy","Switzerland",0
+"2015-12-01",590,"Energy","Portugal",1
+"2015-12-01",210,"Real estate","Britain",0
+"2015-12-01",160,"Other","Britain",0
+"2015-12-01",100,"Real estate","Singapore",1
+"2015-12-01",100,"Energy","Italy",1
+"2015-12-01",340,"Energy","Poland",1
+"2015-12-01",190,"Transport","Vietnam",1
+"2015-12-01",1320,"Energy","Indonesia",1
+"2015-12-01",130,"Agriculture","USA",0
+"2015-12-01",100,"Real estate","Laos",1
+"2015-12-01",100,"Metals","Russian Federation",1
+"2015-12-01",120,"Real estate","Britain",0
+"2015-12-01",2200,"Energy","Australia",0
+"2015-12-01",690,"Health","Australia",0
+"2015-12-01",110,"Energy","South Africa",1
+"2015-12-01",1340,"Energy","Russian Federation",1
+"2015-11-01",150,"Technology","Bangladesh",1
+"2015-11-01",110,"Agriculture","Nepal",1
+"2015-11-01",140,"Metals","Algeria",1
+"2015-11-01",110,"Transport","Kuwait",1
+"2015-11-01",180,"Energy","Indonesia",1
+"2015-11-01",340,"Energy","Rwanda",1
+"2015-11-01",140,"Transport","Madagascar",1
+"2015-11-01",110,"Metals","Indonesia",1
+"2015-11-01",260,"Transport","Indonesia",1
+"2015-11-01",140,"Transport","Maldives",1
+"2015-11-01",180,"Chemicals","Malaysia",1
+"2015-11-01",200,"Real estate","Ecuador",1
+"2015-11-01",180,"Transport","Ethiopia",1
+"2015-11-01",260,"Transport","Vietnam",1
+"2015-11-01",1460,"Transport","Mali",1
+"2015-11-01",270,"Energy","Laos",1
+"2015-11-01",1180,"Utilities","Qatar",1
+"2015-11-01",190,"Real estate","Maldives",1
+"2015-11-01",1000,"Real estate","USA",0
+"2015-11-01",160,"Technology","USA",0
+"2015-11-01",180,"Real estate","USA",0
+"2015-11-01",1620,"Transport","Pakistan",1
+"2015-11-01",570,"Energy","Indonesia",1
+"2015-11-01",400,"Entertainment","Britain",0
+"2015-11-01",260,"Transport","Britain",0
+"2015-11-01",750,"Tourism","Canada",0
+"2015-11-01",5260,"Energy","Malaysia",1
+"2015-11-01",460,"Transport","Brazil",0
+"2015-11-01",140,"Logistics","Belarus",1
+"2015-11-01",150,"Tourism","Japan",0
+"2015-11-01",230,"Energy","India",0
+"2015-11-01",100,"Transport","USA",0
+"2015-11-01",1010,"Logistics","USA",0
+"2015-10-01",1290,"Energy","Saudi Arabia",1
+"2015-10-01",150,"Transport","India",0
+"2015-10-01",100,"Transport","Georgia",1
+"2015-10-01",580,"Energy","Nigeria",1
+"2015-10-01",550,"Energy","Ghana",1
+"2015-10-01",680,"Logistics","Sao Tome",1
+"2015-10-01",1700,"Energy","Kuwait",1
+"2015-10-01",130,"Transport","UAE",1
+"2015-10-01",1780,"Other","Russian Federation",1
+"2015-10-01",700,"Energy","Saudi Arabia",1
+"2015-10-01",390,"Real estate","Nigeria",1
+"2015-10-01",380,"Energy","South Sudan",1
+"2015-10-01",550,"Transport","Malaysia",1
+"2015-10-01",720,"Energy","Laos",1
+"2015-10-01",200,"Transport","Britain",0
+"2015-10-01",110,"Real estate","Britain",0
+"2015-10-01",320,"Real estate","Zambia",1
+"2015-10-01",490,"Technology","Cameroon",1
+"2015-10-01",140,"Metals","Australia",0
+"2015-10-01",100,"Energy","Zimbabwe",1
+"2015-10-01",300,"Other","Mexico",0
+"2015-10-01",140,"Tourism","USA",0
+"2015-10-01",480,"Transport","Germany",0
+"2015-10-01",270,"Real estate","Namibia",1
+"2015-10-01",150,"Finance","USA",0
+"2015-10-01",200,"Logistics","Italy",1
+"2015-10-01",120,"Transport","Sao Tome",1
+"2015-10-01",150,"Energy","Pakistan",1
+"2015-10-01",370,"Technology","Malaysia",1
+"2015-10-01",240,"Entertainment","USA",0
+"2015-10-01",130,"Transport","Luxembourg",1
+"2015-10-01",280,"Technology","South Korea",1
+"2015-10-01",270,"Health","USA",0
+"2015-10-01",1080,"Energy","USA",0
+"2015-10-01",100,"Transport","Singapore",1
+"2015-10-01",2000,"Energy","Brazil",0
+"2015-10-01",370,"Transport","Australia",0
+"2015-10-01",200,"Agriculture","Australia",0
+"2015-10-01",500,"Real estate","Zambia",1
+"2015-10-01",470,"Real estate","Britain",0
+"2015-10-01",150,"Consumer","Britain",0
+"2015-09-01",9580,"Energy","Pakistan",1
+"2015-09-01",250,"Transport","Bolivia",1
+"2015-09-01",170,"Energy","Thailand",1
+"2015-09-01",1100,"Energy","Pakistan",1
+"2015-09-01",120,"Agriculture","Mozambique",1
+"2015-09-01",220,"Real estate","Ecuador",1
+"2015-09-01",1380,"Energy","Guinea",1
+"2015-09-01",500,"Transport","Iran",1
+"2015-09-01",260,"Transport","Colombia",0
+"2015-09-01",330,"Transport","Brunei",1
+"2015-09-01",280,"Transport","Zambia",1
+"2015-09-01",510,"Energy","Mongolia",1
+"2015-09-01",250,"Technology","USA",0
+"2015-09-01",100,"Finance","Czech Republic",1
+"2015-09-01",100,"Health","USA",0
+"2015-09-01",680,"Consumer","India",0
+"2015-09-01",250,"Energy","India",0
+"2015-09-01",350,"Other","Jordan",1
+"2015-09-01",100,"Transport","USA",0
+"2015-09-01",200,"Agriculture","New Zealand",1
+"2015-09-01",1210,"Energy","Russian Federation",1
+"2015-09-01",990,"Health","Australia",0
+"2015-09-01",920,"Logistics","Turkey",1
+"2015-09-01",120,"Agriculture","Spain",0
+"2015-09-01",5170,"Transport","Ireland",0
+"2015-08-01",190,"Technology","India",0
+"2015-08-01",110,"Energy","Indonesia",1
+"2015-08-01",210,"Energy","Laos",1
+"2015-08-01",570,"Energy","Senegal",1
+"2015-08-01",100,"Transport","Papua New Guinea",1
+"2015-08-01",230,"Energy","Ethiopia",1
+"2015-08-01",120,"Transport","Indonesia",1
+"2015-08-01",120,"Real estate","Mali",1
+"2015-08-01",120,"Real estate","Cameroon",1
+"2015-08-01",140,"Real estate","Zambia",1
+"2015-08-01",140,"Real estate","Niger",1
+"2015-08-01",240,"Real estate","Ethiopia",1
+"2015-08-01",290,"Real estate","Nepal",1
+"2015-08-01",290,"Real estate","Kenya",1
+"2015-08-01",140,"Real estate","Panama",1
+"2015-08-01",700,"Logistics","Cameroon",1
+"2015-08-01",200,"Logistics","Cameroon",1
+"2015-08-01",330,"Real estate","Britain",0
+"2015-08-01",590,"Transport","Germany",0
+"2015-08-01",460,"Energy","Pakistan",1
+"2015-08-01",160,"Real estate","USA",0
+"2015-08-01",170,"Technology","Germany",0
+"2015-08-01",150,"Health","Australia",0
+"2015-08-01",210,"Health","USA",0
+"2015-08-01",250,"Tourism","Bahamas",0
+"2015-08-01",310,"Real estate","Russian Federation",1
+"2015-08-01",120,"Energy","Pakistan",1
+"2015-08-01",490,"Energy","Brazil",0
+"2015-08-01",200,"Consumer","India",0
+"2015-08-01",900,"Entertainment","USA",0
+"2015-08-01",100,"Technology","India",0
+"2015-08-01",390,"Real estate","USA",0
+"2015-07-01",140,"Energy","Iraq",1
+"2015-07-01",180,"Chemicals","Bolivia",1
+"2015-07-01",100,"Entertainment","Gabon",1
+"2015-07-01",190,"Energy","Mozambique",1
+"2015-07-01",1360,"Energy","Bangladesh",1
+"2015-07-01",240,"Technology","Guinea",1
+"2015-07-01",180,"Energy","Thailand",1
+"2015-07-01",100,"Real estate","Malaysia",1
+"2015-07-01",130,"Tourism","UAE",1
+"2015-07-01",2200,"Energy","Brazil",0
+"2015-07-01",1100,"Energy","Zimbabwe",1
+"2015-07-01",420,"Real estate","Britain",0
+"2015-07-01",100,"Transport","Mexico",0
+"2015-07-01",440,"Finance","USA",0
+"2015-07-01",1810,"Energy","Pakistan",1
+"2015-07-01",510,"Metals","Indonesia",1
+"2015-07-01",150,"Logistics","Singapore",1
+"2015-07-01",1760,"Energy","Vietnam",1
+"2015-07-01",220,"Metals","Democratic Republic of the Congo",1
+"2015-07-01",750,"Energy","Bangladesh",1
+"2015-07-01",130,"Real estate","USA",0
+"2015-07-01",250,"Real estate","Nepal",1
+"2015-07-01",170,"Energy","Canada",0
+"2015-07-01",1310,"Energy","Vietnam",1
+"2015-07-01",130,"Entertainment","Britain",0
+"2015-07-01",380,"Real estate","Italy",1
+"2015-07-01",2810,"Logistics","Switzerland",0
+"2015-07-01",2590,"Finance","Sweden",0
+"2015-07-01",1790,"Real estate","Australia",0
+"2015-07-01",230,"Real estate","USA",0
+"2015-07-01",290,"Real estate","Belgium",0
+"2015-07-01",1150,"Real estate","France",0
+"2015-07-01",230,"Finance","Germany",0
+"2015-06-01",120,"Transport","Cambodia",1
+"2015-06-01",140,"Energy","Saudi Arabia",1
+"2015-06-01",100,"Utilities","Sri Lanka",1
+"2015-06-01",1620,"Transport","Pakistan",1
+"2015-06-01",270,"Real estate","Algeria",1
+"2015-06-01",670,"Transport","Australia",0
+"2015-06-01",1400,"Transport","Tanzania",1
+"2015-06-01",380,"Transport","Russian Federation",1
+"2015-06-01",300,"Agriculture","Oman",1
+"2015-06-01",820,"Finance","Italy",1
+"2015-06-01",1220,"Finance","Italy",1
+"2015-06-01",100,"Energy","USA",0
+"2015-06-01",130,"Tourism","Australia",0
+"2015-06-01",7860,"Transport","Italy",1
+"2015-06-01",800,"Transport","USA",0
+"2015-06-01",430,"Tourism","France",0
+"2015-06-01",730,"Technology","USA",0
+"2015-06-01",1500,"Finance","Singapore",1
+"2015-06-01",1500,"Finance","Australia",0
+"2015-06-01",440,"Agriculture","Russian Federation",1
+"2015-05-01",230,"Health","Trinidad-Tobago",1
+"2015-05-01",240,"Energy","Indonesia",1
+"2015-05-01",100,"Real estate","Turkey",1
+"2015-05-01",530,"Energy","Iraq",1
+"2015-05-01",130,"Energy","Kenya",1
+"2015-05-01",130,"Transport","Cambodia",1
+"2015-05-01",480,"Energy","Laos",1
+"2015-05-01",220,"Chemicals","Thailand",1
+"2015-05-01",200,"Transport","Brunei",1
+"2015-05-01",100,"Real estate","Brazil",0
+"2015-05-01",160,"Real estate","Turkey",1
+"2015-05-01",120,"Metals","Indonesia",1
+"2015-05-01",670,"Metals","Russian Federation",1
+"2015-05-01",330,"Energy","UAE",1
+"2015-05-01",210,"Energy","Malawi",1
+"2015-05-01",160,"Transport","Belarus",1
+"2015-05-01",510,"Transport","Russian Federation",1
+"2015-05-01",590,"Energy","Ghana",1
+"2015-05-01",230,"Real estate","Singapore",1
+"2015-05-01",190,"Other","Egypt",1
+"2015-05-01",100,"Finance","Czech Republic",1
+"2015-05-01",130,"Consumer","South Korea",1
+"2015-05-01",1940,"Metals","Mongolia",1
+"2015-05-01",500,"Transport","USA",0
+"2015-05-01",280,"Transport","Malaysia",1
+"2015-05-01",1800,"Technology","Netherlands",0
+"2015-05-01",340,"Tourism","Australia",0
+"2015-05-01",140,"Real estate","Australia",0
+"2015-05-01",120,"Real estate","Kenya",1
+"2015-05-01",120,"Real estate","Rwanda",1
+"2015-05-01",300,"Metals","Papua New Guinea",1
+"2015-05-01",410,"Metals","Democratic Republic of the Congo",1
+"2015-05-01",810,"Metals","Australia",0
+"2015-05-01",1840,"Finance","USA",0
+"2015-05-01",170,"Finance","Brazil",0
+"2015-05-01",100,"Energy","Brazil",0
+"2015-05-01",160,"Energy","Thailand",1
+"2015-04-01",390,"Transport","Zambia",1
+"2015-04-01",1500,"Energy","Venezuela",1
+"2015-04-01",100,"Real estate","Saudi Arabia",1
+"2015-04-01",450,"Chemicals","Saudi Arabia",1
+"2015-04-01",350,"Transport","Ghana",1
+"2015-04-01",600,"Transport","Egypt",1
+"2015-04-01",410,"Transport","Mozambique",1
+"2015-04-01",400,"Transport","Kyrgyzstan",1
+"2015-04-01",460,"Other","Kuwait",1
+"2015-04-01",1930,"Real estate","Zimbabwe",1
+"2015-04-01",160,"Real estate","Sri Lanka",1
+"2015-04-01",270,"Real estate","Ethiopia",1
+"2015-04-01",130,"Energy","Kazakhstan",1
+"2015-04-01",220,"Transport","USA",0
+"2015-04-01",190,"Transport","Britain",0
+"2015-04-01",320,"Energy","USA",0
+"2015-04-01",730,"Energy","Spain",0
+"2015-04-01",100,"Technology","Russian Federation",1
+"2015-04-01",1900,"Technology","USA",0
+"2015-04-01",130,"Technology","USA",0
+"2015-04-01",380,"Real estate","Australia",0
+"2015-04-01",130,"Real estate","USA",0
+"2015-04-01",330,"Real estate","USA",0
+"2015-04-01",300,"Entertainment","Canada",0
+"2015-04-01",770,"Metals","Sierra Leone",1
+"2015-04-01",1070,"Energy","Pakistan",1
+"2015-03-01",300,"Transport","Belarus",1
+"2015-03-01",160,"Transport","Pakistan",1
+"2015-03-01",300,"Energy","Argentina",1
+"2015-03-01",380,"Energy","South Africa",1
+"2015-03-01",870,"Energy","Indonesia",1
+"2015-03-01",380,"Entertainment","USA",0
+"2015-03-01",370,"Transport","Britain",0
+"2015-03-01",140,"Tourism","Britain",0
+"2015-03-01",200,"Entertainment","USA",0
+"2015-03-01",140,"Real estate","USA",0
+"2015-03-01",730,"Utilities","Singapore",1
+"2015-03-01",120,"Energy","Kazakhstan",1
+"2015-03-01",350,"Energy","Kazakhstan",1
+"2015-03-01",100,"Energy","Malaysia",1
+"2015-02-01",150,"Metals","Kazakhstan",1
+"2015-02-01",290,"Transport","Timor-Leste",1
+"2015-02-01",110,"Energy","Mali",1
+"2015-02-01",230,"Transport","Ethiopia",1
+"2015-02-01",170,"Tourism","UAE",1
+"2015-02-01",650,"Energy","Cameroon",1
+"2015-02-01",400,"Transport","Thailand",1
+"2015-02-01",390,"Transport","Indonesia",1
+"2015-02-01",100,"Real estate","Indonesia",1
+"2015-02-01",380,"Energy","Turkey",1
+"2015-02-01",110,"Transport","Germany",0
+"2015-02-01",230,"Tourism","USA",0
+"2015-02-01",300,"Technology","Argentina",1
+"2015-02-01",170,"Technology","India",0
+"2015-02-01",400,"Real estate","USA",0
+"2015-02-01",1190,"Real estate","Japan",0
+"2015-02-01",1190,"Entertainment","Switzerland",0
+"2015-02-01",1670,"Finance","Netherlands",0
+"2015-02-01",1030,"Finance","South Korea",1
+"2015-01-01",170,"Transport","USA",0
+"2015-01-01",600,"Transport","Djibouti",1
+"2015-01-01",430,"Real estate","Malaysia",1
+"2015-01-01",350,"Metals","Democratic Republic of the Congo",1
+"2015-01-01",530,"Energy","Ecuador",1
+"2015-01-01",1130,"Tourism","France",0
+"2015-01-01",150,"Metals","Kyrgyzstan",1
+"2015-01-01",1660,"Technology","Singapore",1
+"2015-01-01",120,"Real estate","Canada",0
+"2015-01-01",110,"Transport","Germany",0
+"2015-01-01",100,"Technology","Israel",1
+"2015-01-01",660,"Real estate","Malaysia",1
+"2015-01-01",1240,"Real estate","USA",0
+"2015-01-01",790,"Real estate","Australia",0
+"2015-01-01",480,"Real estate","Britain",0
+"2014-12-01",650,"Agriculture","Ethiopia",1
+"2014-12-01",220,"Real estate","Mongolia",1
+"2014-12-01",120,"Transport","Macedonia",1
+"2014-12-01",2100,"Transport","South Sudan",1
+"2014-12-01",760,"Real estate","Venezuela",1
+"2014-12-01",100,"Energy","Pakistan",1
+"2014-12-01",640,"Transport","Benin",1
+"2014-12-01",440,"Chemicals","Indonesia",1
+"2014-12-01",260,"Transport","Antigua and Barbuda",1
+"2014-12-01",120,"Technology","Thailand",1
+"2014-12-01",100,"Utilities","Trinidad-Tobago",1
+"2014-12-01",610,"Energy","Mozambique",1
+"2014-12-01",180,"Energy","Iran",1
+"2014-12-01",550,"Chemicals","Kazakhstan",1
+"2014-12-01",940,"Energy","Russian Federation",1
+"2014-12-01",730,"Transport","Jamaica",1
+"2014-12-01",190,"Energy","USA",0
+"2014-12-01",3440,"Energy","Brunei",1
+"2014-12-01",160,"Tourism","Britain",0
+"2014-12-01",150,"Energy","Canada",0
+"2014-12-01",300,"Real estate","Britain",0
+"2014-12-01",620,"Chemicals","Uganda",1
+"2014-12-01",140,"Energy","Brazil",0
+"2014-12-01",790,"Transport","Australia",0
+"2014-12-01",190,"Transport","France",0
+"2014-12-01",160,"Tourism","USA",0
+"2014-12-01",600,"Transport","USA",0
+"2014-12-01",600,"Real estate","USA",0
+"2014-12-01",810,"Real estate","USA",0
+"2014-12-01",2580,"Real estate","USA",0
+"2014-12-01",180,"Other","Canada",0
+"2014-12-01",740,"Entertainment","Australia",0
+"2014-12-01",470,"Finance","Portugal",1
+"2014-12-01",230,"Finance","Belgium",0
+"2014-12-01",100,"Energy","Italy",1
+"2014-12-01",160,"Energy","Britain",0
+"2014-11-01",170,"Energy","Laos",1
+"2014-11-01",600,"Transport","Sri Lanka",1
+"2014-11-01",350,"Real estate","Indonesia",1
+"2014-11-01",120,"Energy","Canada",0
+"2014-11-01",1600,"Energy","Jordan",1
+"2014-11-01",320,"Transport","Iran",1
+"2014-11-01",100,"Energy","Saudi Arabia",1
+"2014-11-01",140,"Transport","Pakistan",1
+"2014-11-01",420,"Transport","Sri Lanka",1
+"2014-11-01",210,"Tourism","Equatorial Guinea",1
+"2014-11-01",1980,"Real estate","Saudi Arabia",1
+"2014-11-01",690,"Agriculture","Sri Lanka",1
+"2014-11-01",970,"Energy","Serbia",1
+"2014-11-01",2000,"Real estate","Guinea",1
+"2014-11-01",200,"Real estate","Malaysia",1
+"2014-11-01",170,"Energy","Australia",0
+"2014-11-01",210,"Other","Vietnam",1
+"2014-11-01",450,"Energy","Russian Federation",1
+"2014-11-01",120,"Agriculture","Angola",1
+"2014-11-01",400,"Tourism","Australia",0
+"2014-11-01",1490,"Tourism","France",0
+"2014-11-01",130,"Real estate","Australia",0
+"2014-11-01",230,"Metals","South Africa",1
+"2014-11-01",2760,"Energy","Italy",1
+"2014-11-01",1460,"Energy","Russian Federation",1
+"2014-11-01",2960,"Energy","Australia",0
+"2014-11-01",640,"Energy","Norway",0
+"2014-11-01",310,"Agriculture","New Zealand",1
+"2014-10-01",130,"Logistics","Algeria",1
+"2014-10-01",240,"Metals","India",0
+"2014-10-01",550,"Real estate","Tanzania",1
+"2014-10-01",240,"Energy","Malaysia",1
+"2014-10-01",370,"Energy","Myanmar",1
+"2014-10-01",360,"Transport","Namibia",1
+"2014-10-01",220,"Transport","Nepal",1
+"2014-10-01",990,"Real estate","Tanzania",1
+"2014-10-01",750,"Tourism","Algeria",1
+"2014-10-01",310,"Energy","Ghana",1
+"2014-10-01",110,"Agriculture","Zambia",1
+"2014-10-01",100,"Finance","Israel",1
+"2014-10-01",170,"Real estate","Belgium",0
+"2014-10-01",290,"Transport","Russian Federation",1
+"2014-10-01",230,"Real estate","Britain",0
+"2014-10-01",1950,"Tourism","USA",0
+"2014-10-01",180,"Technology","Canada",0
+"2014-10-01",590,"Health","Portugal",1
+"2014-10-01",630,"Real estate","Germany",0
+"2014-10-01",310,"Finance","Belgium",0
+"2014-10-01",140,"Finance","Italy",1
+"2014-09-01",100,"Energy","Ethiopia",1
+"2014-09-01",140,"Transport","Ecuador",1
+"2014-09-01",270,"Transport","Singapore",1
+"2014-09-01",270,"Energy","Romania",1
+"2014-09-01",220,"Utilities","Qatar",1
+"2014-09-01",120,"Energy","Laos",1
+"2014-09-01",250,"Transport","Sri Lanka",1
+"2014-09-01",1130,"Energy","Pakistan",1
+"2014-09-01",400,"Transport","Maldives",1
+"2014-09-01",950,"Transport","Israel",1
+"2014-09-01",130,"Logistics","Croatia",1
+"2014-09-01",680,"Transport","Nigeria",1
+"2014-09-01",1210,"Transport","Nigeria",1
+"2014-09-01",100,"Real estate","Singapore",1
+"2014-09-01",560,"Metals","Kazakhstan",1
+"2014-09-01",440,"Energy","Ethiopia",1
+"2014-09-01",530,"Energy","Zimbabwe",1
+"2014-09-01",130,"Tourism","Australia",0
+"2014-09-01",190,"Transport","USA",0
+"2014-09-01",220,"Entertainment","Britain",0
+"2014-09-01",390,"Logistics","Sri Lanka",1
+"2014-09-01",150,"Real estate","Australia",0
+"2014-09-01",480,"Real estate","USA",0
+"2014-09-01",200,"Entertainment","USA",0
+"2014-09-01",130,"Entertainment","USA",0
+"2014-09-01",400,"Metals","Switzerland",0
+"2014-09-01",990,"Energy","Russian Federation",1
+"2014-08-01",480,"Transport","Kenya",1
+"2014-08-01",180,"Agriculture","Uzbekistan",1
+"2014-08-01",580,"Transport","Bolivia",1
+"2014-08-01",330,"Tourism","UAE",1
+"2014-08-01",1330,"Energy","Malaysia",1
+"2014-08-01",240,"Energy","Pakistan",1
+"2014-08-01",1080,"Energy","Venezuela",1
+"2014-08-01",990,"Energy","Angola",1
+"2014-08-01",130,"Energy","Pakistan",1
+"2014-08-01",480,"Chemicals","Uzbekistan",1
+"2014-08-01",110,"Tourism","USA",0
+"2014-08-01",200,"Energy","Poland",1
+"2014-08-01",380,"Real estate","Singapore",1
+"2014-08-01",120,"Real estate","Australia",0
+"2014-08-01",640,"Real estate","Australia",0
+"2014-08-01",290,"Real estate","Britain",0
+"2014-08-01",1920,"Metals","Namibia",1
+"2014-08-01",840,"Metals","Indonesia",1
+"2014-08-01",460,"Finance","USA",0
+"2014-08-01",630,"Finance","Italy",1
+"2014-08-01",250,"Finance","USA",0
+"2014-08-01",440,"Energy","Australia",0
+"2014-08-01",280,"Energy","Kyrgyzstan",1
+"2014-08-01",1090,"Energy","Canada",0
+"2014-08-01",300,"Agriculture","Uganda",1
+"2014-07-01",140,"Real estate","Kuwait",1
+"2014-07-01",200,"Transport","Singapore",1
+"2014-07-01",300,"Transport","Kyrgyzstan",1
+"2014-07-01",990,"Transport","Kyrgyzstan",1
+"2014-07-01",130,"Transport","Ethiopia",1
+"2014-07-01",370,"Real estate","Egypt",1
+"2014-07-01",190,"Real estate","Singapore",1
+"2014-07-01",990,"Metals","Indonesia",1
+"2014-07-01",610,"Energy","Iraq",1
+"2014-07-01",1640,"Energy","Russian Federation",1
+"2014-07-01",350,"Agriculture","Argentina",1
+"2014-07-01",610,"Logistics","USA",0
+"2014-07-01",110,"Energy","Ghana",1
+"2014-07-01",200,"Transport","USA",0
+"2014-07-01",110,"Consumer","Germany",0
+"2014-07-01",280,"Transport","Italy",1
+"2014-07-01",110,"Technology","Italy",1
+"2014-07-01",520,"Technology","Italy",1
+"2014-07-01",300,"Real estate","Ethiopia",1
+"2014-07-01",470,"Real estate","Australia",0
+"2014-07-01",320,"Real estate","Indonesia",1
+"2014-07-01",300,"Real estate","Brazil",0
+"2014-07-01",200,"Other","Malaysia",1
+"2014-07-01",120,"Entertainment","USA",0
+"2014-07-01",860,"Metals","Australia",0
+"2014-07-01",1360,"Energy","Indonesia",1
+"2014-07-01",170,"Energy","Britain",0
+"2014-07-01",1540,"Agriculture","Britain",0
+"2014-07-01",220,"Agriculture","USA",0
+"2014-06-01",100,"Health","Kenya",1
+"2014-06-01",170,"Utilities","Qatar",1
+"2014-06-01",890,"Transport","Algeria",1
+"2014-06-01",590,"Real estate","Congo",1
+"2014-06-01",250,"Real estate","Papua New Guinea",1
+"2014-06-01",240,"Energy","Bolivia",1
+"2014-06-01",2040,"Metals","Ecuador",1
+"2014-06-01",190,"Agriculture","Australia",0
+"2014-06-01",140,"Consumer","USA",0
+"2014-06-01",880,"Technology","Thailand",1
+"2014-06-01",190,"Real estate","Britain",0
+"2014-06-01",950,"Real estate","Britain",0
+"2014-06-01",360,"Real estate","Spain",0
+"2014-06-01",740,"Tourism","Antigua and Barbuda",1
+"2014-06-01",200,"Entertainment","USA",0
+"2014-06-01",170,"Consumer","USA",0
+"2014-06-01",100,"Energy","India",0
+"2014-05-01",230,"Energy","Uzbekistan",1
+"2014-05-01",120,"Transport","Fiji",1
+"2014-05-01",390,"Energy","Kyrgyzstan",1
+"2014-05-01",300,"Real estate","Democratic Republic of the Congo",1
+"2014-05-01",240,"Transport","Congo",1
+"2014-05-01",100,"Agriculture","Zambia",1
+"2014-05-01",100,"Transport","UAE",1
+"2014-05-01",290,"Transport","Singapore",1
+"2014-05-01",170,"Transport","Qatar",1
+"2014-05-01",150,"Real estate","Russian Federation",1
+"2014-05-01",180,"Real estate","Russian Federation",1
+"2014-05-01",420,"Energy","Iraq",1
+"2014-05-01",300,"Energy","Democratic Republic of the Congo",1
+"2014-05-01",1000,"Energy","Philippines",1
+"2014-05-01",500,"Utilities","Saudi Arabia",1
+"2014-05-01",600,"Energy","Turkmenistan",1
+"2014-05-01",640,"Transport","Germany",0
+"2014-05-01",180,"Tourism","Spain",0
+"2014-05-01",300,"Technology","USA",0
+"2014-05-01",350,"Real estate","USA",0
+"2014-05-01",210,"Logistics","Singapore",1
+"2014-05-01",350,"Metals","Iran",1
+"2014-05-01",510,"Metals","Guinea",1
+"2014-05-01",560,"Energy","Italy",1
+"2014-05-01",1240,"Energy","Canada",0
+"2014-05-01",1560,"Agriculture","Israel",1
+"2014-04-01",340,"Energy","Belarus",1
+"2014-04-01",190,"Energy","Saudi Arabia",1
+"2014-04-01",280,"Energy","Guinea-Bissau",1
+"2014-04-01",130,"Transport","Pakistan",1
+"2014-04-01",480,"Transport","Ethiopia",1
+"2014-04-01",100,"Transport","UAE",1
+"2014-04-01",230,"Transport","Algeria",1
+"2014-04-01",110,"Transport","UAE",1
+"2014-04-01",110,"Transport","Bolivia",1
+"2014-04-01",260,"Real estate","Algeria",1
+"2014-04-01",180,"Real estate","Congo",1
+"2014-04-01",500,"Metals","Venezuela",1
+"2014-04-01",670,"Energy","Indonesia",1
+"2014-04-01",100,"Agriculture","South Sudan",1
+"2014-04-01",180,"Real estate","Malaysia",1
+"2014-04-01",750,"Agriculture","Brazil",0
+"2014-04-01",820,"Transport","Australia",0
+"2014-04-01",520,"Technology","Pakistan",1
+"2014-04-01",510,"Real estate","Australia",0
+"2014-04-01",760,"Consumer","Britain",0
+"2014-04-01",6950,"Metals","Peru",1
+"2014-04-01",320,"Finance","Turkey",1
+"2014-04-01",1090,"Energy","Kazakhstan",1
+"2014-04-01",440,"Energy","Canada",0
+"2014-03-01",190,"Energy","Bangladesh",1
+"2014-03-01",200,"Transport","Equatorial Guinea",1
+"2014-03-01",710,"Transport","Sierra Leone",1
+"2014-03-01",680,"Transport","Congo",1
+"2014-03-01",390,"Utilities","Equatorial Guinea",1
+"2014-03-01",220,"Transport","Pakistan",1
+"2014-03-01",210,"Transport","USA",0
+"2014-03-01",1020,"Transport","Montenegro",1
+"2014-03-01",710,"Real estate","Russian Federation",1
+"2014-03-01",160,"Real estate","Iran",1
+"2014-03-01",250,"Utilities","Congo",1
+"2014-03-01",250,"Energy","Pakistan",1
+"2014-03-01",440,"Energy","Malta",1
+"2014-03-01",200,"Transport","Britain",0
+"2014-03-01",220,"Technology","USA",0
+"2014-03-01",1060,"Real estate","Britain",0
+"2014-03-01",320,"Tourism","Canada",0
+"2014-03-01",210,"Real estate","USA",0
+"2014-03-01",800,"Utilities","New Zealand",1
+"2014-03-01",120,"Other","Pakistan",1
+"2014-03-01",500,"Entertainment","South Korea",1
+"2014-03-01",140,"Finance","Germany",0
+"2014-03-01",2760,"Energy","Italy",1
+"2014-03-01",530,"Energy","Kazakhstan",1
+"2014-03-01",250,"Energy","Zimbabwe",1
+"2014-02-01",230,"Transport","Pakistan",1
+"2014-02-01",200,"Transport","Saudi Arabia",1
+"2014-02-01",200,"Transport","Tanzania",1
+"2014-02-01",400,"Transport","Eritrea",1
+"2014-02-01",100,"Transport","Cuba",1
+"2014-02-01",130,"Transport","Congo",1
+"2014-02-01",480,"Transport","Venezuela",1
+"2014-02-01",520,"Entertainment","Congo",1
+"2014-02-01",490,"Metals","Kazakhstan",1
+"2014-02-01",970,"Energy","Brazil",0
+"2014-02-01",240,"Energy","Ecuador",1
+"2014-02-01",1400,"Energy","Kyrgyzstan",1
+"2014-02-01",200,"Consumer","India",0
+"2014-02-01",160,"Energy","Liberia",1
+"2014-02-01",150,"Transport","USA",0
+"2014-02-01",1100,"Transport","France",0
+"2014-02-01",310,"Technology","France",0
+"2014-02-01",1100,"Tourism","South Korea",1
+"2014-02-01",100,"Real estate","USA",0
+"2014-02-01",540,"Real estate","Australia",0
+"2014-02-01",160,"Logistics","Singapore",1
+"2014-02-01",150,"Metals","Congo",1
+"2014-02-01",690,"Finance","Britain",0
+"2014-02-01",670,"Energy","USA",0
+"2014-02-01",430,"Energy","Kyrgyzstan",1
+"2014-02-01",390,"Energy","Brazil",0
+"2014-02-01",2040,"Agriculture","Netherlands",0
+"2014-01-01",130,"Transport","Tanzania",1
+"2014-01-01",450,"Energy","Zambia",1
+"2014-01-01",780,"Energy","Angola",1
+"2014-01-01",210,"Energy","Philippines",1
+"2014-01-01",100,"Energy","Eritrea",1
+"2014-01-01",100,"Energy","Kuwait",1
+"2014-01-01",100,"Energy","Nepal",1
+"2014-01-01",190,"Real estate","Iraq",1
+"2014-01-01",130,"Energy","Chad",1
+"2014-01-01",1450,"Transport","Sudan",1
+"2014-01-01",300,"Utilities","Ghana",1
+"2014-01-01",240,"Energy","Pakistan",1
+"2014-01-01",100,"Consumer","Germany",0
+"2014-01-01",200,"Transport","USA",0
+"2014-01-01",2140,"Technology","USA",0
+"2014-01-01",2910,"Technology","USA",0
+"2014-01-01",190,"Metals","Namibia",1
+"2014-01-01",2030,"Finance","Portugal",1
+"2013-12-01",570,"Transport","Cameroon",1
+"2013-12-01",1770,"Energy","Saudi Arabia",1
+"2013-12-01",1720,"Energy","Saudi Arabia",1
+"2013-12-01",1290,"Energy","Nigeria",1
+"2013-12-01",350,"Transport","Equatorial Guinea",1
+"2013-12-01",180,"Metals","Indonesia",1
+"2013-12-01",1190,"Transport","Malaysia",1
+"2013-12-01",100,"Logistics","Pakistan",1
+"2013-12-01",2460,"Transport","Ethiopia",1
+"2013-12-01",1180,"Transport","Algeria",1
+"2013-12-01",200,"Real estate","Myanmar",1
+"2013-12-01",540,"Real estate","Nigeria",1
+"2013-12-01",160,"Utilities","Iraq",1
+"2013-12-01",190,"Energy","Poland",1
+"2013-12-01",280,"Energy","Mexico",0
+"2013-12-01",290,"Energy","USA",0
+"2013-12-01",170,"Transport","Canada",0
+"2013-12-01",410,"Energy","Cambodia",1
+"2013-12-01",1280,"Real estate","Britain",0
+"2013-12-01",810,"Real estate","Britain",0
+"2013-12-01",180,"Energy","Laos",1
+"2013-12-01",120,"Energy","USA",0
+"2013-12-01",220,"Transport","Luxembourg",1
+"2013-12-01",100,"Transport","Britain",0
+"2013-12-01",100,"Tourism","USA",0
+"2013-12-01",340,"Health","USA",0
+"2013-12-01",1370,"Real estate","Malaysia",1
+"2013-12-01",180,"Real estate","USA",0
+"2013-12-01",260,"Real estate","Germany",0
+"2013-12-01",220,"Other","USA",0
+"2013-12-01",400,"Metals","Mozambique",1
+"2013-12-01",250,"Energy","Brazil",0
+"2013-12-01",130,"Energy","Brazil",0
+"2013-12-01",460,"Energy","Russian Federation",1
+"2013-11-01",120,"Real estate","Singapore",1
+"2013-11-01",180,"Technology","Bangladesh",1
+"2013-11-01",300,"Logistics","Namibia",1
+"2013-11-01",510,"Transport","Yemen",1
+"2013-11-01",150,"Transport","Singapore",1
+"2013-11-01",400,"Transport","Sri Lanka",1
+"2013-11-01",370,"Transport","Macedonia",1
+"2013-11-01",540,"Tourism","Sri Lanka",1
+"2013-11-01",290,"Health","Kenya",1
+"2013-11-01",190,"Real estate","Saudi Arabia",1
+"2013-11-01",200,"Real estate","Tanzania",1
+"2013-11-01",270,"Other","Jordan",1
+"2013-11-01",170,"Utilities","Iraq",1
+"2013-11-01",130,"Utilities","Equatorial Guinea",1
+"2013-11-01",540,"Energy","Romania",1
+"2013-11-01",1150,"Chemicals","Congo",1
+"2013-11-01",400,"Transport","Germany",0
+"2013-11-01",280,"Real estate","Australia",0
+"2013-11-01",110,"Real estate","South Africa",1
+"2013-11-01",980,"Tourism","South Korea",1
+"2013-11-01",2890,"Energy","Peru",1
+"2013-11-01",1250,"Energy","Iraq",1
+"2013-10-01",430,"Energy","Mali",1
+"2013-10-01",870,"Energy","Vietnam",1
+"2013-10-01",510,"Energy","Algeria",1
+"2013-10-01",300,"Energy","Laos",1
+"2013-10-01",100,"Transport","Bolivia",1
+"2013-10-01",900,"Transport","Indonesia",1
+"2013-10-01",130,"Transport","Norway",0
+"2013-10-01",170,"Transport","Papua New Guinea",1
+"2013-10-01",700,"Technology","Denmark",0
+"2013-10-01",300,"Technology","Bolivia",1
+"2013-10-01",280,"Real estate","Nigeria",1
+"2013-10-01",220,"Real estate","Britain",0
+"2013-10-01",240,"Utilities","Ghana",1
+"2013-10-01",690,"Energy","Tanzania",1
+"2013-10-01",140,"Energy","Tanzania",1
+"2013-10-01",400,"Energy","Tanzania",1
+"2013-10-01",450,"Metals","Guinea",1
+"2013-10-01",470,"Logistics","Netherlands",0
+"2013-10-01",270,"Real estate","Britain",0
+"2013-10-01",100,"Transport","USA",0
+"2013-10-01",200,"Technology","Britain",0
+"2013-10-01",730,"Real estate","USA",0
+"2013-10-01",100,"Real estate","Britain",0
+"2013-10-01",110,"Consumer","USA",0
+"2013-10-01",100,"Metals","Myanmar",1
+"2013-10-01",720,"Finance","Brazil",0
+"2013-10-01",150,"Energy","Sao Tome",1
+"2013-10-01",1400,"Energy","Brazil",0
+"2013-10-01",620,"Energy","Russian Federation",1
+"2013-10-01",120,"Energy","Argentina",1
+"2013-09-01",2470,"Transport","Argentina",0
+"2013-09-01",600,"Energy","Laos",0
+"2013-09-01",390,"Transport","Saudi Arabia",0
+"2013-09-01",100,"Transport","Sri Lanka",0
+"2013-09-01",140,"Transport","Vietnam",0
+"2013-09-01",1700,"Energy","Jordan",0
+"2013-09-01",1690,"Energy","Uganda",0
+"2013-09-01",300,"Energy","Canada",0
+"2013-09-01",600,"Real estate","Angola",0
+"2013-09-01",140,"Real estate","Germany",0
+"2013-09-01",110,"Metals","Australia",0
+"2013-09-01",230,"Metals","Australia",0
+"2013-09-01",1400,"Energy","Venezuela",0
+"2013-09-01",1440,"Energy","Uganda",0
+"2013-09-01",2040,"Agriculture","Russian Federation",0
+"2013-08-01",300,"Logistics","Sri Lanka",0
+"2013-08-01",240,"Transport","Zambia",0
+"2013-08-01",200,"Transport","Equatorial Guinea",0
+"2013-08-01",800,"Technology","Ethiopia",0
+"2013-08-01",320,"Other","Equatorial Guinea",0
+"2013-08-01",290,"Agriculture","Bangladesh",0
+"2013-08-01",100,"Energy","Uganda",0
+"2013-08-01",100,"Energy","Malaysia",0
+"2013-08-01",220,"Energy","Turkey",0
+"2013-08-01",2700,"Energy","India",0
+"2013-08-01",130,"Transport","Malaysia",0
+"2013-08-01",910,"Real estate","Singapore",0
+"2013-08-01",160,"Other","Japan",0
+"2013-08-01",140,"Metals","Australia",0
+"2013-08-01",3100,"Energy","Egypt",0
+"2013-07-01",250,"Energy","Laos",0
+"2013-07-01",300,"Energy","Bangladesh",0
+"2013-07-01",700,"Transport","Sudan",0
+"2013-07-01",330,"Energy","Cameroon",0
+"2013-07-01",100,"Transport","Malaysia",0
+"2013-07-01",500,"Utilities","Saudi Arabia",0
+"2013-07-01",160,"Entertainment","Algeria",0
+"2013-07-01",200,"Energy","Nigeria",0
+"2013-07-01",420,"Energy","Nigeria",0
+"2013-07-01",550,"Energy","Iraq",0
+"2013-07-01",600,"Energy","Ecuador",0
+"2013-07-01",560,"Energy","Uganda",0
+"2013-07-01",280,"Energy","Bosnia",0
+"2013-07-01",360,"Energy","Morocco",0
+"2013-07-01",340,"Energy","Ethiopia",0
+"2013-07-01",120,"Utilities","South Sudan",0
+"2013-07-01",240,"Real estate","Singapore",0
+"2013-07-01",320,"Metals","Indonesia",0
+"2013-07-01",240,"Tourism","Spain",0
+"2013-07-01",1260,"Real estate","USA",0
+"2013-07-01",390,"Real estate","Britain",0
+"2013-07-01",350,"Entertainment","USA",0
+"2013-07-01",1700,"Metals","Sierra Leone",0
+"2013-07-01",820,"Metals","Australia",0
+"2013-07-01",180,"Metals","Uganda",0
+"2013-07-01",140,"Energy","USA",0
+"2013-07-01",5300,"Energy","Kazakhstan",0
+"2013-07-01",110,"Chemicals","Singapore",0
+"2013-06-01",290,"Metals","Australia",0
+"2013-06-01",460,"Transport","Uzbekistan",0
+"2013-06-01",600,"Transport","Qatar",0
+"2013-06-01",140,"Transport","Papua New Guinea",0
+"2013-06-01",330,"Transport","Serbia",0
+"2013-06-01",240,"Other","Equatorial Guinea",0
+"2013-06-01",120,"Real estate","Congo",0
+"2013-06-01",110,"Energy","Thailand",0
+"2013-06-01",100,"Health","Zimbabwe",0
+"2013-06-01",140,"Utilities","Zimbabwe",0
+"2013-06-01",650,"Energy","Congo",0
+"2013-06-01",450,"Tourism","UAE",0
+"2013-06-01",500,"Transport","Britain",0
+"2013-06-01",290,"Health","USA",0
+"2013-06-01",110,"Health","USA",0
+"2013-06-01",750,"Real estate","USA",0
+"2013-06-01",680,"Real estate","USA",0
+"2013-06-01",260,"Real estate","Sri Lanka",0
+"2013-06-01",1090,"Tourism","Britain",0
+"2013-06-01",200,"Real estate","Brazil",0
+"2013-06-01",1520,"Energy","Angola",0
+"2013-06-01",380,"Energy","Malaysia",0
+"2013-05-01",280,"Energy","Bangladesh",0
+"2013-05-01",120,"Transport","Gabon",0
+"2013-05-01",130,"Transport","USA",0
+"2013-05-01",130,"Technology","Bangladesh",0
+"2013-05-01",250,"Metals","Ukraine",0
+"2013-05-01",240,"Energy","Malaysia",0
+"2013-05-01",560,"Energy","Poland",0
+"2013-05-01",2400,"Energy","Turkey",0
+"2013-05-01",230,"Utilities","Sri Lanka",0
+"2013-05-01",360,"Tourism","France",0
+"2013-05-01",110,"Technology","Vietnam",0
+"2013-05-01",120,"Other","Vietnam",0
+"2013-05-01",140,"Metals","Australia",0
+"2013-05-01",100,"Metals","Indonesia",0
+"2013-05-01",100,"Finance","Russian Federation",0
+"2013-05-01",3810,"Energy","Australia",0
+"2013-05-01",810,"Energy","Australia",0
+"2013-05-01",7100,"Agriculture","USA",0
+"2013-04-01",130,"Energy","Niger",0
+"2013-04-01",600,"Energy","Philippines",0
+"2013-04-01",1460,"Energy","Ethiopia",0
+"2013-04-01",150,"Transport","Zimbabwe",0
+"2013-04-01",1300,"Technology","Italy",0
+"2013-04-01",480,"Technology","Nigeria",0
+"2013-04-01",750,"Technology","Nigeria",0
+"2013-04-01",220,"Health","South Sudan",0
+"2013-04-01",180,"Energy","Bangladesh",0
+"2013-04-01",240,"Health","Israel",0
+"2013-04-01",110,"Real estate","Singapore",0
+"2013-04-01",100,"Other","Russian Federation",0
+"2013-04-01",230,"Real estate","Egypt",0
+"2013-04-01",750,"Metals","Russian Federation",0
+"2013-04-01",100,"Finance","USA",0
+"2013-04-01",130,"Energy","South Korea",0
+"2013-04-01",320,"Agriculture","Brazil",0
+"2013-03-01",200,"Health","Sri Lanka",0
+"2013-03-01",100,"Agriculture","Papua New Guinea",0
+"2013-03-01",680,"Agriculture","Ethiopia",0
+"2013-03-01",100,"Transport","Zambia",0
+"2013-03-01",250,"Transport","Cambodia",0
+"2013-03-01",120,"Health","UAE",0
+"2013-03-01",120,"Real estate","Indonesia",0
+"2013-03-01",300,"Metals","Malaysia",0
+"2013-03-01",110,"Energy","Indonesia",0
+"2013-03-01",240,"Real estate","Britain",0
+"2013-03-01",200,"Real estate","Australia",0
+"2013-03-01",250,"Real estate","Britain",0
+"2013-03-01",100,"Utilities","Portugal",0
+"2013-03-01",170,"Metals","Democratic Republic of the Congo",0
+"2013-03-01",1140,"Energy","Russian Federation",0
+"2013-03-01",4210,"Energy","Mozambique",0
+"2013-02-01",460,"Energy","Turkey",0
+"2013-02-01",400,"Tourism","Algeria",0
+"2013-02-01",250,"Health","Ecuador",0
+"2013-02-01",350,"Energy","Honduras",0
+"2013-02-01",480,"Transport","Malaysia",0
+"2013-02-01",150,"Transport","Britain",0
+"2013-02-01",310,"Tourism","Spain",0
+"2013-02-01",430,"Real estate","USA",0
+"2013-02-01",840,"Real estate","Britain",0
+"2013-02-01",110,"Real estate","Britain",0
+"2013-02-01",650,"Metals","Malaysia",0
+"2013-02-01",470,"Metals","Australia",0
+"2013-02-01",100,"Finance","Russian Federation",0
+"2013-02-01",1020,"Energy","USA",0
+"2013-02-01",180,"Agriculture","New Zealand",0
+"2013-01-01",130,"Energy","Nepal",0
+"2013-01-01",100,"Energy","Algeria",0
+"2013-01-01",150,"Transport","Ghana",0
+"2013-01-01",930,"Transport","Ivory Coast",0
+"2013-01-01",260,"Logistics","Pakistan",0
+"2013-01-01",160,"Transport","UAE",0
+"2013-01-01",210,"Transport","Zambia",0
+"2013-01-01",390,"Energy","Ecuador",0
+"2013-01-01",110,"Tourism","Equatorial Guinea",0
+"2013-01-01",130,"Real estate","Canada",0
+"2013-01-01",320,"Real estate","Mozambique",0
+"2013-01-01",710,"Metals","Iran",0
+"2013-01-01",570,"Energy","Ivory Coast",0
+"2013-01-01",250,"Energy","Indonesia",0
+"2013-01-01",300,"Energy","Pakistan",0
+"2013-01-01",1100,"Chemicals","Turkey",0
+"2013-01-01",530,"Transport","France",0
+"2013-01-01",1570,"Metals","Australia",0
+"2013-01-01",1700,"Energy","USA",0
+"2013-01-01",190,"Other","Malaysia",0
+"2012-12-01",730,"Transport","Mozambique",0
+"2012-12-01",100,"Technology","Sri Lanka",0
+"2012-12-01",110,"Energy","Bangladesh",0
+"2012-12-01",690,"Metals","Iran",0
+"2012-12-01",400,"Transport","Cameroon",0
+"2012-12-01",140,"Transport","Tanzania",0
+"2012-12-01",140,"Real estate","Singapore",0
+"2012-12-01",800,"Energy","Angola",0
+"2012-12-01",1480,"Other","Malaysia",0
+"2012-12-01",900,"Energy","Kazakhstan",0
+"2012-12-01",1090,"Metals","Papua New Guinea",0
+"2012-12-01",190,"Transport","Djibouti",0
+"2012-12-01",170,"Real estate","Georgia",0
+"2012-12-01",200,"Real estate","Indonesia",0
+"2012-12-01",500,"Energy","Kazakhstan",0
+"2012-12-01",140,"Logistics","Taiwan",0
+"2012-12-01",330,"Real estate","Malaysia",0
+"2012-12-01",240,"Real estate","Italy",0
+"2012-12-01",700,"Other","Switzerland",0
+"2012-12-01",840,"Metals","Australia",0
+"2012-12-01",660,"Metals","Cameroon",0
+"2012-12-01",380,"Metals","South Africa",0
+"2012-12-01",15100,"Energy","Canada",0
+"2012-12-01",2180,"Energy","Canada",0
+"2012-12-01",1630,"Energy","Australia",0
+"2012-12-01",470,"Energy","Portugal",0
+"2012-12-01",260,"Energy","USA",0
+"2012-12-01",170,"Agriculture","New Zealand",0
+"2012-11-01",350,"Energy","Tajikistan",0
+"2012-11-01",340,"Transport","Saudi Arabia",0
+"2012-11-01",480,"Transport","Uganda",0
+"2012-11-01",500,"Technology","Pakistan",0
+"2012-11-01",210,"Real estate","Indonesia",0
+"2012-11-01",110,"Real estate","Singapore",0
+"2012-11-01",650,"Energy","Zambia",0
+"2012-11-01",990,"Utilities","Saudi Arabia",0
+"2012-11-01",150,"Agriculture","New Zealand",0
+"2012-11-01",460,"Logistics","Brazil",0
+"2012-11-01",400,"Real estate","Britain",0
+"2012-11-01",300,"Real estate","Tajikistan",0
+"2012-11-01",110,"Other","Canada",0
+"2012-11-01",510,"Energy","Australia",0
+"2012-11-01",2500,"Energy","Nigeria",0
+"2012-11-01",730,"Agriculture","Australia",0
+"2012-10-01",150,"Real estate","Australia",0
+"2012-10-01",100,"Tourism","Laos",0
+"2012-10-01",1150,"Transport","Kenya",0
+"2012-10-01",660,"Transport","Gabon",0
+"2012-10-01",150,"Utilities","Zambia",0
+"2012-10-01",2290,"Metals","Vietnam",0
+"2012-10-01",210,"Energy","Bangladesh",0
+"2012-10-01",200,"Energy","UAE",0
+"2012-10-01",320,"Agriculture","Sudan",0
+"2012-10-01",100,"Transport","Vietnam",0
+"2012-10-01",730,"Transport","Britain",0
+"2012-10-01",150,"Transport","Thailand",0
+"2012-10-01",120,"Transport","Thailand",0
+"2012-10-01",900,"Health","South Korea",0
+"2012-10-01",680,"Consumer","New Zealand",0
+"2012-10-01",170,"Energy","Switzerland",0
+"2012-10-01",1510,"Energy","Canada",0
+"2012-10-01",1930,"Energy","Australia",0
+"2012-10-01",100,"Energy","South Africa",0
+"2012-09-01",130,"Transport","Georgia",0
+"2012-09-01",230,"Energy","Uzbekistan",0
+"2012-09-01",150,"Energy","Kazakhstan",0
+"2012-09-01",2040,"Energy","Uzbekistan",0
+"2012-09-01",2920,"Energy","Turkmenistan",0
+"2012-09-01",210,"Utilities","South Sudan",0
+"2012-09-01",150,"Transport","Ghana",0
+"2012-09-01",700,"Transport","Mozambique",0
+"2012-09-01",160,"Logistics","Saudi Arabia",0
+"2012-09-01",190,"Real estate","Saudi Arabia",0
+"2012-09-01",510,"Energy","Guyana",0
+"2012-09-01",310,"Utilities","Bangladesh",0
+"2012-09-01",220,"Metals","Tajikistan",0
+"2012-09-01",110,"Real estate","Australia",0
+"2012-09-01",130,"Energy","Turkey",0
+"2012-09-01",150,"Technology","Brazil",0
+"2012-09-01",300,"Technology","Nicaragua",0
+"2012-09-01",120,"Health","USA",0
+"2012-09-01",930,"Real estate","Germany",0
+"2012-09-01",240,"Metals","Australia",0
+"2012-09-01",450,"Metals","Germany",0
+"2012-09-01",100,"Metals","Uganda",0
+"2012-09-01",830,"Metals","Zambia",0
+"2012-09-01",130,"Energy","Nigeria",0
+"2012-09-01",210,"Energy","Australia",0
+"2012-09-01",120,"Agriculture","France",0
+"2012-09-01",260,"Agriculture","Australia",0
+"2012-08-01",1180,"Energy","Iraq",0
+"2012-08-01",120,"Transport","Ivory Coast",0
+"2012-08-01",190,"Energy","Kazakhstan",0
+"2012-08-01",230,"Tourism","Pakistan",0
+"2012-08-01",130,"Utilities","Iraq",0
+"2012-08-01",140,"Energy","Kenya",0
+"2012-08-01",300,"Energy","Laos",0
+"2012-08-01",190,"Logistics","Togo",0
+"2012-08-01",500,"Energy","USA",0
+"2012-08-01",640,"Energy","Indonesia",0
+"2012-08-01",210,"Agriculture","Mozambique",0
+"2012-07-01",180,"Metals","Indonesia",0
+"2012-07-01",420,"Metals","Indonesia",0
+"2012-07-01",200,"Agriculture","Ghana",0
+"2012-07-01",2660,"Transport","Kenya",0
+"2012-07-01",280,"Transport","Kenya",0
+"2012-07-01",120,"Transport","Rwanda",0
+"2012-07-01",590,"Transport","Kenya",0
+"2012-07-01",360,"Real estate","Ghana",0
+"2012-07-01",1310,"Energy","Venezuela",0
+"2012-07-01",210,"Energy","Cameroon",0
+"2012-07-01",1750,"Energy","Kenya",0
+"2012-07-01",200,"Agriculture","Zimbabwe",0
+"2012-07-01",700,"Energy","Iraq",0
+"2012-07-01",130,"Transport","Malaysia",0
+"2012-07-01",250,"Transport","Canada",0
+"2012-07-01",500,"Real estate","USA",0
+"2012-07-01",100,"Metals","Zambia",0
+"2012-07-01",1500,"Finance","USA",0
+"2012-07-01",1500,"Energy","Britain",0
+"2012-07-01",600,"Energy","Turkey",0
+"2012-06-01",150,"Energy","Saudi Arabia",0
+"2012-06-01",110,"Metals","India",0
+"2012-06-01",200,"Transport","Vietnam",0
+"2012-06-01",1580,"Transport","Ethiopia",0
+"2012-06-01",160,"Transport","South Sudan",0
+"2012-06-01",100,"Transport","USA",0
+"2012-06-01",170,"Other","Algeria",0
+"2012-06-01",170,"Energy","Bangladesh",0
+"2012-06-01",630,"Energy","Venezuela",0
+"2012-06-01",360,"Energy","Kazakhstan",0
+"2012-06-01",100,"Energy","Vietnam",0
+"2012-06-01",120,"Transport","Turkey",0
+"2012-06-01",590,"Energy","Russian Federation",0
+"2012-06-01",490,"Technology","France",0
+"2012-06-01",200,"Utilities","Britain",0
+"2012-06-01",330,"Entertainment","USA",0
+"2012-06-01",240,"Metals","Australia",0
+"2012-06-01",1260,"Metals","Indonesia",0
+"2012-06-01",900,"Finance","Russian Federation",0
+"2012-06-01",100,"Finance","Georgia",0
+"2012-06-01",200,"Energy","India",0
+"2012-06-01",510,"Energy","Germany",0
+"2012-05-01",1250,"Transport","Iran",0
+"2012-05-01",120,"Transport","Cambodia",0
+"2012-05-01",950,"Real estate","UAE",0
+"2012-05-01",100,"Utilities","Angola",0
+"2012-05-01",100,"Energy","Thailand",0
+"2012-05-01",200,"Energy","Malaysia",0
+"2012-05-01",1300,"Energy","Romania",0
+"2012-05-01",1200,"Technology","Hungary",0
+"2012-05-01",440,"Real estate","Britain",0
+"2012-05-01",150,"Real estate","Singapore",0
+"2012-05-01",2600,"Entertainment","USA",0
+"2012-05-01",240,"Entertainment","Cambodia",0
+"2012-05-01",420,"Metals","Russian Federation",0
+"2012-05-01",120,"Metals","Canada",0
+"2012-05-01",200,"Finance","Brazil",0
+"2012-05-01",940,"Energy","Brazil",0
+"2012-05-01",200,"Energy","Pakistan",0
+"2012-05-01",420,"Energy","USA",0
+"2012-05-01",1940,"Agriculture","Britain",0
+"2012-04-01",270,"Metals","Democratic Republic of the Congo",0
+"2012-04-01",320,"Transport","Mozambique",0
+"2012-04-01",140,"Transport","Israel",0
+"2012-04-01",1200,"Transport","Algeria",0
+"2012-04-01",230,"Energy","Nicaragua",0
+"2012-04-01",250,"Agriculture","Sri Lanka",0
+"2012-04-01",850,"Energy","Ghana",0
+"2012-04-01",1350,"Metals","Guinea",0
+"2012-04-01",330,"Real estate","Germany",0
+"2012-04-01",200,"Metals","Canada",0
+"2012-04-01",500,"Metals","Russian Federation",0
+"2012-04-01",200,"Finance","USA",0
+"2012-04-01",170,"Agriculture","New Zealand",0
+"2012-03-01",220,"Agriculture","Ethiopia",0
+"2012-03-01",290,"Transport","Papua New Guinea",0
+"2012-03-01",210,"Real estate","Bulgaria",0
+"2012-03-01",1420,"Real estate","Malaysia",0
+"2012-03-01",510,"Other","Kuwait",0
+"2012-03-01",180,"Energy","Ghana",0
+"2012-03-01",550,"Energy","Brazil",0
+"2012-03-01",320,"Energy","Egypt",0
+"2012-03-01",900,"Energy","Peru",0
+"2012-03-01",170,"Agriculture","Bolivia",0
+"2012-03-01",230,"Other","Egypt",0
+"2012-03-01",100,"Metals","Russian Federation",0
+"2012-03-01",2380,"Metals","Australia",0
+"2012-03-01",100,"Metals","Guyana",0
+"2012-02-01",740,"Energy","Indonesia",0
+"2012-02-01",310,"Utilities","Congo",0
+"2012-02-01",160,"Transport","Nigeria",0
+"2012-02-01",510,"Transport","Djibouti",0
+"2012-02-01",350,"Transport","Senegal",0
+"2012-02-01",400,"Transport","Belarus",0
+"2012-02-01",350,"Technology","Philippines",0
+"2012-02-01",1500,"Real estate","Algeria",0
+"2012-02-01",240,"Real estate","Benin",0
+"2012-02-01",300,"Energy","Venezuela",0
+"2012-02-01",100,"Energy","Indonesia",0
+"2012-02-01",270,"Agriculture","Pakistan",0
+"2012-02-01",940,"Transport","Nigeria",0
+"2012-02-01",990,"Metals","Britain",0
+"2012-02-01",120,"Transport","USA",0
+"2012-02-01",100,"Transport","Poland",0
+"2012-02-01",100,"Metals","USA",0
+"2012-02-01",510,"Energy","Portugal",0
+"2012-02-01",260,"Energy","Belgium",0
+"2012-02-01",300,"Energy","Canada",0
+"2012-02-01",980,"Energy","Colombia",0
+"2012-02-01",1030,"Energy","Canada",0
+"2012-02-01",190,"Energy","Chile",0
+"2012-01-01",170,"Transport","Liberia",0
+"2012-01-01",440,"Energy","Laos",0
+"2012-01-01",1400,"Energy","South Sudan",0
+"2012-01-01",150,"Logistics","Sri Lanka",0
+"2012-01-01",460,"Transport","Italy",0
+"2012-01-01",130,"Tourism","USA",0
+"2012-01-01",520,"Real estate","Laos",0
+"2012-01-01",480,"Real estate","Germany",0
+"2012-01-01",920,"Utilities","Britain",0
+"2012-01-01",100,"Metals","Canada",0
+"2012-01-01",670,"Energy","Canada",0
+"2012-01-01",2200,"Energy","USA",0
+"2011-12-01",490,"Transport","Sierra Leone",0
+"2011-12-01",820,"Metals","Australia",0
+"2011-12-01",150,"Transport","Togo",0
+"2011-12-01",5630,"Transport","Chad",0
+"2011-12-01",110,"Transport","USA",0
+"2011-12-01",350,"Real estate","Ethiopia",0
+"2011-12-01",740,"Real estate","Angola",0
+"2011-12-01",260,"Real estate","Angola",0
+"2011-12-01",130,"Real estate","Qatar",0
+"2011-12-01",850,"Energy","Kazakhstan",0
+"2011-12-01",100,"Energy","Ecuador",0
+"2011-12-01",480,"Energy","Ecuador",0
+"2011-12-01",270,"Energy","Australia",0
+"2011-12-01",3710,"Energy","Saudi Arabia",0
+"2011-12-01",130,"Energy","Pakistan",0
+"2011-12-01",800,"Logistics","Japan",0
+"2011-12-01",240,"Metals","Malaysia",0
+"2011-12-01",250,"Finance","South Africa",0
+"2011-12-01",3510,"Energy","Portugal",0
+"2011-12-01",150,"Energy","Madagascar",0
+"2011-12-01",1090,"Energy","Australia",0
+"2011-12-01",2210,"Energy","Australia",0
+"2011-12-01",300,"Energy","Australia",0
+"2011-11-01",180,"Real estate","Saudi Arabia",0
+"2011-11-01",400,"Transport","Singapore",0
+"2011-11-01",140,"Transport","Guyana",0
+"2011-11-01",140,"Transport","Sri Lanka",0
+"2011-11-01",200,"Real estate","Ethiopia",0
+"2011-11-01",100,"Metals","Malaysia",0
+"2011-11-01",110,"Energy","Vietnam",0
+"2011-11-01",240,"Energy","Indonesia",0
+"2011-11-01",460,"Chemicals","Venezuela",0
+"2011-11-01",180,"Agriculture","Sri Lanka",0
+"2011-11-01",120,"Transport","Indonesia",0
+"2011-11-01",130,"Technology","Italy",0
+"2011-11-01",790,"Real estate","Malaysia",0
+"2011-11-01",200,"Metals","Zimbabwe",0
+"2011-11-01",500,"Metals","Cambodia",0
+"2011-11-01",100,"Finance","Argentina",0
+"2011-11-01",4800,"Energy","Brazil",0
+"2011-11-01",850,"Energy","Trinidad-Tobago",0
+"2011-10-01",280,"Energy","Mozambique",0
+"2011-10-01",260,"Logistics","Venezuela",0
+"2011-10-01",120,"Tourism","Algeria",0
+"2011-10-01",110,"Health","Algeria",0
+"2011-10-01",140,"Real estate","Vietnam",0
+"2011-10-01",120,"Real estate","Qatar",0
+"2011-10-01",240,"Energy","Pakistan",0
+"2011-10-01",110,"Energy","Mauritius",0
+"2011-10-01",220,"Energy","Ecuador",0
+"2011-10-01",340,"Energy","Tanzania",0
+"2011-10-01",240,"Energy","Colombia",0
+"2011-10-01",140,"Transport","Austria",0
+"2011-10-01",570,"Real estate","USA",0
+"2011-10-01",270,"Metals","Indonesia",0
+"2011-10-01",2100,"Energy","Canada",0
+"2011-10-01",400,"Energy","Afghanistan",0
+"2011-10-01",260,"Chemicals","Hungary",0
+"2011-10-01",100,"Agriculture","Thailand",0
+"2011-09-01",110,"Energy","Congo",0
+"2011-09-01",640,"Energy","Turkey",0
+"2011-09-01",1590,"Real estate","Venezuela",0
+"2011-09-01",590,"Agriculture","Bangladesh",0
+"2011-09-01",240,"Other","Angola",0
+"2011-09-01",320,"Transport","Venezuela",0
+"2011-09-01",220,"Logistics","Mexico",0
+"2011-09-01",100,"Transport","Ghana",0
+"2011-09-01",440,"Real estate","Mozambique",0
+"2011-09-01",930,"Metals","Iran",0
+"2011-09-01",160,"Energy","Zambia",0
+"2011-09-01",500,"Energy","Tanzania",0
+"2011-09-01",150,"Energy","Egypt",0
+"2011-09-01",280,"Logistics","Sri Lanka",0
+"2011-09-01",100,"Transport","Vietnam",0
+"2011-09-01",1280,"Metals","Democratic Republic of the Congo",0
+"2011-09-01",750,"Energy","Pakistan",0
+"2011-09-01",300,"Energy","Australia",0
+"2011-09-01",200,"Energy","USA",0
+"2011-09-01",260,"Chemicals","Canada",0
+"2011-08-01",420,"Transport","Djibouti",0
+"2011-08-01",340,"Transport","Georgia",0
+"2011-08-01",270,"Metals","Niger",0
+"2011-08-01",450,"Energy","Guinea",0
+"2011-08-01",1300,"Energy","Vietnam",0
+"2011-08-01",130,"Chemicals","Saudi Arabia",0
+"2011-08-01",100,"Agriculture","Sudan",0
+"2011-08-01",150,"Agriculture","Sudan",0
+"2011-08-01",980,"Energy","Angola",0
+"2011-08-01",1260,"Logistics","Singapore",0
+"2011-08-01",100,"Transport","Brazil",0
+"2011-08-01",230,"Other","USA",0
+"2011-08-01",1950,"Metals","Brazil",0
+"2011-08-01",400,"Metals","Canada",0
+"2011-08-01",720,"Finance","Germany",0
+"2011-08-01",3240,"Energy","France",0
+"2011-08-01",210,"Energy","Australia",0
+"2011-08-01",360,"Energy","Vietnam",0
+"2011-08-01",390,"Agriculture","Australia",0
+"2011-07-01",870,"Transport","Nigeria",0
+"2011-07-01",330,"Utilities","Malaysia",0
+"2011-07-01",200,"Agriculture","Saudi Arabia",0
+"2011-07-01",200,"Transport","Bangladesh",0
+"2011-07-01",240,"Metals","Russian Federation",0
+"2011-07-01",390,"Energy","Kyrgyzstan",0
+"2011-07-01",400,"Transport","Brazil",0
+"2011-07-01",170,"Transport","Argentina",0
+"2011-07-01",420,"Transport","Germany",0
+"2011-07-01",130,"Consumer","Japan",0
+"2011-07-01",300,"Metals","Zimbabwe",0
+"2011-07-01",930,"Metals","Indonesia",0
+"2011-07-01",1360,"Metals","South Africa",0
+"2011-07-01",2040,"Energy","Canada",0
+"2011-07-01",1010,"Energy","Mongolia",0
+"2011-07-01",260,"Energy","Canada",0
+"2011-07-01",140,"Agriculture","Australia",0
+"2011-06-01",150,"Tourism","Angola",0
+"2011-06-01",220,"Energy","Sudan",0
+"2011-06-01",1440,"Energy","Ukraine",0
+"2011-06-01",180,"Transport","Singapore",0
+"2011-06-01",100,"Real estate","Zimbabwe",0
+"2011-06-01",700,"Real estate","Algeria",0
+"2011-06-01",270,"Utilities","Ghana",0
+"2011-06-01",170,"Energy","Iraq",0
+"2011-06-01",120,"Energy","Ethiopia",0
+"2011-06-01",250,"Agriculture","Ukraine",0
+"2011-06-01",250,"Metals","South Africa",0
+"2011-06-01",2290,"Energy","Russian Federation",0
+"2011-06-01",200,"Transport","Russian Federation",0
+"2011-06-01",270,"Transport","Netherlands",0
+"2011-06-01",670,"Technology","Germany",0
+"2011-06-01",270,"Real estate","USA",0
+"2011-06-01",1190,"Real estate","Angola",0
+"2011-06-01",110,"Consumer","Japan",0
+"2011-06-01",680,"Finance","Argentina",0
+"2011-05-01",1770,"Energy","Pakistan",0
+"2011-05-01",2370,"Transport","Ukraine",0
+"2011-05-01",200,"Energy","Cameroon",0
+"2011-05-01",990,"Energy","Indonesia",0
+"2011-05-01",100,"Energy","Tanzania",0
+"2011-05-01",200,"Transport","Venezuela",0
+"2011-05-01",350,"Real estate","Russian Federation",0
+"2011-05-01",350,"Real estate","Indonesia",0
+"2011-05-01",120,"Consumer","Greece",0
+"2011-05-01",100,"Metals","Switzerland",0
+"2011-05-01",470,"Metals","South Africa",0
+"2011-05-01",1490,"Metals","Sierra Leone",0
+"2011-05-01",540,"Energy","Cameroon",0
+"2011-04-01",590,"Transport","Iran",0
+"2011-04-01",100,"Energy","Saudi Arabia",0
+"2011-04-01",100,"Metals","Iran",0
+"2011-04-01",100,"Transport","Cameroon",0
+"2011-04-01",180,"Real estate","Indonesia",0
+"2011-04-01",450,"Transport","Pakistan",0
+"2011-04-01",1060,"Transport","Chad",0
+"2011-04-01",180,"Transport","Zambia",0
+"2011-04-01",170,"Transport","Democratic Republic of the Congo",0
+"2011-04-01",200,"Tourism","Algeria",0
+"2011-04-01",300,"Real estate","Algeria",0
+"2011-04-01",220,"Real estate","Algeria",0
+"2011-04-01",860,"Other","Belarus",0
+"2011-04-01",280,"Metals","Iran",0
+"2011-04-01",1010,"Energy","Iraq",0
+"2011-04-01",1490,"Energy","Vietnam",0
+"2011-04-01",830,"Energy","Malaysia",0
+"2011-04-01",170,"Energy","Indonesia",0
+"2011-04-01",160,"Agriculture","Angola",0
+"2011-04-01",100,"Transport","Germany",0
+"2011-04-01",200,"Technology","Brazil",0
+"2011-04-01",200,"Real estate","Indonesia",0
+"2011-04-01",800,"Metals","Malaysia",0
+"2011-04-01",100,"Finance","Brazil",0
+"2011-04-01",2030,"Energy","Australia",0
+"2011-04-01",120,"Agriculture","Congo",0
+"2011-03-01",100,"Entertainment","Costa Rica",0
+"2011-03-01",270,"Technology","Angola",0
+"2011-03-01",210,"Transport","Myanmar",0
+"2011-03-01",300,"Transport","Mauritius",0
+"2011-03-01",350,"Transport","Kenya",0
+"2011-03-01",150,"Transport","Indonesia",0
+"2011-03-01",100,"Real estate","Azerbaijan",0
+"2011-03-01",100,"Real estate","Zambia",0
+"2011-03-01",330,"Energy","Zambia",0
+"2011-03-01",300,"Energy","India",0
+"2011-03-01",1080,"Metals","Russian Federation",0
+"2011-03-01",180,"Metals","Australia",0
+"2011-03-01",570,"Agriculture","Brazil",0
+"2011-02-01",370,"Energy","Democratic Republic of the Congo",0
+"2011-02-01",330,"Transport","Ethiopia",0
+"2011-02-01",260,"Other","Kuwait",0
+"2011-02-01",200,"Transport","USA",0
+"2011-02-01",250,"Other","Canada",0
+"2011-02-01",400,"Entertainment","USA",0
+"2011-02-01",160,"Metals","USA",0
+"2011-02-01",190,"Finance","Japan",0
+"2011-02-01",100,"Finance","Russian Federation",0
+"2011-02-01",330,"Energy","Argentina",0
+"2011-02-01",370,"Energy","Chad",0
+"2011-02-01",1520,"Energy","Australia",0
+"2011-02-01",1660,"Chemicals","Hungary",0
+"2011-01-01",1470,"Real estate","Angola",0
+"2011-01-01",190,"Transport","Egypt",0
+"2011-01-01",100,"Transport","Indonesia",0
+"2011-01-01",810,"Transport","Sri Lanka",0
+"2011-01-01",880,"Transport","Qatar",0
+"2011-01-01",100,"Transport","Egypt",0
+"2011-01-01",180,"Transport","Vietnam",0
+"2011-01-01",260,"Technology","Cameroon",0
+"2011-01-01",450,"Real estate","UAE",0
+"2011-01-01",720,"Real estate","Qatar",0
+"2011-01-01",100,"Technology","Brazil",0
+"2011-01-01",2000,"Transport","North Korea",0
+"2011-01-01",180,"Technology","Japan",0
+"2011-01-01",140,"Energy","Nepal",0
+"2011-01-01",500,"Technology","Spain",0
+"2011-01-01",130,"Other","Germany",0
+"2011-01-01",120,"Metals","Canada",0
+"2011-01-01",140,"Finance","USA",0
+"2011-01-01",510,"Energy","Britain",0
+"2011-01-01",510,"Energy","France",0
+"2011-01-01",920,"Energy","Australia",0
+"2011-01-01",2010,"Chemicals","Norway",0
+"2010-12-01",170,"Transport","Belarus",0
+"2010-12-01",280,"Transport","Pakistan",0
+"2010-12-01",160,"Logistics","Pakistan",0
+"2010-12-01",100,"Transport","Myanmar",0
+"2010-12-01",220,"Technology","Bangladesh",0
+"2010-12-01",400,"Technology","Nigeria",0
+"2010-12-01",140,"Real estate","Saudi Arabia",0
+"2010-12-01",300,"Real estate","Syria",0
+"2010-12-01",110,"Real estate","Iraq",0
+"2010-12-01",740,"Utilities","Cameroon",0
+"2010-12-01",900,"Metals","Malaysia",0
+"2010-12-01",320,"Energy","Equatorial Guinea",0
+"2010-12-01",250,"Energy","Ecuador",0
+"2010-12-01",230,"Energy","Belarus",0
+"2010-12-01",1150,"Energy","Vietnam",0
+"2010-12-01",260,"Energy","Malaysia",0
+"2010-12-01",1400,"Energy","India",0
+"2010-12-01",340,"Energy","Serbia",0
+"2010-12-01",650,"Energy","Vietnam",0
+"2010-12-01",290,"Agriculture","Venezuela",0
+"2010-12-01",220,"Energy","Venezuela",0
+"2010-12-01",100,"Logistics","Belarus",0
+"2010-12-01",170,"Finance","Cambodia",0
+"2010-12-01",170,"Real estate","Britain",0
+"2010-12-01",1030,"Energy","Laos",0
+"2010-12-01",190,"Transport","USA",0
+"2010-12-01",270,"Health","Netherlands",0
+"2010-12-01",100,"Other","Georgia",0
+"2010-12-01",500,"Real estate","Thailand",0
+"2010-12-01",190,"Real estate","Nigeria",0
+"2010-12-01",200,"Finance","Brazil",0
+"2010-12-01",170,"Energy","Russian Federation",0
+"2010-12-01",2470,"Energy","Argentina",0
+"2010-12-01",680,"Energy","Indonesia",0
+"2010-12-01",130,"Energy","Australia",0
+"2010-11-01",250,"Transport","Congo",0
+"2010-11-01",220,"Transport","Kenya",0
+"2010-11-01",800,"Energy","Sudan",0
+"2010-11-01",280,"Energy","Congo",0
+"2010-11-01",450,"Energy","India",0
+"2010-11-01",170,"Energy","Cambodia",0
+"2010-11-01",270,"Agriculture","Russian Federation",0
+"2010-11-01",4990,"Energy","Niger",0
+"2010-11-01",380,"Transport","Norway",0
+"2010-11-01",150,"Logistics","Nigeria",0
+"2010-11-01",500,"Transport","USA",0
+"2010-11-01",1030,"Real estate","USA",0
+"2010-11-01",270,"Metals","Australia",0
+"2010-11-01",1230,"Energy","USA",0
+"2010-11-01",610,"Energy","Ecuador",0
+"2010-11-01",400,"Energy","Australia",0
+"2010-10-01",100,"Transport","Ecuador",0
+"2010-10-01",220,"Transport","Sri Lanka",0
+"2010-10-01",400,"Transport","Jamaica",0
+"2010-10-01",240,"Transport","Morocco",0
+"2010-10-01",970,"Technology","Italy",0
+"2010-10-01",570,"Real estate","Kuwait",0
+"2010-10-01",290,"Utilities","Iran",0
+"2010-10-01",610,"Metals","Australia",0
+"2010-10-01",750,"Energy","Belarus",0
+"2010-10-01",130,"Energy","Laos",0
+"2010-10-01",1500,"Energy","Iran",0
+"2010-10-01",7100,"Energy","Brazil",0
+"2010-10-01",2370,"Energy","USA",0
+"2010-10-01",1440,"Agriculture","Israel",0
+"2010-09-01",200,"Energy","Malaysia",0
+"2010-09-01",110,"Energy","Laos",0
+"2010-09-01",290,"Utilities","Ghana",0
+"2010-09-01",110,"Transport","Sierra Leone",0
+"2010-09-01",100,"Transport","Sri Lanka",0
+"2010-09-01",340,"Metals","Vietnam",0
+"2010-09-01",960,"Energy","Venezuela",0
+"2010-09-01",180,"Energy","Nepal",0
+"2010-09-01",100,"Entertainment","South Korea",0
+"2010-09-01",150,"Transport","Kazakhstan",0
+"2010-09-01",420,"Metals","Canada",0
+"2010-09-01",1480,"Metals","Myanmar",0
+"2010-09-01",1200,"Metals","Ghana",0
+"2010-09-01",360,"Energy","Russian Federation",0
+"2010-09-01",180,"Energy","Cambodia",0
+"2010-08-01",130,"Transport","Mauritania",0
+"2010-08-01",140,"Real estate","Malaysia",0
+"2010-08-01",250,"Real estate","Iraq",0
+"2010-08-01",700,"Energy","Guatemala",0
+"2010-08-01",570,"Energy","Ecuador",0
+"2010-08-01",100,"Agriculture","Sudan",0
+"2010-08-01",1500,"Agriculture","Laos",0
+"2010-08-01",130,"Energy","USA",0
+"2010-07-01",110,"Energy","Pakistan",0
+"2010-07-01",160,"Energy","Pakistan",0
+"2010-07-01",710,"Energy","Bosnia",0
+"2010-07-01",550,"Transport","Australia",0
+"2010-07-01",440,"Transport","USA",0
+"2010-07-01",140,"Agriculture","Jamaica",0
+"2010-06-01",320,"Transport","Singapore",0
+"2010-06-01",170,"Transport","Thailand",0
+"2010-06-01",130,"Tourism","Greece",0
+"2010-06-01",210,"Utilities","Peru",0
+"2010-06-01",2300,"Energy","Ecuador",0
+"2010-06-01",1680,"Energy","Laos",0
+"2010-06-01",1150,"Other","USA",0
+"2010-06-01",100,"Metals","Canada",0
+"2010-06-01",110,"Chemicals","Argentina",0
+"2010-05-01",840,"Metals","Australia",0
+"2010-05-01",140,"Real estate","Russian Federation",0
+"2010-05-01",200,"Real estate","Saudi Arabia",0
+"2010-05-01",100,"Utilities","Kenya",0
+"2010-05-01",1990,"Energy","Egypt",0
+"2010-05-01",400,"Energy","Zimbabwe",0
+"2010-05-01",500,"Energy","Ethiopia",0
+"2010-05-01",1040,"Energy","Venezuela",0
+"2010-05-01",990,"Real estate","South Korea",0
+"2010-05-01",140,"Real estate","Ethiopia",0
+"2010-05-01",120,"Real estate","South Africa",0
+"2010-05-01",230,"Metals","South Africa",0
+"2010-05-01",150,"Energy","Indonesia",0
+"2010-05-01",1720,"Energy","Brazil",0
+"2010-05-01",1480,"Energy","Syria",0
+"2010-05-01",3070,"Energy","Brazil",0
+"2010-05-01",1220,"Energy","Canada",0
+"2010-05-01",100,"Energy","USA",0
+"2010-05-01",200,"Energy","Italy",0
+"2010-04-01",280,"Transport","Sri Lanka",0
+"2010-04-01",260,"Transport","Serbia",0
+"2010-04-01",170,"Transport","Vietnam",0
+"2010-04-01",180,"Transport","Morocco",0
+"2010-04-01",780,"Real estate","Turkey",0
+"2010-04-01",200,"Agriculture","Botswana",0
+"2010-04-01",360,"Energy","Turkey",0
+"2010-04-01",270,"Energy","Bangladesh",0
+"2010-04-01",840,"Energy","Sudan",0
+"2010-04-01",180,"Energy","Australia",0
+"2010-04-01",490,"Energy","Canada",0
+"2010-04-01",300,"Technology","Russian Federation",0
+"2010-04-01",140,"Metals","Australia",0
+"2010-04-01",260,"Metals","Sierra Leone",0
+"2010-04-01",120,"Metals","Kazakhstan",0
+"2010-04-01",900,"Energy","Venezuela",0
+"2010-04-01",4650,"Energy","Canada",0
+"2010-04-01",270,"Energy","Australia",0
+"2010-03-01",1200,"Metals","Russian Federation",0
+"2010-03-01",100,"Transport","Mauritania",0
+"2010-03-01",200,"Technology","Cambodia",0
+"2010-03-01",420,"Real estate","Zambia",0
+"2010-03-01",320,"Entertainment","Cameroon",0
+"2010-03-01",2690,"Energy","Pakistan",0
+"2010-03-01",640,"Energy","Cameroon",0
+"2010-03-01",1400,"Energy","Vietnam",0
+"2010-03-01",310,"Energy","Malaysia",0
+"2010-03-01",1260,"Chemicals","Kazakhstan",0
+"2010-03-01",500,"Agriculture","Sudan",0
+"2010-03-01",100,"Agriculture","Mauritania",0
+"2010-03-01",540,"Energy","Cambodia",0
+"2010-03-01",500,"Transport","Cameroon",0
+"2010-03-01",100,"Transport","South Africa",0
+"2010-03-01",2700,"Transport","Sweden",0
+"2010-03-01",1200,"Metals","Brazil",0
+"2010-03-01",200,"Finance","Canada",0
+"2010-03-01",3100,"Energy","Argentina",0
+"2010-03-01",180,"Energy","USA",0
+"2010-03-01",1580,"Energy","Australia",0
+"2010-02-01",160,"Energy","Bangladesh",0
+"2010-02-01",140,"Transport","Brunei",0
+"2010-02-01",220,"Utilities","Mauritania",0
+"2010-02-01",730,"Energy","Kazakhstan",0
+"2010-02-01",200,"Real estate","Brazil",0
+"2010-02-01",350,"Metals","Malaysia",0
+"2010-02-01",1500,"Finance","USA",0
+"2010-02-01",960,"Finance","Britain",0
+"2010-02-01",190,"Chemicals","Hungary",0
+"2010-01-01",460,"Transport","Russian Federation",0
+"2010-01-01",110,"Transport","Cameroon",0
+"2010-01-01",380,"Technology","South Africa",0
+"2010-01-01",600,"Energy","Philippines",0
+"2010-01-01",200,"Energy","Vietnam",0
+"2010-01-01",130,"Agriculture","UAE",0
+"2010-01-01",1910,"Metals","Chile",0
+"2010-01-01",100,"Other","Uzbekistan",0
+"2010-01-01",200,"Other","Laos",0
+"2010-01-01",190,"Metals","Uzbekistan",0
+"2010-01-01",650,"Metals","Ecuador",0
+"2009-12-01",500,"Transport","Cameroon",0
+"2009-12-01",170,"Transport","Bangladesh",0
+"2009-12-01",100,"Transport","Sudan",0
+"2009-12-01",100,"Energy","Mali",0
+"2009-12-01",3130,"Energy","Turkmenistan",0
+"2009-12-01",310,"Agriculture","Venezuela",0
+"2009-12-01",140,"Transport","Austria",0
+"2009-12-01",350,"Transport","India",0
+"2009-12-01",200,"Transport","USA",0
+"2009-12-01",150,"Tourism","USA",0
+"2009-12-01",500,"Technology","Pakistan",0
+"2009-12-01",500,"Metals","Brazil",0
+"2009-11-01",160,"Energy","Kuwait",0
+"2009-11-01",120,"Energy","Equatorial Guinea",0
+"2009-11-01",100,"Transport","USA",0
+"2009-11-01",210,"Transport","Sri Lanka",0
+"2009-11-01",610,"Transport","Ethiopia",0
+"2009-11-01",180,"Technology","Norway",0
+"2009-11-01",600,"Energy","Pakistan",0
+"2009-11-01",970,"Energy","Botswana",0
+"2009-11-01",120,"Transport","Bulgaria",0
+"2009-11-01",100,"Transport","USA",0
+"2009-11-01",250,"Metals","Australia",0
+"2009-11-01",400,"Metals","Brazil",0
+"2009-11-01",240,"Metals","Australia",0
+"2009-11-01",1580,"Energy","USA",0
+"2009-11-01",100,"Energy","USA",0
+"2009-10-01",210,"Real estate","Russian Federation",0
+"2009-10-01",610,"Real estate","Russian Federation",0
+"2009-10-01",100,"Transport","Brazil",0
+"2009-10-01",100,"Logistics","Sudan",0
+"2009-10-01",960,"Transport","Vietnam",0
+"2009-10-01",140,"Real estate","Senegal",0
+"2009-10-01",140,"Real estate","Zambia",0
+"2009-10-01",1380,"Energy","Vietnam",0
+"2009-10-01",5590,"Energy","Iraq",0
+"2009-10-01",260,"Energy","Sudan",0
+"2009-10-01",300,"Energy","Russian Federation",0
+"2009-10-01",250,"Energy","Mongolia",0
+"2009-09-01",490,"Technology","Singapore",0
+"2009-09-01",810,"Energy","India",0
+"2009-09-01",120,"Transport","Equatorial Guinea",0
+"2009-09-01",450,"Energy","Ethiopia",0
+"2009-09-01",100,"Tourism","Bahamas",0
+"2009-09-01",1000,"Technology","Spain",0
+"2009-09-01",1200,"Real estate","USA",0
+"2009-09-01",350,"Other","USA",0
+"2009-09-01",530,"Finance","Thailand",0
+"2009-09-01",1160,"Energy","Singapore",0
+"2009-09-01",940,"Energy","Kazakhstan",0
+"2009-08-01",720,"Energy","Oman",0
+"2009-08-01",400,"Real estate","Saudi Arabia",0
+"2009-08-01",180,"Entertainment","Algeria",0
+"2009-08-01",140,"Transport","Gabon",0
+"2009-08-01",260,"Transport","Algeria",0
+"2009-08-01",190,"Energy","Zambia",0
+"2009-08-01",210,"Energy","Laos",0
+"2009-08-01",1090,"Real estate","Australia",0
+"2009-08-01",450,"Real estate","Britain",0
+"2009-08-01",880,"Energy","Britain",0
+"2009-08-01",470,"Energy","Chad",0
+"2009-08-01",1740,"Energy","Canada",0
+"2009-08-01",100,"Energy","Qatar",0
+"2009-08-01",2950,"Energy","Australia",0
+"2009-07-01",120,"Real estate","Mongolia",0
+"2009-07-01",110,"Real estate","Tunisia",0
+"2009-07-01",530,"Other","Saudi Arabia",0
+"2009-07-01",110,"Utilities","Philippines",0
+"2009-07-01",270,"Energy","Sudan",0
+"2009-07-01",1650,"Energy","Saudi Arabia",0
+"2009-07-01",2420,"Energy","Ethiopia",0
+"2009-07-01",740,"Real estate","Mauritius",0
+"2009-07-01",280,"Real estate","Egypt",0
+"2009-07-01",480,"Metals","Russian Federation",0
+"2009-07-01",1500,"Metals","Canada",0
+"2009-07-01",1500,"Metals","Australia",0
+"2009-07-01",230,"Energy","Indonesia",0
+"2009-07-01",370,"Agriculture","Britain",0
+"2009-06-01",160,"Transport","Tanzania",0
+"2009-06-01",640,"Real estate","Qatar",0
+"2009-06-01",2570,"Transport","Algeria",0
+"2009-06-01",670,"Energy","Zambia",0
+"2009-06-01",890,"Energy","Sri Lanka",0
+"2009-06-01",1390,"Metals","Australia",0
+"2009-06-01",130,"Metals","Australia",0
+"2009-06-01",710,"Finance","USA",0
+"2009-06-01",500,"Finance","USA",0
+"2009-06-01",1210,"Finance","USA",0
+"2009-06-01",7200,"Energy","Switzerland",0
+"2009-06-01",1020,"Energy","Myanmar",0
+"2009-05-01",420,"Transport","Vietnam",0
+"2009-05-01",200,"Technology","India",0
+"2009-05-01",150,"Energy","Fiji",0
+"2009-05-01",1860,"Energy","Australia",0
+"2009-05-01",140,"Metals","Australia",0
+"2009-05-01",100,"Metals","Peru",0
+"2009-05-01",370,"Metals","Zambia",0
+"2009-05-01",150,"Finance","Australia",0
+"2009-05-01",1020,"Energy","Singapore",0
+"2009-05-01",320,"Energy","Trinidad-Tobago",0
+"2009-05-01",520,"Energy","Australia",0
+"2009-04-01",350,"Energy","Kuwait",0
+"2009-04-01",430,"Energy","Myanmar",0
+"2009-04-01",320,"Real estate","Cambodia",0
+"2009-04-01",1300,"Metals","USA",0
+"2009-04-01",2600,"Energy","Kazakhstan",0
+"2009-03-01",150,"Energy","Pakistan",0
+"2009-03-01",170,"Agriculture","Guyana",0
+"2009-03-01",410,"Transport","USA",0
+"2009-03-01",140,"Real estate","Congo",0
+"2009-03-01",390,"Energy","Togo",0
+"2009-03-01",100,"Energy","Czech Republic",0
+"2009-03-01",2990,"Energy","Iraq",0
+"2009-03-01",800,"Real estate","USA",0
+"2009-03-01",240,"Metals","Canada",0
+"2009-02-01",260,"Transport","Tajikistan",0
+"2009-02-01",180,"Real estate","Pakistan",0
+"2009-02-01",1160,"Transport","Saudi Arabia",0
+"2009-02-01",1130,"Transport","Angola",0
+"2009-02-01",100,"Transport","Saudi Arabia",0
+"2009-02-01",390,"Transport","Saudi Arabia",0
+"2009-02-01",580,"Energy","Philippines",0
+"2009-02-01",140,"Energy","Madagascar",0
+"2009-02-01",990,"Metals","Peru",0
+"2009-02-01",770,"Metals","Australia",0
+"2009-01-01",220,"Transport","Sudan",0
+"2009-01-01",240,"Technology","Costa Rica",0
+"2009-01-01",230,"Health","UAE",0
+"2009-01-01",440,"Real estate","UAE",0
+"2009-01-01",440,"Metals","Turkey",0
+"2009-01-01",300,"Utilities","Angola",0
+"2009-01-01",160,"Energy","Mali",0
+"2009-01-01",100,"Energy","Botswana",0
+"2009-01-01",500,"Energy","Mongolia",0
+"2009-01-01",1760,"Energy","Iran",0
+"2008-12-01",820,"Transport","Nigeria",0
+"2008-12-01",200,"Transport","Gabon",0
+"2008-12-01",260,"Transport","UAE",0
+"2008-12-01",370,"Energy","Cambodia",0
+"2008-12-01",3290,"Energy","UAE",0
+"2008-12-01",1510,"Tourism","Cambodia",0
+"2008-12-01",260,"Energy","Cambodia",0
+"2008-12-01",110,"Metals","Liberia",0
+"2008-12-01",250,"Energy","Kazakhstan",0
+"2008-11-01",210,"Real estate","Egypt",0
+"2008-11-01",160,"Transport","Egypt",0
+"2008-11-01",320,"Transport","Pakistan",0
+"2008-11-01",120,"Transport","Ethiopia",0
+"2008-11-01",400,"Energy","Gabon",0
+"2008-11-01",250,"Energy","Indonesia",0
+"2008-11-01",5790,"Transport","Greece",0
+"2008-10-01",140,"Utilities","Qatar",0
+"2008-10-01",200,"Transport","Angola",0
+"2008-10-01",680,"Transport","Malaysia",0
+"2008-10-01",400,"Technology","India",0
+"2008-10-01",440,"Real estate","Azerbaijan",0
+"2008-10-01",210,"Real estate","Ukraine",0
+"2008-10-01",150,"Utilities","Mozambique",0
+"2008-10-01",160,"Energy","India",0
+"2008-10-01",280,"Energy","Zambia",0
+"2008-10-01",880,"Energy","Malaysia",0
+"2008-10-01",190,"Energy","Australia",0
+"2008-10-01",200,"Finance","USA",0
+"2008-10-01",760,"Energy","Turkey",0
+"2008-09-01",330,"Energy","Belarus",0
+"2008-09-01",220,"Transport","Egypt",0
+"2008-09-01",470,"Metals","Australia",0
+"2008-09-01",330,"Transport","Singapore",0
+"2008-09-01",140,"Real estate","Germany",0
+"2008-09-01",360,"Metals","Australia",0
+"2008-09-01",1990,"Energy","Syria",0
+"2008-08-01",310,"Transport","Singapore",0
+"2008-08-01",140,"Energy","Jordan",0
+"2008-08-01",110,"Real estate","Sudan",0
+"2008-08-01",240,"Energy","Indonesia",0
+"2008-07-01",440,"Transport","Nigeria",0
+"2008-07-01",990,"Transport","Nigeria",0
+"2008-07-01",520,"Entertainment","Singapore",0
+"2008-07-01",610,"Other","Saudi Arabia",0
+"2008-07-01",460,"Metals","Vietnam",0
+"2008-07-01",120,"Energy","Malaysia",0
+"2008-07-01",140,"Agriculture","Venezuela",0
+"2008-07-01",810,"Metals","Myanmar",0
+"2008-07-01",1320,"Metals","Australia",0
+"2008-07-01",1350,"Metals","Democratic Republic of the Congo",0
+"2008-07-01",1190,"Metals","Democratic Republic of the Congo",0
+"2008-07-01",2490,"Energy","Norway",0
+"2008-07-01",200,"Agriculture","Singapore",0
+"2008-06-01",120,"Transport","Pakistan",0
+"2008-06-01",1310,"Energy","India",0
+"2008-06-01",2940,"Real estate","Angola",0
+"2008-06-01",110,"Real estate","Turkey",0
+"2008-06-01",200,"Metals","Iran",0
+"2008-06-01",580,"Energy","Cambodia",0
+"2008-06-01",250,"Real estate","Italy",0
+"2008-06-01",190,"Metals","Niger",0
+"2008-06-01",2510,"Finance","USA",0
+"2008-06-01",140,"Agriculture","USA",0
+"2008-05-01",290,"Transport","Sri Lanka",0
+"2008-05-01",170,"Real estate","Kazakhstan",0
+"2008-05-01",130,"Real estate","Cyprus",0
+"2008-05-01",2140,"Transport","Congo",0
+"2008-05-01",100,"Health","Democratic Republic of the Congo",0
+"2008-05-01",900,"Chemicals","Vietnam",0
+"2008-05-01",150,"Energy","Malaysia",0
+"2008-05-01",110,"Energy","Brazil",0
+"2008-05-01",2160,"Metals","Peru",0
+"2008-04-01",760,"Utilities","Algeria",0
+"2008-04-01",160,"Utilities","Algeria",0
+"2008-04-01",400,"Energy","Sudan",0
+"2008-04-01",640,"Energy","Indonesia",0
+"2008-04-01",100,"Agriculture","Sudan",0
+"2008-04-01",1240,"Energy","Netherlands",0
+"2008-04-01",150,"Metals","Mongolia",0
+"2008-04-01",1400,"Finance","USA",0
+"2008-04-01",2010,"Energy","Britain",0
+"2008-04-01",2800,"Energy","France",0
+"2008-04-01",130,"Energy","Indonesia",0
+"2008-03-01",260,"Transport","Morocco",0
+"2008-03-01",100,"Real estate","Angola",0
+"2008-03-01",160,"Real estate","Oman",0
+"2008-03-01",200,"Health","USA",0
+"2008-03-01",100,"Finance","USA",0
+"2008-03-01",260,"Finance","USA",0
+"2008-03-01",3040,"Energy","Singapore",0
+"2008-03-01",560,"Energy","Australia",0
+"2008-02-01",1180,"Real estate","Nigeria",0
+"2008-02-01",560,"Chemicals","Saudi Arabia",0
+"2008-02-01",2600,"Transport","Libya",0
+"2008-02-01",370,"Metals","Australia",0
+"2008-02-01",1200,"Metals","India",0
+"2008-02-01",12800,"Metals","Australia",0
+"2008-02-01",470,"Energy","Yemen",0
+"2008-01-01",180,"Other","Trinidad-Tobago",0
+"2008-01-01",160,"Transport","Vietnam",0
+"2008-01-01",290,"Transport","Mauritania",0
+"2008-01-01",200,"Tourism","Georgia",0
+"2008-01-01",1580,"Energy","Philippines",0
+"2008-01-01",160,"Health","USA",0
+"2008-01-01",210,"Metals","Mexico",0
+"2008-01-01",180,"Finance","Australia",0
+"2007-12-01",1830,"Transport","Angola",0
+"2007-12-01",140,"Tourism","UAE",0
+"2007-12-01",620,"Real estate","Belarus",0
+"2007-12-01",120,"Entertainment","Angola",0
+"2007-12-01",160,"Metals","Niger",0
+"2007-12-01",1080,"Energy","Iraq",0
+"2007-12-01",880,"Energy","Uzbekistan",0
+"2007-12-01",1310,"Energy","Kazakhstan",0
+"2007-12-01",200,"Energy","Ghana",0
+"2007-12-01",100,"Metals","Zimbabwe",0
+"2007-12-01",450,"Metals","Peru",0
+"2007-12-01",5000,"Finance","USA",0
+"2007-12-01",2010,"Energy","Iran",0
+"2007-11-01",230,"Logistics","Saudi Arabia",0
+"2007-11-01",350,"Chemicals","Saudi Arabia",0
+"2007-11-01",120,"Other","USA",0
+"2007-11-01",2870,"Metals","Afghanistan",0
+"2007-11-01",1200,"Metals","Saudi Arabia",0
+"2007-11-01",2700,"Finance","Belgium",0
+"2007-10-01",610,"Energy","Turkey",0
+"2007-10-01",100,"Transport","Jordan",0
+"2007-10-01",170,"Real estate","Hungary",0
+"2007-10-01",110,"Metals","Iran",0
+"2007-10-01",210,"Energy","Iran",0
+"2007-10-01",160,"Agriculture","Tanzania",0
+"2007-10-01",170,"Energy","Laos",0
+"2007-10-01",150,"Logistics","Egypt",0
+"2007-10-01",5600,"Finance","South Africa",0
+"2007-09-01",150,"Transport","Ethiopia",0
+"2007-09-01",150,"Technology","Sri Lanka",0
+"2007-09-01",210,"Energy","Azerbaijan",0
+"2007-09-01",150,"Real estate","USA",0
+"2007-09-01",330,"Metals","Australia",0
+"2007-08-01",640,"Metals","Australia",0
+"2007-08-01",1270,"Energy","Indonesia",0
+"2007-07-01",110,"Agriculture","Uzbekistan",0
+"2007-07-01",100,"Metals","Mexico",0
+"2007-07-01",3040,"Finance","Britain",0
+"2007-07-01",100,"Energy","Australia",0
+"2007-06-01",410,"Transport","Kuwait",0
+"2007-06-01",560,"Energy","India",0
+"2007-06-01",200,"Energy","Laos",0
+"2007-06-01",140,"Transport","Netherlands",0
+"2007-06-01",790,"Metals","Peru",0
+"2007-05-01",250,"Real estate","Yemen",0
+"2007-05-01",150,"Energy","Pakistan",0
+"2007-05-01",240,"Energy","Indonesia",0
+"2007-05-01",150,"Energy","Turkmenistan",0
+"2007-05-01",130,"Transport","Germany",0
+"2007-05-01",180,"Technology","Pakistan",0
+"2007-05-01",3030,"Finance","USA",0
+"2007-04-01",990,"Metals","Saudi Arabia",0
+"2007-04-01",600,"Energy","Ghana",0
+"2007-04-01",650,"Energy","Equatorial Guinea",0
+"2007-03-01",690,"Real estate","Nigeria",0
+"2007-03-01",110,"Agriculture","Venezuela",0
+"2007-03-01",360,"Transport","Sri Lanka",0
+"2007-03-01",430,"Finance","Kuwait",0
+"2007-03-01",540,"Energy","Indonesia",0
+"2007-03-01",430,"Energy","Indonesia",0
+"2007-03-01",250,"Metals","India",0
+"2007-02-01",180,"Transport","India",0
+"2007-02-01",100,"Utilities","Pakistan",0
+"2007-02-01",190,"Metals","Peru",0
+"2007-02-01",100,"Energy","USA",0
+"2007-01-01",100,"Metals","India",0
+"2007-01-01",160,"Transport","UAE",0
+"2007-01-01",350,"Real estate","UAE",0
+"2007-01-01",1110,"Metals","Australia",0
+"2007-01-01",3990,"Energy","India",0
+"2007-01-01",280,"Technology","Pakistan",0
+"2007-01-01",200,"Energy","Chad",0
+"2007-01-01",700,"Chemicals","France",0
+"2006-12-01",130,"Transport","Ethiopia",0
+"2006-12-01",130,"Real estate","Ethiopia",0
+"2006-12-01",260,"Energy","Indonesia",0
+"2006-12-01",250,"Energy","Indonesia",0
+"2006-12-01",520,"Energy","Indonesia",0
+"2006-12-01",970,"Transport","Singapore",0
+"2006-12-01",100,"Finance","Netherlands",0
+"2006-11-01",490,"Transport","Pakistan",0
+"2006-11-01",220,"Real estate","Yemen",0
+"2006-11-01",340,"Metals","Brazil",0
+"2006-11-01",180,"Energy","Indonesia",0
+"2006-11-01",430,"Chemicals","Vietnam",0
+"2006-11-01",140,"Energy","Laos",0
+"2006-11-01",2000,"Metals","Democratic Republic of the Congo",0
+"2006-11-01",800,"Metals","Britain",0
+"2006-11-01",230,"Metals","South Africa",0
+"2006-11-01",310,"Metals","Zambia",0
+"2006-10-01",110,"Metals","Canada",0
+"2006-10-01",940,"Metals","Egypt",0
+"2006-10-01",1910,"Energy","Kazakhstan",0
+"2006-09-01",550,"Technology","Pakistan",0
+"2006-09-01",2400,"Technology","Ethiopia",0
+"2006-09-01",430,"Energy","Colombia",0
+"2006-08-01",110,"Energy","Japan",0
+"2006-07-01",260,"Transport","Algeria",0
+"2006-07-01",300,"Transport","Tajikistan",0
+"2006-07-01",2840,"Energy","Iran",0
+"2006-07-01",330,"Energy","Vietnam",0
+"2006-07-01",500,"Energy","Russian Federation",0
+"2006-07-01",100,"Energy","Indonesia",0
+"2006-06-01",170,"Utilities","Botswana",0
+"2006-06-01",160,"Transport","Congo",0
+"2006-06-01",260,"Real estate","Yemen",0
+"2006-06-01",400,"Energy","Tajikistan",0
+"2006-06-01",3490,"Energy","Russian Federation",0
+"2006-05-01",6250,"Transport","Algeria",0
+"2006-05-01",110,"Energy","Nigeria",0
+"2006-05-01",1500,"Energy","India",0
+"2006-05-01",120,"Other","Russian Federation",0
+"2006-05-01",740,"Energy","Angola",0
+"2006-04-01",1290,"Energy","Brazil",0
+"2006-04-01",1300,"Real estate","Russian Federation",0
+"2006-03-01",460,"Energy","Sri Lanka",0
+"2006-03-01",2920,"Metals","Australia",0
+"2006-02-01",540,"Real estate","Qatar",0
+"2006-01-01",310,"Transport","Iran",0
+"2006-01-01",300,"Real estate","UAE",0
+"2006-01-01",480,"Energy","Chad",0
+"2006-01-01",2270,"Energy","Nigeria",0
+"2006-01-01",480,"Agriculture","France",0
+"2005-12-01",860,"Energy","Pakistan",0
+"2005-12-01",580,"Real estate","Saudi Arabia",0
+"2005-12-01",210,"Transport","Angola",0
+"2005-12-01",900,"Metals","Iran",0
+"2005-12-01",430,"Energy","Brazil",0
+"2005-12-01",210,"Agriculture","Algeria",0
+"2005-12-01",290,"Energy","Syria",0
+"2005-11-01",1190,"Real estate","Venezuela",0
+"2005-11-01",120,"Energy","Laos",0
+"2005-10-01",200,"Transport","Indonesia",0
+"2005-10-01",300,"Metals","Kazakhstan",0
+"2005-10-01",140,"Metals","Australia",0
+"2005-10-01",180,"Chemicals","Australia",0
+"2005-09-01",350,"Chemicals","Saudi Arabia",0
+"2005-09-01",200,"Energy","Mongolia",0
+"2005-09-01",1420,"Energy","Ecuador",0
+"2005-08-01",4200,"Energy","Kazakhstan",0
+"2005-07-01",130,"Energy","Myanmar",0
+"2005-07-01",280,"Energy","Cambodia",0
+"2005-07-01",100,"Transport","Britain",0
+"2005-06-01",1270,"Transport","Turkey",0
+"2005-06-01",170,"Transport","Mauritania",0
+"2005-06-01",860,"Energy","Indonesia",0
+"2005-06-01",120,"Energy","Canada",0
+"2005-05-01",390,"Energy","Algeria",0
+"2005-04-01",240,"Metals","Brazil",0
+"2005-04-01",100,"Utilities","Sudan",0
+"2005-04-01",130,"Energy","Canada",0
+"2005-03-01",170,"Real estate","Saudi Arabia",0
+"2005-03-01",670,"Metals","Papua New Guinea",0
+"2005-02-01",370,"Transport","Ecuador",0
+"2005-02-01",150,"Utilities","Oman",0
+"2005-01-01",100,"Transport","Qatar",0
+"2005-01-01",1740,"Technology","USA",0
+"2005-01-01",500,"Metals","Cuba",0

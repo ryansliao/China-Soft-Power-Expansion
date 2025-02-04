@@ -1,0 +1,577 @@
+region,country,location_of_space,name_of_space,status,host_institution_name,year_opened,year_closed
+SCA,Afghanistan,Kabul,Confucius Institute at Kabul University,Active,Kabul University,2008,NA
+EUR,Albania,Tirana,Confucius Institute at University of Tirana,Active,University of Tirana,2013,NA
+AF,Angola,Luanda,Confucius Institute at Agostinho Neto University,Active,Agostinho Neto University,2014,NA
+WHA,Antigua and Barbuda,St. John’s,Confucius Institute at Antigua and Barbuda Institute of Continuing Education,Active,Antigua and Barbuda Institute of Continuing Education,2019,NA
+WHA,Argentina,La Plata,Confucius Institute at La Plata National University,Active,La Plata National University,2009,NA
+WHA,Argentina,Buenos Aires,Confucius Institute at University of Buenos Aires,Active,University of Buenos Aires,2009,NA
+WHA,Argentina,Cordoba,Confucius Institute at National University of Cordoba,Active,National University of Cordoba,2020,NA
+EUR,Armenia,Yerevan,Confucius Institute at Brusov State University,Active,Yerevan Brusov State University of Languages and Social Sciences,2009,NA
+EAP,Australia,Perth,Confucius Institute at University of Western Australia,Active,University of Western Australia,2005,NA
+EAP,Australia,Adelaide,Confucius Institute at University of Adelaide,Active,University of Adelaide,2007,NA
+EAP,Australia,Sydney,Confucius Institute at University of New South Wales,Active,University of New South Wales,2007,NA
+EAP,Australia,Brisbane,Confucius Institute at University of Queensland,Active,University of Queensland,2007,NA
+EAP,Australia,Brisbane,Confucius Institute at Queensland University of Technology,Active,Queensland University of Technology,2008,NA
+EAP,Australia,Melbourne,Confucius Institute at Royal Melbourne Institute of Technology,Closed,Royal Melbourne Institute of Technology,2008,2021
+EAP,Australia,Newcastle,Confucius Institute at University of Newcastle,Active,University of Newcastle,2008,NA
+EAP,Australia,Sydney,Confucius Institute at University of Sydney,Active,University of Sydney,2008,NA
+EAP,Australia,Melbourne,Confucius Institute at University of Melbourne,Active,University of Melbourne,2009,NA
+EAP,Australia,Melbourne,Confucius Institute at La Trobe University,Active,La Trobe University,2011,NA
+EAP,Australia,Darwin,Confucius Institute at Charles Darwin University,Active,Charles Darwin University,2012,NA
+EAP,Australia,Gold Coast,Confucius Institute at Griffith University,Active,Griffith University,2012,NA
+EAP,Australia,Sydney,Confucius Institute at Department of Education and Communities State of New South Wales,Closed,Department of Education and Communities State of New South Wales,2015,2019
+EAP,Australia,Melbourne,Confucius Institute at Victoria University,Active,Victoria University,2016,NA
+EUR,Austria,Vienna,Confucius Institute at University of Vienna,Active,University of Vienna,2006,NA
+EUR,Austria,Graz,Confucius Institute at University of Graz,Active,University of Graz,2010,NA
+EUR,Azerbaijan,Baku,Confucius Institute at Baku State University,Active,Baku State University,2011,NA
+EUR,Azerbaijan,Baku,Confucius Institute at Azerbaijan University of Languages,Active,Azerbaijan University of Languages,2016,NA
+WHA,Bahamas,Nassau,Confucius Institute at Bahamas Institute,Active,Bahamas Institute,2009,NA
+NEA,Bahrain,Manama,Confucius Institute at University of Bahrain,Active,University of Bahrain,2014,NA
+SCA,Bangladesh,Dhaka,Confucius Institute at North South University,Active,North South University,2006,NA
+SCA,Bangladesh,Dhaka,Confucius Institute at University of Dhaka,Active,University of Dhaka,2016,NA
+WHA,Barbados,Bridgetown,"Confucius Institute at University of West Indies, Cave Hill Campus",Active,"University of West Indies, Cave Hill Campus",2015,NA
+EUR,Belarus,Minsk,Confucius Institute at Belarusian State University,Active,Belarusian State University,2006,NA
+EUR,Belarus,Minsk,"Confucius Institute at Minsk State Linguistic University, Belarus",Active,"Minsk State Linguistic University, Belarus",2011,NA
+EUR,Belarus,Minsk,Confucius Institute at Belarusian National Technical University,Active,Belarusian National Technical University,2013,NA
+EUR,Belarus,Gomel,Confucius Institute at Francisk Skorina Gomel State University,Active,Francisk Skorina Gomel State University,2017,NA
+EUR,Belgium,Brussels,Confucius Institute at Belgium China Association,Active,Belgium China Association,2005,NA
+EUR,Belgium,Liege,Confucius Institute at University of Liege,Active,University of Liege,2005,NA
+EUR,Belgium,Leuven,Confucius Institute at GROUP T-International Engineering Academy,Active,GROUP T-International Engineering Academy,2008,NA
+EUR,Belgium,Bruge,Confucius Institute at University College West Flanders,Active,Howest / Hogeschool West-Vlaanderen,2012,NA
+EUR,Belgium,Brussels,Confucius Institute at Confucius Institute at VUB,Closed,Confucius Institute at VUB,2015,2020
+EUR,Belgium,Brussels,Confucius Institute at Université Libre de Bruexlles,Closed,Université Libre de Bruxelles,2016,2019
+AF,Benin,Porto-Novo,Confucius Institute at University of Abomey-Calavi,Active,University of Abomey-Calavi,2009,NA
+WHA,Bolivia (Plurinational State of),Cochabamba,Confucius Institute at University of San Simon,Active,University of San Simon,2011,NA
+EUR,Bosnia and Herzegovina,Sarajevo,Confucius Institute at University of Sarajevo,Active,University of Sarajevo,2015,NA
+EUR,Bosnia and Herzegovina,Banja Luka,Confucius Institute at University of Banja Luka,Active,University of Banja Luka,2017,NA
+AF,Botswana,Gaborone,Confucius Institute at University of Botswana,Active,University of Botswana,2009,NA
+WHA,Brazil,Brasilia,Confucius Institute at University of Brasilia,Active,University of Brasilia,2008,NA
+WHA,Brazil,São Paulo,Confucius Institute at Universidade de São Paulo,Active,Universidade de São Paulo,2009,NA
+WHA,Brazil,Rio de Janeiro,Confucius Institute at Pontifical Catholic University of Rio de Janeiro,Active,Pontifical Catholic University of Rio de Janeiro,2011,NA
+WHA,Brazil,Porto Alegre,Confucius Institute at Universidade Federal do Rio Grande do Sul,Active,Universidade Federal do Rio Grande do Sul-UFRGS,2011,NA
+WHA,Brazil,São Paulo,Confucius Institute at FAAP Higher Education Center,Active,FAAP Higher Education Center,2012,NA
+WHA,Brazil,Belo Horizonte,Confucius Institute at Universidade Federal de Minas Gerais,Active,Universidade Federal de Minas Gerais,2013,NA
+WHA,Brazil,Recife,Confucius Institute at University of Pernambuco,Active,University of Pernambuco,2013,NA
+WHA,Brazil,Campinas,Confucius Institute at University of Campinas,Active,University of Campinas / Unicamp,2015,NA
+WHA,Brazil,Belém,Confucius Institute at State University of Pará,Active,State University of Pará,2016,NA
+EUR,Bulgaria,Veliko Tarnovo,Confucius Institute at St. Cyril and St. Methodius University of Veliko Turnovo,Active,St. Cyril and St. Methodius University of Veliko Turnovo,2012,NA
+EUR,Bulgaria,Sofia,Confucius Institute at Sofia University,Active,"Sofia University ""St. Kliment Ohridski""",2015,NA
+AF,Burkina Faso,Bobo-Dioulasso,Confucius Institute at Nazi BONI University,Active,Nazi BONI University,2019,NA
+AF,Burundi,Bujumbura,Confucius Institute at University of Burundi,Active,University of Burundi,2011,NA
+AF,Cabo Verde,Praia,Confucius Institute at University of Cabo Verde,Active,University of Cabo Verde,2015,NA
+EAP,Cambodia,Phnom-Penh,Confucius Institute at Royal Academy of Cambodia,Active,Royal Academy of Cambodia,2009,NA
+EAP,Cambodia,Battambang,Confucius Institute at National University of Battambang,Active,National University of Battambang,2019,NA
+AF,Cameroon,Yaounde,Confucius Institute at University of Yaounde II,Active,University of Yaounde II,2007,NA
+WHA,Canada,Moncton,Confucius Institute at Atlantic Education International Inc.,Closed,Atlantic Education International Inc.,2006,2022
+WHA,Canada,Vancouver,Confucius Institute at British Columbia Institute of Technology (BCIT),Closed,British Columbia Institute of Technology (BCIT),2006,2019
+WHA,Canada,Montreal,Confucius Institute at Dawson College,Active,Dawson College,2006,NA
+WHA,Canada,Waterloo,Confucius Institute at University of Waterloo,Active,University of Waterloo,2006,NA
+WHA,Canada,Edmonton,Confucius Institute at Edmonton Public Schools,Active,Edmonton Public Schools,2007,NA
+WHA,Canada,Coquitlam,Confucius Institute at Coquitlam School District International Education,Active,Coquitlam School District International Education,2009,NA
+WHA,Canada,Hamilton,Confucius Institute at McMaster University,Closed,McMaster University,2009,2013
+WHA,Canada,Ontario,Confucius Institute at Brock University,Closed,Brock University,2010,2020
+WHA,Canada,Ottawa,Confucius Institute at Carleton University,Active,Carleton University,2010,NA
+WHA,Canada,Halifax,Confucius Institute at Saint Mary's University,Active,Saint Mary's University,2011,NA
+WHA,Canada,Toronto,Confucius Institute at Seneca College,Active,Seneca College,2011,NA
+WHA,Canada,Saskatchewan,Confucius Institute at University of Regina,Active,University of Regina,2011,NA
+WHA,Canada,Saskatoon,Confucius Institute at University of Saskatchewan,Active,University of Saskatchewan,2011,NA
+WHA,Canada,Toronto,Confucius Institute at Toronto District School Board,Closed,Toronto District School Board,2012,2014
+AF,Central African Republic,Bangui,Confucius Institute at the University of Bangui,Active,University of Bangui,2021,NA
+AF,Chad,N'Djamena,Confucius Institute of the University of N'djamena,Active,University of N'djamena,2021,NA
+WHA,Chile,Vina Del Mar,Confucius Institute at Saint Thomas University,Active,Saint Thomas University,2007,NA
+WHA,Chile,Santiago,Confucius Institute at the Catholic University of Chile,Active,Pontificia Universidad Católica de Chile,2008,NA
+WHA,Chile,Temuco,Confucius Institute at the University of the Frontier,Active,Universidad de La Frontera,2020,NA
+EAP,"China, Hong Kong Special Administrative Region",Hong Kong,Confucius Institute at The Hong Kong Polytechnic University,Active,The Hong Kong Polytechnic University,2006,NA
+EAP,"China, Macao Special Administrative Region",Macao,Confucius Institute at University of Macau,Active,University of Macau,2017,NA
+WHA,Colombia,Medellin,"Confucius Institute at EAFIT University, the University of Antioquia and the Mayor's Office of Medellín",Active,"EAFIT University, the University of Antioquia and the Mayor's Office of Medellín",2007,NA
+WHA,Colombia,Bogota,Confucius Institute at University of Los Andes,Active,University of Los Andes,2007,NA
+WHA,Colombia,Bogota,Confucius Institute at Jorge Tadeo Lozano University,Active,Jorge Tadeo Lozano University,2012,NA
+AF,Comoros,Moroni,Confucius Institute at University of Comoros,Active,University of Comoros,2018,NA
+AF,Congo,Brazzaville,Confucius Institute at Marien Ngouabi University,Active,Marien Ngouabi University,2013,NA
+WHA,Costa Rica,San Jose,Confucius Institute at University of Costa Rica,Active,University of Costa Rica,2008,NA
+AF,Côte d'Ivoire,Abidjan,Confucius Institute at University of Felix Houphouette Boigny,Active,University of Felix Houphouet Boigny,2015,NA
+EUR,Croatia,Zagreb,Confucius Institute at University of Zagreb,Active,University of Zagreb,2012,NA
+WHA,Cuba,Havana,Confucius Institute at University of Havana,Active,University of Havana,2007,NA
+EUR,Cyprus,Nicosia,Confucius Institute at University of Cyprus,Active,University of Cyprus,2013,NA
+EUR,Czechia,Olomouc,Confucius Institute at Palacký University,Active,Palacký University,2007,NA
+EUR,Czechia,Prague,Confucius Institute at University of Finance and Administration,Active,University of Finance and Administration,2018,NA
+AF,Democratic Republic of the Congo,Kinshasa,Confucius Institute at Diplomatic University of Democratic Republic of Congo,Active,Diplomatic University of Democratic Republic of Congo,2017,NA
+WHA,Dominican Republic,Santo Domingo,Confucius Institute at Santo Domingo Institute of Technology,Active,Santo Domingo Institute of Technology,2019,NA
+EUR,Denmark,Copenhagen,Confucius Institute at Copenhagen Business School,Closed,Copenhagen Business School,2007,2017
+EUR,Denmark,Aalborg,Confucius Institute at Aalborg University,Closed,Aalborg University,2009,2021
+EUR,Denmark,Copenhagen,Confucius Institute at Royal Danish Academy of Music,Closed,Royal Danish Academy of Music,2012,2020
+EUR,Denmark,Kolding,Confucius Institute at International Business Academy,Active,International Business Academy,2015,NA
+WHA,Ecuador,Quito,Confucius Institute at San Francisco University of Quito,Active,San Francisco University of Quito,2010,NA
+NEA,Egypt,Cairo,Confucius Institute at Cairo University,Active,Cairo University,2007,NA
+NEA,Egypt,Ismailia,Confucius Institute at Suez Canal University,Active,Suez Canal University,2007,NA
+NEA,Egypt,Obour,Confucius Institute at Ain Shams University,Active,Ain Shams University,2021,NA
+WHA,El Salvador,San Salvador,Confucius Institute at the University of El Salvador,Active,University of El Salvador,2019,NA
+AF,Equatorial Guinea,Malabo,Confucius Institute at National University of Equatorial Guinea,Active,National University of Equatorial Guinea,2014,NA
+AF,Eritrea,Asmara,Confucius Institute at National Board for Higher Education,Active,National Board for Higher Education,2013,NA
+EUR,Estonia,Tallinn,Confucius Institute at Tallinn University,Active,Tallinn University,2010,NA
+AF,Ethiopia,Addis Ababa,"Confucius Institute at Technical, Vocational Education and Training Institute of Ethiopia",Active,"Technical, Vocational Education and Training Institute of Ethiopia",2009,NA
+AF,Ethiopia,Addis Ababa,Confucius Institute at Addis Ababa University,Active,Addis Ababa University,2013,NA
+EAP,Fiji,Suva,Confucius Institute at University of the South Pacific,Active,University of the South Pacific,2012,NA
+EUR,Finland,Helsinki,Confucius Institute at University of Helsinki,Active,University of Helsinki,2006,NA
+EUR,France,Paris,Confucius Institute at Paris Diderot University,Active,Paris Diderot University,2005,NA
+EUR,France,Poitiers,Confucius Institute at University of Poitiers,Active,University of Poitiers,2005,NA
+EUR,France,Rennes,"Confucius Institute at Region of Brittany, City of Rennes",Active,"Region of Brittany, City of Rennes",2006,NA
+EUR,France,La Rochelle,"Confucius Institute at University of La Rochelle, Government of La Rochelle City",Active,"University of La Rochelle, Government of La Rochelle City",2006,NA
+EUR,France,Clermont-Ferrand,Confucius Institute at City of Clermont-Ferrand,Active,City of Clermont-Ferrand,2007,NA
+EUR,France,Strasbourg,Confucius Institute at Region of Alsace and 9 Organizations,Active,Region of Alsace and 9 Organizations,2007,NA
+EUR,France,Arras,Confucius Institute at Artois University,Active,Artois University,2008,NA
+EUR,France,Paris,Confucius Institute at Paris Nanterre University,Closed,Paris Nanterre University,2008,2019
+EUR,France,Grenoble,Confucius Institute at Grenoble Alpes University,Active,Grenoble Alpes University,2009,NA
+EUR,France,Angers,"Confucius Institute at Region of Pays de la Loire, City of Angers",Active,"Region of Pays de la Loire, City of Angers",2009,NA
+EUR,France,Toulouse,Confucius Institute at University of Toulouse,Closed,University of Toulouse,2009,2017
+EUR,France,La Reunion,Confucius Institute at University of Reunion Island,Active,University of Reunion Island,2010,NA
+EUR,France,Metz,Confucius Institute at University of Lorraine,Active,University of Lorraine,2011,NA
+EUR,France,Rouen,Confucius Institute at Neoma Business School,Active,Neoma Business School,2013,NA
+EUR,France,Tahiti,Confucius Institute at University of French Polynesia,Active,University of French Polynesia,2013,NA
+EUR,France,Montpellier,Confucius Institute at University of Montpellier 2,Active,University of Montpellier 2,2013,NA
+EUR,France,Nice,Confucius Institute at University of Nice Sophia Antipolis,Active,University of Nice Sophia Antipolis,2015,NA
+EUR,France,Paris,Confucius Institute at ESCP Europe Business School,Active,ESCP Europe Business School,2017,NA
+EUR,France,Orleans,Confucius Institute at University of Orleans,Active,University of Orleans,2018,NA
+EUR,France,Pau,Confucius Institute at the City of Pau,Active,City of Pau,2019,NA
+AF,Gabon,Libreville,Confucius Institute at Omar Bongo University,Active,Omar Bongo University,2017,NA
+AF,Gambia,Bundung,Confucius Institute at the University of the Gambia,Active,University of the Gambia,2019,NA
+EUR,Georgia,Tbilisi,Confucius Institute at Tbilisi Institute of Asia and Africa,Closed,Tbilisi Institute of Asia and Africa,2006,2009
+EUR,Georgia,Tbilisi,"Confucius Institute at Free University of Tbilisi, Georgia",Active,"Free University of Tbilisi, Georgia",2010,NA
+EUR,Germany,Nürnberg,Confucius Institute at Friedrich-Alexander-University Erlangen-Nürnberg,Active,Friedrich-Alexander-University Erlangen-Nürnberg,2005,NA
+EUR,Germany,Heidelberg,Confucius Institute at Heidelberg University,Active,Heidelberg University,2006,NA
+EUR,Germany,Dusseldorf,Confucius Institute at Heinrich Heine University Dusseldorf,Closed,Heinrich Heine University Dusseldorf,2006,2016
+EUR,Germany,Hannover,Confucius Institute at Leibniz University Hannover,Active,Leibniz University Hannover,2006,NA
+EUR,Germany,Leipzig,Confucius Institute at Leipzig University,Active,Leipzig University,2006,NA
+EUR,Germany,Berlin,Confucius Institute at The Free University of Berlin,Active,The Free University of Berlin,2006,NA
+EUR,Germany,Frankfurt,Confucius Institute at Goethe University Frankfurt,Active,Goethe University Frankfurt,2007,NA
+EUR,Germany,Hamburg,Confucius Institute at The University of Hamburg,Active,The University of Hamburg,2007,NA
+EUR,Germany,Duisburg,Confucius Institute at University of Duisburg-Essen,Active,University of Duisburg-Essen,2007,NA
+EUR,Germany,Freiburg,Confucius Institute at The University of Freiburg,Active,The University of Freiburg,2008,NA
+EUR,Germany,Trier,Confucius Institute at The University of Trier,Closed,The University of Trier,2008,2021
+EUR,Germany,Erfurt,Confucius Institute at Erfurt University of Applied Sciences,Active,Erfurt University of Applied Sciences,2011,NA
+EUR,Germany,Munich,Confucius Institute at Stiftung Ex-Oriente,Active,Stiftung Ex-Oriente,2012,NA
+EUR,Germany,Bremen,Confucius Institute at City University of Applied Sciences,Active,City University of Applied Sciences,2013,NA
+EUR,Germany,Goettingen,Confucius Institute at Goettingen University,Active,Goettingen University,2013,NA
+EUR,Germany,Paderborn,Confucius Institute at University of Paderborn,Active,University of Paderborn,2014,NA
+EUR,Germany,Stralsund,Confucius Institute at Fachhochschule Stralsund University of Applied Sciences,Active,Fachhochschule Stralsund University of Applied Sciences,2015,NA
+EUR,Germany,Bonn,Confucius Institute at Rheinische Friedrich-Wilhelms-Universität Bon,Active,Rheinische Friedrich-Wilhelms-Universität Bonn,2016,NA
+EUR,Germany,Ingolstadt,Confucius Institute at Technische Hochschule Ingolstadt,Active,Technische Hochschule Ingolstadt,2016,NA
+AF,Ghana,Accra,Confucius Institute at University of Ghana,Active,University of Ghana,2012,NA
+AF,Ghana,Cape Coast,Confucius Institute at University of Cape Coast,Active,University of Cape Coast,2016,NA
+EUR,Greece,Athens,Confucius Institute at Athens University of Economics and Business,Active,Athens University of Economics and Business,2008,NA
+EUR,Greece,Thessaloniki,Confucius Institute at Aristotle University of Thessaloniki,Active,Aristotle University of Thessaloniki,2018,NA
+EUR,Greece,Volos,Confucius Institute at University of Thessaly,Active,University of Thessaly,2019,NA
+AF,Guinea,Conakry,Confucius Institute at Gamal Abdel Nasser University of Conakry,Active,Gamal Abdel Nasser University of Conakry,2017,NA
+WHA,Guyana,Georgetown,Confucius Institute at University of Guyana,Active,University of Guyana,2013,NA
+EUR,Hungary,Budapest,Confucius Institute at Eötvös Loránd University,Active,Eötvös Loránd University,2006,NA
+EUR,Hungary,Szeged,Confucius Institute at University of Szeged,Active,University of Szeged,2012,NA
+EUR,Hungary,Miskolc,Confucius Institute at University of Miskolc,Active,University of Miskolc,2013,NA
+EUR,Hungary,Pecs,Confucius Institute at University of Pecs,Active,University of Pecs,2014,NA
+EUR,Hungary,Debrecen,Confucius Institute at University of Debrecen,Active,University of Debrecen,2018,NA
+EUR,Iceland,Reykjavik,Confucius Institute at University of Iceland,Active,University of Iceland,2007,NA
+SCA,India,New Delhi,Confucius Institute at Jawaharlal Nehru University,Active,Jawaharlal Nehru University,2005,NA
+SCA,India,Chennai,Confucius Institute at VIT University,Active,VIT University,2007,NA
+SCA,India,Mumbai,Confucius Institute at University of Mumbai,Active,University of Mumbai,2012,NA
+SCA,India,Phagwara,Confucius Institute at Lovely Professional University,Active,Lovely Professional University,2018,NA
+SCA,India,Sonipat,Confucius Institute at O.P. Jindal Global University,Active,O.P. Jindal Global University,2018,NA
+EAP,Indonesia,Jakarta,Confucius Institute at Jakarta Chinese Language Teaching Center,Active,Jakarta Chinese Language Teaching Center,2007,NA
+EAP,Indonesia,Makassar,Confucius Institute at Hasanuddin University,Active,Hasanuddin University,2010,NA
+EAP,Indonesia,Malang,Confucius Institute at Malang State University,Active,Malang State University,2010,NA
+EAP,Indonesia,Bandung,Confucius Institute at Maranatha Christian University,Active,Maranatha Christian University,2010,NA
+EAP,Indonesia,Pontianak,Confucius Institute at Tanjungpura University,Active,Tanjungpura University,2010,NA
+EAP,Indonesia,Surabaya,Confucius Institute at Universitas Negeri Surabaya,Active,Universitas Negeri Surabaya,2010,NA
+EAP,Indonesia,Jakarta,Confucius Institute at University of Al Azhar,Active,University of Al Azhar,2010,NA
+EAP,Indonesia,Surakarta,Confucius Institute at Universitas Sebelas Maret,Active,Universitas Sebelas Maret,2018,NA
+NEA,Iran (Islamic Republic of),Tehran,Confucius Institute at Tehran University,Active,Tehran University,2007,NA
+NEA,Iran (Islamic Republic of),Babolsar,Confucius Institute at University of Mazandaran,Active,University of Mazandaran,2019,NA
+EUR,Ireland,Dublin,Confucius Institute at University College Dublin,Active,University College Dublin,2006,NA
+EUR,Ireland,Cork,Confucius Institute at University College Cork,Active,University College Cork,2007,NA
+EUR,Ireland,Galway,"Confucius Institute at the National University of Ireland, Galway",Active,"National University of Ireland, Galway",2019,NA
+NEA,Israel,Tel Aviv,Confucius Institute at Tel Aviv University,Active,Tel Aviv University,2007,NA
+NEA,Israel,Jerusalem,Confucius Institute at Hebrew University of Jerusalem,Active,Hebrew University of Jerusalem,2014,NA
+EUR,Italy,Rome,Confucius Institute at Sapienza University of Rome,Active,Sapienza University of Rome,2006,NA
+EUR,Italy,Napoli,Confucius Institute at Oriental University of Napoli,Active,Oriental University of Napoli,2007,NA
+EUR,Italy,Pisa,Confucius Institute at Université Sainte-Anne,Active,Université Sainte-Anne,2008,NA
+EUR,Italy,Bologna,Confucius Institute at University of Bologna,Active,University of Bologna,2008,NA
+EUR,Italy,Padova,Confucius Institute at University of Padova,Active,University of Padova,2008,NA
+EUR,Italy,Turin,Confucius Institute at University of Turin,Active,University of Turin,2008,NA
+EUR,Italy,Venice,Confucius Institute at Venice University,Active,Venice University,2008,NA
+EUR,Italy,Milan,Confucius Institute at Catholic University of the Sacred Heart,Active,Catholic University of the Sacred Heart,2009,NA
+EUR,Italy,Milan,Confucius Institute at University of Milan,Active,University of Milan,2009,NA
+EUR,Italy,Macerata,Confucius Institute at University of Macerata,Active,University of Macerata,2011,NA
+EUR,Italy,Florence,Confucius Institute at University of Florence,Active,University of Florence,2014,NA
+EUR,Italy,Enna,Confucius Institute at Enna Corey University,Active,Enna Corey University,2016,NA
+WHA,Jamaica,Kingston,Confucius Institute at University of the West Indies in Mona,Active,University of the West Indies in Mona,2009,NA
+EAP,Japan,Tokyo,Confucius Institute at J.F. Oberlin University,Active,J.F. Oberlin University,2005,NA
+EAP,Japan,Kyoto,Confucius Institute at Ritsumeikan University,Active,Ritsumeikan University,2005,NA
+EAP,Japan,Nagoya,Confucius Institute at Aichi University,Active,Aichi University,2006,NA
+EAP,Japan,Kanazawa,Confucius Institute at Hokuriku University,Active,Hokuriku University,2006,NA
+EAP,Japan,Beppu,Confucius Institute at Ritsumeikan Asia Pacific University,Active,Ritsumeikan Asia Pacific University,2006,NA
+EAP,Japan,Sapporo,Confucius Institute at Sapporo University,Active,Sapporo University,2006,NA
+EAP,Japan,Fukuyama,Confucius Institute at Fukuyama University,Active,Fukuyama University,2007,NA
+EAP,Japan,Okayama,Confucius Institute at Okayama Shoka University,Active,Okayama Shoka University,2007,NA
+EAP,Japan,Osaka,Confucius Institute at Osaka Sangyo University,Active,Osaka Sangyo University,2007,NA
+EAP,Japan,Tokyo,Confucius Institute at Waseda University,Active,Waseda University,2007,NA
+EAP,Japan,Tokyo,Confucius Institute at Kogakuin University,Closed,Kogakuin University,2008,2021
+EAP,Japan,Osaka,Confucius Institute at Kansai Gaidai University,Active,Kansai Gaidai University,2009,NA
+EAP,Japan,Kobe,Confucius Institute at Hyogo College of Medicine,Active,Hyogo College of Medicine,2012,NA
+EAP,Japan,Tokyo,Confucius Institute at Musashino University,Active,Musashino University,2015,NA
+EAP,Japan,Yamanashi-ken,Confucius Institute at Yamanashi Gakuin University,Active,Yamanashi Gakuin University,2018,NA
+NEA,Jordan,Amman,Confucius Institute at Talal Abu-Ghazaleh Organization,Active,Talal Abu-Ghazaleh Organization,2008,NA
+NEA,Jordan,Jerash,Confucius Institute at Philadelphia University,Active,Philadelphia University,2011,NA
+SCA,Kazakhstan,Nursultan,Confucius Institute at Eurasian University,Active,Eurasian University,2006,NA
+SCA,Kazakhstan,Almaty,Confucius Institute at Kazakh National University,Active,Kazakh National University,2007,NA
+SCA,Kazakhstan,Aktobe,Confucius Institute at Aktobe Zhubanov National University,Active,Aktobe Zhubanov National University,2010,NA
+SCA,Kazakhstan,Karagand,Confucius Institute at Karaganda State Technical University,Active,Karaganda State Technical University,2010,NA
+SCA,Kazakhstan,Almaty,Confucius Institute at Kazakh Ablai Khan University of International Relations and World Languages,Active,Kazakh Ablai Khan University of International Relations and World Languages,2017,NA
+AF,Kenya,Nairobi,Confucius Institute at University of Nairobi,Active,University of Nairobi,2004,NA
+AF,Kenya,Nairobi,Confucius Institute at Kenyatta University,Active,Kenyatta University,2009,NA
+AF,Kenya,Nakuru,Confucius Institute at Egerton University,Active,Egerton University,2012,NA
+AF,Kenya,Eldoret,Confucius Institute at Moi University,Active,Moi University,2014,NA
+SCA,Kyrgyzstan,Bishkek,Confucius Institute at Bishkek Humanities University,Active,Bishkek Humanities University,2007,NA
+SCA,Kyrgyzstan,Bishkek,Confucius Institute at Kyrgyz National University,Active,Kyrgyz National University,2007,NA
+SCA,Kyrgyzstan,Osh,Confucius Institute at Osh State University,Active,Osh State University,2013,NA
+SCA,Kyrgyzstan,Jalal-Abad,Confucius Institute at Jalal-Abad State University,Active,Jalal-Abad State University,2016,NA
+EAP,Lao People's Democratic Republic,Vientiane,Confucius Institute at National University of Laos,Active,National University of Laos,2009,NA
+EAP,Lao People's Democratic Republic,Luang Prabang,Confucius Institute at Souphanouvong University,Active,Souphanouvong University,2018,NA
+EUR,Latvia,Riga,Confucius Institute at University of Latvia,Active,University of Latvia,2011,NA
+NEA,Lebanon,Beirut,Confucius Institute at Saint-Joseph University,Active,Saint-Joseph University,2006,NA
+AF,Liberia,Monrovia,Confucius Institute at University of Liberia,Active,University of Liberia,2007,NA
+EUR,Lithuania,Vilnius,Confucius Institute at Vilnius University,Active,Vilnius University,2010,NA
+EUR,Luxembourg,Luxembourg,Confucius Institute at University of Luxembourg,Active,University of Luxembourg,2016,NA
+AF,Madagascar,Antananarivo,Confucius Institute at University of Antananarivo,Active,University of Antananarivo,2006,NA
+AF,Madagascar,Toamasina,Confucius Institute at University of Toamasina,Active,University of Toamasina,2014,NA
+AF,Malawi,Lilongwe,Confucius Institute at University of Malawi,Active,University of Malawi,2016,NA
+EAP,Malaysia,Kuala Lumpur,Confucius Institute at Malaysia’s GEM Group,Closed,Malaysia’s GEM Group,2006,2010
+EAP,Malaysia,Kuala Lumpur,Confucius Institute at University of Malaya,Active,University of Malaya,2009,NA
+EAP,Malaysia,Kuala Lumpur,Confucius Institute at SEGi University,Active,SEGi University,2015,NA
+EAP,Malaysia,Gambang,Confucius Institute at Universiti Malaysia Pahang,Active,Universiti Malaysia Pahang,2018,NA
+EAP,Malaysia,Kota Kinabalu,Confucius Institute at University Malaysia Sabah,Active,Universiti Malaysia Sabah,2018,NA
+AF,Mali,Bamako,Confucius Institute at University of Letters and Human Science of Bamako,Active,University of Letters and Human Science of Bamako,2018,NA
+EUR,Malta,Valletta,Confucius Institute at University of Malta,Active,University of Malta,2009,NA
+AF,Mauritania,Nouakchott,Confucius Institute at University of Nouakchott,Active,University of Nouakchott,2019,NA
+AF,Mauritius,Port Louis,Confucius Institute at University of Mauritius,Active,University of Mauritius,2015,NA
+WHA,Mexico,Chihuahua,Confucius Institute at Autonomous University of Chihuahua,Active,Autonomous University of Chihuahua,2006,NA
+WHA,Mexico,Merida,Confucius Institute at Autonomous University of Yucatan,Active,Autonomous University of Yucatan,2006,NA
+WHA,Mexico,Mexico City,Confucius Institute at Huaxia Chinese Cultural Institute,Active,Huaxia Chinese Cultural Institute,2006,NA
+WHA,Mexico,Monterrey,Confucius Institute at University of Nuevo León,Active,University of Nuevo León,2006,NA
+WHA,Mexico,Mexico City,Confucius Institute at National Autonomous University of Mexico,Active,National Autonomous University of Mexico,2008,NA
+EAP,Mongolia,Ulaanbaatar,Confucius Institute at National University of Mongolia,Active,National University of Mongolia,2007,NA
+EAP,Mongolia,Khovd,Confucius Institute at Khovd University,Active,Khovd University,2014,NA
+EAP,Mongolia,Ulaanbaatar,Confucius Institute at Mongolian State University of Education,Active,Mongolian State University of Education,2014,NA
+EUR,Montenegro,Podgorica,Confucius Institute at University of Montenegro,Active,University of Montenegro,2014,NA
+NEA,Morocco,Rabat,Confucius Institute at University Mohammed V,Active,University Mohammed V,2008,NA
+NEA,Morocco,Casablanca,Confucius Institute at University Hassan Il,Active,University Hassan Il,2012,NA
+NEA,Morocco,Tangier,Confucius Institute at Abdelmalek Essaadi University,Active,Abdelmalek Essaadi University,2017,NA
+AF,Mozambique,Maputo,Confucius Institute at Eduardo Mondlane University,Active,Eduardo Mondlane University,2012,NA
+AF,Namibia,Windhoek,Confucius Institute at University of Namibia,Active,University of Namibia,2013,NA
+SCA,Nepal,Kathmandu,Confucius Institute at Kathmandu University,Active,Kathmandu University,2007,NA
+SCA,Nepal,Kathmandu,Confucius Institute at Tribhuvan University,Active,Tribhuvan University,2018,NA
+EUR,Netherlands,Leiden,Confucius Institute at Leiden University,Closed,Leiden University,2007,2019
+EUR,Netherlands,Groningen,Confucius Institute at Hanze University of Applied Sciences,Active,Hanze University of Applied Sciences,2010,NA
+EUR,Netherlands,Amsterdam,Confucius Institute at the University of Vrije,Closed,University of Vrije,2016,2020
+EUR,Netherlands,Maastricht,Confucius Institute at Zuyd University,Active,Zuyd University,2016,NA
+EAP,New Zealand,Auckland,Confucius Institute at Confucius Institute in Auckland,Active,Confucius Institute in Auckland,2005,NA
+EAP,New Zealand,Christchurch,Confucius Institute at University of Canterbury,Active,University of Canterbury,2009,NA
+EAP,New Zealand,Wellington,Confucius Institute at Victoria University of Wellington,Active,Victoria University of Wellington,2010,NA
+AF,Nigeria,Lagos,Confucius Institute at University of Lagos,Active,University of Lagos,2008,NA
+AF,Nigeria,Awka,Confucius Institute at Nnamdi Azikiwe University,Active,Nnamdi Azikiwe University,2009,NA
+EUR,North Macedonia,Skopje,Confucius Institute at SS Cyril and Methodius University,Active,SS Cyril and Methodius University,2013,NA
+EUR,Norway,Bergen,Confucius Institute at University of Bergen,Closed,University of Bergen,2008,2021
+SCA,Pakistan,Islamabad,Confucius Institute at National University of Modern Languages,Active,National University of Modern Languages,2005,NA
+SCA,Pakistan,Karachi,Confucius Institute at University of Karachi,Active,University of Karachi,2013,NA
+SCA,Pakistan,Faisalabad,Confucius Institute at University of Agriculture Faisalabad,Active,University of Agriculture Faisalabad,2014,NA
+SCA,Pakistan,Lahore,Confucius Institute at University of the Punjab,Active,University of the Punjab,2015,NA
+NEA,Palestine,Abu Dis,Confucius Institute at Al-Quds University,Active,Al-Quds University,2018,NA
+WHA,Panama,Panama City,Confucius Institute at University of Panama,Active,University of Panama,2016,NA
+EAP,Papua New Guinea,Lae,Confucius Institute at Papua New Guinea University of Technology,Active,Papua New Guinea University of Technology,2021,NA
+WHA,Peru,Lima,Confucius Institute at Catholic University of Peru,Active,Catholic University of Peru,2007,NA
+WHA,Peru,Arequipa,Confucius Institute at Catholic University of Santa Maria,Active,Catholic University of Santa Maria,2007,NA
+WHA,Peru,Lima,Confucius Institute at Ricardo Palma University,Active,Ricardo Palma University,2009,NA
+WHA,Peru,Piura,Confucius Institute at University of Piura,Active,University of Piura,2009,NA
+EAP,Philippines,Manila,Confucius Institute at Ateneo de Manila University,Active,Ateneo de Manila University,2006,NA
+EAP,Philippines,Malolos,Confucius Institute at Bulacan State University,Active,Bulacan State University,2007,NA
+EAP,Philippines,Angeles,Confucius Institute at Angeles University Foundation,Active,Angeles University Foundation,2009,NA
+EAP,Philippines,Quezon City,Confucius Institute at University of the Philippines,Active,University of the Philippines,2014,NA
+EUR,Poland,Krakow,Confucius Institute at Jagiellonian University,Active,Jagiellonian University,2006,NA
+EUR,Poland,Poznan,Confucius Institute at Adam Mickiewicz University,Active,Adam Mickiewicz University,2007,NA
+EUR,Poland,Opole,Confucius Institute at Opole University of Technology,Active,Opole University of Technology,2007,NA
+EUR,Poland,Wroclaw,Confucius Institute at University of Wrocław,Active,University of Wrocław,2007,NA
+EUR,Poland,Gdańsk,Confucius Institute at University of Gdańsk,Active,University of Gdańsk,2014,NA
+EUR,Poland,Warsaw,Confucius Institute at the Warsaw Institute of Technology,Active,Warsaw Institute of Technology,2019,NA
+EUR,Portugal,Braga,Confucius Institute at University of Minho,Active,University of Minho,2005,NA
+EUR,Portugal,Lisboa,Confucius Institute at University of Lisbon,Active,University of Lisbon,2007,NA
+EUR,Portugal,Aveiro,Confucius Institute at University of Aveiro,Active,University of Aveiro,2014,NA
+EUR,Portugal,Coimbra,Confucius Institute at University of Coimbra,Active,University of Coimbra,2015,NA
+EUR,Portugal,Porto,Confucius Institute at University of Porto,Active,University of Porto,2018,NA
+EAP,Republic of Korea,Cheongju,Confucius Institute at Chungbuk National University,Active,Chungbuk National University,2006,NA
+EAP,Republic of Korea,Busan,Confucius Institute at Dong-A University,Active,Dong-A University,2006,NA
+EAP,Republic of Korea,Busan,Confucius Institute at Dongseo University,Active,Dongseo University,2006,NA
+EAP,Republic of Korea,Gwangju,Confucius Institute at Honam University,Active,Honam University,2006,NA
+EAP,Republic of Korea,Daejeon,Confucius Institute at Woosong University,Active,Woosong University,2006,NA
+EAP,Republic of Korea,Daejeon,Confucius Institute at Chungnam National University,Active,Chungnam National University,2007,NA
+EAP,Republic of Korea,Mokpo,Confucius Institute at Daebul University,Active,Daebul University,2007,NA
+EAP,Republic of Korea,Pocheon,Confucius Institute at Daejin University,Active,Daejin University,2007,NA
+EAP,Republic of Korea,Chuncheon,Confucius Institute at Kangwon National University,Active,Kangwon National University,2007,NA
+EAP,Republic of Korea,Daegu,Confucius Institute at Keimyung University,Active,Keimyung University,2007,NA
+EAP,Republic of Korea,Asan,Confucius Institute at Soon Chun Hyang University,Active,Soon Chun Hyang University,2007,NA
+EAP,Republic of Korea,Cheju,Confucius Institute at Cheju Halla College,Active,Cheju Halla College,2009,NA
+EAP,Republic of Korea,Seoul,Confucius Institute at Hankuk University of Foreign Studies,Active,Hankuk University of Foreign Studies,2009,NA
+EAP,Republic of Korea,Incheon,Confucius Institute at University of Incheon,Active,University of Incheon,2009,NA
+EAP,Republic of Korea,Chonju,Confucius Institute at Woosuk University,Active,Woosuk University,2009,NA
+EAP,Republic of Korea,Yongin-si,Confucius Institute at Kyung Hee University,Active,Kyung Hee University,2011,NA
+EAP,Republic of Korea,Andong,Confucius Institute at Andong National University,Active,Andong National University,2012,NA
+EAP,Republic of Korea,Seoul,Confucius Institute at Yonsei University,Active,Yonsei University,2012,NA
+EAP,Republic of Korea,Jecheon,Confucius Institute at Semyung University,Active,Semyung University,2014,NA
+EAP,Republic of Korea,Iksan,Confucius Institute at Wonkwang University,Active,Wonkwang University,2014,NA
+EAP,Republic of Korea,Seoul,Confucius Institute at Hanyang University,Active,Hanyang University,2015,NA
+EAP,Republic of Korea,Jeju,Confucius Institute at Jeju National University,Active,Jeju National University,2016,NA
+EUR,Republic of Moldova,Chisinau,Confucius Institute at Free International University of Moldova,Active,Free International University of Moldova,2009,NA
+EUR,Romania,Sibiu,Confucius Institute at Lucian Blaga University of Sibiu,Active,Lucian Blaga University of Sibiu,2006,NA
+EUR,Romania,Cluj-Napoca,Confucius Institute at Babes-Bolyai University in Cluj-Napoca,Active,Babes-Bolyai University în Cluj-Napoca,2009,NA
+EUR,Romania,Brasov,Confucius Institute at Transilvania University of Brasov,Active,Transilvania University of Brasov,2011,NA
+EUR,Romania,Bucharest,Confucius Institute at University of Bucharest,Active,University of Bucharest,2013,NA
+EUR,Russian Federation,Vladivostok,Confucius Institute at Far-Eastern National University,Active,Far-Eastern National University,2006,NA
+EUR,Russian Federation,Irkutsk,Confucius Institute at Irkutsk State University,Active,Irkutsk State University,2006,NA
+EUR,Russian Federation,St. Petersburg,Confucius Institute at Saint Petersburg State University,Active,Saint Petersburg State University,2006,NA
+EUR,Russian Federation,Moscow,Confucius Institute at The Russian State University for the Humanities,Active,The Russian State University for the Humanities,2006,NA
+EUR,Russian Federation,Blagoveshchensk,Confucius Institute at Blagoveshchensk National Pedagogical University,Active,Blagoveshchensk National Pedagogical University,2007,NA
+EUR,Russian Federation,Ulan-Ude,Confucius Institute at Buryat State University,Active,Buryat State University,2007,NA
+EUR,Russian Federation,Kalmyk,Confucius Institute at Kalmyk State University,Active,Kalmyk State University,2007,NA
+EUR,Russian Federation,Kazan,Confucius Institute at Kazan State University,Active,Kazan State University,2007,NA
+EUR,Russian Federation,Moscow,Confucius Institute at Lomonosov Moscow State University,Active,Lomonosov Moscow State University,2007,NA
+EUR,Russian Federation,Novosibirsk,Confucius Institute at Novosibirsk State University of Technology,Active,Novosibirsk State Technical University,2007,NA
+EUR,Russian Federation,Tomsk,Confucius Institute at Tomsk State University,Active,Tomsk State University,2007,NA
+EUR,Russian Federation,Yekaterinburg,Confucius Institute at Ural State University,Active,Ural State University,2007,NA
+EUR,Russian Federation,Komsomolsk-na-Amure,Confucius Institute at Amur State University of Humanities and Pedagogy,Active,Amur State University of Humanities and Pedagogy,2010,NA
+EUR,Russian Federation,Moscow,Confucius Institute at Moscow State Linguistic University,Active,Moscow State Linguistic University,2010,NA
+EUR,Russian Federation,Nizhny Novgorod,Confucius Institute at Nizhny Novgorod State Linguistic University,Active,Nizhny Novgorod State Linguistic University,2010,NA
+EUR,Russian Federation,Ryazan,Confucius Institute at Ryazan State University,Active,Ryazan State University,2010,NA
+EUR,Russian Federation,Volgograd,Confucius Institute at Volgograd State Socio-Pedagogical University,Active,Volgograd State Socio-Pedagogical University,2010,NA
+EUR,Russian Federation,Novosibirsk,Confucius Institute at Novosibirsk State University,Active,Novosibirsk State University,2018,NA
+AF,Rwanda,Kigali,Confucius Institute at University of Rwanda,Active,University of Rwanda,2008,NA
+EAP,Samoa,Apia,Confucius Institute at National University of Samoa,Active,National University of Samoa,2017,NA
+EUR,San Marino,San Marino,Confucius Institute at University of the Republic of San Marino,Active,University of the Republic of San Marino,2014,NA
+AF,Sao Tome and Principe,São Tomé,Confucius Institute at the Public University of São Tomé and Príncipe,Active,Public University of São Tomé and Príncipe,2019,NA
+AF,Senegal,Dakar,Confucius Institute at University of Dakar,Active,University of Dakar,2012,NA
+EUR,Serbia,Belgrade,Confucius Institute at University of Belgrade,Active,University of Belgrade,2006,NA
+EUR,Serbia,Novi Sad,Confucius Institute at University of Novi Sad,Active,University of Novi Sad,2013,NA
+AF,Seychelles,Victoria,Confucius Institute at University of Seychelles,Active,University of Seychelles,2015,NA
+AF,Sierra Leone,Freetown,Confucius Institute at University of Sierra Leone,Active,University of Sierra Leone,2011,NA
+EAP,Singapore,Singapore,Confucius Institute at Nanyang Technological University,Active,Nanyang Technological University,2005,NA
+EUR,Slovakia,Bratislava,Confucius Institute at Slovak University of Technology,Active,Slovak University of Technology,2007,NA
+EUR,Slovakia,Bratislava,Confucius Institute at Comenius University,Active,Comenius University,2014,NA
+EUR,Slovakia,Banska Bystrica,Confucius Institute at Matej Bel University,Active,Matej Bel University,2018,NA
+EUR,Slovenia,Ljubljana,Confucius Institute at University of Ljubljana,Active,University of Ljubljana,2009,NA
+AF,South Africa,Stellenbosch,Confucius Institute at University of Stellenbosch,Active,University of Stellenbosch,2004,NA
+AF,South Africa,Grahamstown,Confucius Institute at Rhodes University,Active,Rhodes University,2007,NA
+AF,South Africa,Pretoria,Confucius Institute at Tshwane University of Technology,Closed,Tshwane University of Technology,2007,2021
+AF,South Africa,Cape Town,Confucius Institute at University of Cape Town,Active,University of Cape Town,2010,NA
+AF,South Africa,Durban,Confucius Institute at Durban University of Technology,Active,Durban University of Technology,2013,NA
+AF,South Africa,Johannesburg,Confucius Institute at University of Johannesburg,Active,University of Johannesburg,2014,NA
+AF,South Africa,Cape Town,Confucius Institute at University of Western Cape,Active,University of Western Cape,2018,NA
+EUR,Spain,Madrid,Confucius Institute at Autonomous University of Madrid,Active,Autonomous University of Madrid,2005,NA
+EUR,Spain,Granada,Confucius Institute at University of Granada,Active,University of Granada,2006,NA
+EUR,Spain,Valencia,Confucius Institute at University of Valencia,Active,University of Valencia,2007,NA
+EUR,Spain,Barcelona,Confucius Institute at University of Barcelona,Active,University of Barcelona,2008,NA
+EUR,Spain,Las Palmas de Gran Canaria,Confucius Institute at University of Las Palmas,Active,University of Las Palmas,2011,NA
+EUR,Spain,Leon,Confucius Institute at University of Leon,Active,University of Leon,2011,NA
+EUR,Spain,Toledo,Confucius Institute at University of Castilla-La Mancha,Active,University of Castilla-La Mancha,2016,NA
+EUR,Spain,Zaragoza,Confucius Institute at University of Zaragoza,Active,University of Zaragoza,2016,NA
+SCA,Sri Lanka,Kailaniya,Confucius Institute at University of Kelaniya,Active,University of Kelaniya,2006,NA
+SCA,Sri Lanka,Colombo,Confucius Institute at Colombo University,Active,Colombo University,2014,NA
+AF,Sudan,Khartoum,Confucius Institute at University of Khartoum,Active,University of Khartoum,2008,NA
+WHA,Suriname,Paramaribo,Confucius Institute at Anton de Kom University of Suriname,Active,Anton de Kom University of Suriname,2016,NA
+EUR,Sweden,Stockholm,Confucius Institute at Stockholm University,Closed,Stockholm University,2005,2014
+EUR,Sweden,Karlskrona,Confucius Institute at Blekinge Institute of Technology,Closed,Blekinge Institute of Technology,2011,2015
+EUR,Sweden,Varmland,Confucius Institute at Karlstad University,Closed,Karlstad University,2011,2015
+EUR,Sweden,Lulea,Confucius Institute at Luleå Municipality and Luleå University of Technology,Closed,Luleå Municipality and Luleå University of Technology,2012,2020
+EUR,Sweden,Borlange,Confucius Institute at Borlänge Municipality,Closed,Borlänge Municipality,2018,2020
+EUR,Switzerland,Geneva,Confucius Institute at University of Geneva,Active,University of Geneva,2010,NA
+EUR,Switzerland,Basel,Confucius Institute at University of Basel,Closed,University of Basel,2013,2020
+SCA,Tajikistan,Dushanbe,Confucius Institute at Tajik National University,Active,Tajik National University,2008,NA
+SCA,Tajikistan,Khujand,Confucius Institute at Mining Metallurgical Institute of Tajikistan,Active,Mining Metallurgical Institute of Tajikistan,2014,NA
+EAP,Thailand,Chiang Mai,Confucius Institute at Chiang Mai University,Active,Chiang Mai University,2005,NA
+EAP,Thailand,Bangkok,Confucius Institute at Kasetsart University,Active,Kasetsart University,2005,NA
+EAP,Thailand,Chiang Rai,Confucius Institute at Mae Fah Luang University,Active,Mae Fah Luang University,2005,NA
+EAP,Thailand,Bangkok,Confucius Institute at Bansomdejchaopraya Rajabhat University,Active,Bansomdejchaopraya Rajabhat University,2006,NA
+EAP,Thailand,Betong,Confucius Institute at Betong Municipality,Active,Betong Municipality,2006,NA
+EAP,Thailand,Chonburi,Confucius Institute at Burapha University,Active,Burapha University,2006,NA
+EAP,Thailand,Bangkok,Confucius Institute at Chulalongkorn University,Active,Chulalongkorn University,2006,NA
+EAP,Thailand,Khon Kaen,Confucius Institute at Khon Kaen University,Active,Khon Kaen University,2006,NA
+EAP,Thailand,Maha Sarakham,Confucius Institute at Mahasarakham University,Active,Mahasarakham University,2006,NA
+EAP,Thailand,Phuket,"Confucius Institute at Phuket, Prince of Songkla University",Active,"Phuket, Prince of Songkla University",2006,NA
+EAP,Thailand,Songkhla,Confucius Institute at Prince of Songkla University,Active,Prince of Songkla University,2006,NA
+EAP,Thailand,Suphanburi,Confucius Institute at Suan Dusit Rajabhat University,Active,Suan Dusit Rajabhat University,2006,NA
+EAP,Thailand,Bangkok,Confucius Institute at Assumption University,Active,Assumption University,2014,NA
+EAP,Thailand,Bangkok,Confucius Institute at Dhurakij Pundit University,Active,Dhurakij Pundit University,2015,NA
+EAP,Thailand,Bangkok,Confucius Institute at Huachiew Chalermprakiet University,Active,Huachiew Chalermprakiet University,2015,NA
+EAP,Thailand,Bangkok,Confucius Institute at Phranakhon Rajabhat University,Active,Phranakhon Rajabhat University,2018,NA
+AF,Togo,Lomé,Confucius Institute at University of Lomé,Active,University of Lomé,2008,NA
+WHA,Trinidad and Tobago,Port of Spain,"Confucius Institute at University of the West Indies, St. Augustine Campus",Active,"University of the West Indies, St. Augustine Campus",2013,NA
+NEA,Tunisia,Tunis,Confucius Institute at University of Carthage,Active,University of Carthage,2018,NA
+EUR,Turkey,Ankara,Confucius Institute at Middle East Technical University,Active,Middle East Technical University,2006,NA
+EUR,Turkey,Istanbul,Confucius Institute at Bogazici University,Active,Bogazici University,2008,NA
+EUR,Turkey,Istanbul,Confucius Institute at Okan University,Active,Okan University,2012,NA
+EUR,Turkey,Istanbul,Confucius Institute at Yeditepe University,Active,Yeditepe University,2015,NA
+AF,Uganda,Kampala,Confucius Institute at Makerere University,Active,Makerere University,2014,NA
+EUR,Ukraine,Luhansk,Confucius Institute at Luhansk National Pedagogical University,Active,Luhansk National Pedagogical University,2006,NA
+EUR,Ukraine,Kiev,Confucius Institute at National Taras Shevchenko University of Kyiv,Active,National Taras Shevchenko University of Kyiv,2007,NA
+EUR,Ukraine,Kharkiv,Confucius Institute at Kharkiv State University,Active,Kharkiv State University,2008,NA
+EUR,Ukraine,Odessa,Confucius Institute at South Ukrainian National Pedagogical University,Active,South Ukrainian National Pedagogical University,2011,NA
+EUR,Ukraine,Kiev,Confucius Institute at Kiev State Linguistic University,Active,Kiev State Linguistic University,2013,NA
+NEA,United Arab Emirates,Dubai,Confucius Institute at University of Dubai,Active,University of Dubai,2010,NA
+NEA,United Arab Emirates,Abu Dhabi,Confucius Institute at Zayed University,Active,Zayed University,2010,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,London,Confucius Institute at London School of Economics and Political Science,Active,London School of Economics and Political Science,2006,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Edinburgh,Confucius Institute at University of Edinburgh,Active,University of Edinburgh,2006,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Manchester,Confucius Institute at University of Manchester,Active,University of Manchester,2006,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Sheffield,Confucius Institute at University of Sheffield,Active,University of Sheffield,2006,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Cardiff,Confucius Institute at Cardiff University,Active,Cardiff University,2007,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,London,Confucius Institute at London South Bank University,Active,London South Bank University,2007,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Nottingham,Confucius Institute at University of Nottingham,Active,University of Nottingham,2007,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Lampeter,Confucius Institute at University of Wales Trinity Saint David,Active,University of Wales Trinity Saint David,2007,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Preston,Confucius Institute at University of Central Lancashire,Active,University of Central Lancashire,2008,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Liverpool,Confucius Institute at University of Liverpool,Active,University of Liverpool,2008,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Lancaster,Confucius Institute at Lancaster University,Active,Lancaster University,2011,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Glasgow,Confucius Institute at University of Glasgow,Active,University of Glasgow,2011,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Southampton,Confucius Institute at University of Southampton,Active,University of Southampton,2011,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Belfast,Confucius Institute at University of Ulster,Active,University of Ulster,2011,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Bangor,Confucius Institute at Bangor University,Active,Bangor University,2012,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Ormskirk,Confucius Institute at Edge Hill University,Active,Edge Hill University,2012,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,London,"Confucius Institute at Goldsmiths College, University of London",Active,"Goldsmiths College, University of London",2012,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Newcastle,Confucius Institute at Newcastle University,Active,Newcastle University,2012,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,London,Confucius Institute at UCL Institute of Education,Active,UCL Institute of Education,2012,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Aberdeen,Confucius Institute at University of Aberdeen,Active,University of Aberdeen,2012,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Leeds,Confucius Institute at University of Leeds,Active,University of Leeds,2012,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Glasgow,Confucius institute for Scotland's Schools,Active,University of Strathclyde,2012,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Leicester,Confucius Institute at De Montfort University,Active,De Montfort University,2013,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Edinburgh,Confucius Institute at Heriot Watt University,Active,Heriot Watt University,2013,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Coventry,Confucius Institute at Coventry University,Active,Coventry University,2015,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Oxford,Confucius Institute at Oxford Brookes University,Active,Oxford Brookes University,2015,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,London,Confucius Institute at Queen Mary University of London,Active,Queen Mary University of London,2015,NA
+EUR,United Kingdom of Great Britain and Northern Ireland,Hull,Confucius Institute at University of Hull,Active,University of Hull,2015,NA
+AF,United Republic of Tanzania,Dodoma,Confucius Institute at University of Dodoma,Active,University of Dodoma,2012,NA
+AF,United Republic of Tanzania,Dar es Salaam,Confucius Institute at University of Dar es Salaam,Active,University of Dar es Salaam,2013,NA
+WHA,United States of America,College Park,Confucius Institute at University of Maryland,Closed,University of Maryland,2004,2020
+WHA,United States of America,Providence,Confucius Institute at Bryant University,Closed,Bryant University,2006,2021
+WHA,United States of America,Chicago,Confucius Institute at Chicago Public Schools,Active,Chicago Public Schools,2006,NA
+WHA,United States of America,New York,Confucius Institute at China Institute,Active,China Institute,2006,NA
+WHA,United States of America,East Lansing,Confucius Institute at Michigan State University,Closed,Michigan State University,2006,2021
+WHA,United States of America,Raleigh,Confucius Institute at North Carolina State University,Closed,North Carolina State University,2006,2019
+WHA,United States of America,San Francisco,Confucius Institute at San Francisco State University,Closed,San Francisco State University,2006,2019
+WHA,United States of America,Los Angeles,"Confucius Institute at University of California, Los Angeles",Closed,"University of California, Los Angeles",2006,2020
+WHA,United States of America,Honolulu,Confucius Institute at University of Hawaii at Manoa,Closed,University of Hawaii at Manoa,2006,2019
+WHA,United States of America,Iowa City,Confucius Institute at University of Iowa,Closed,University of Iowa,2006,2018
+WHA,United States of America,Overland Park,Confucius Institute at University of Kansas,Closed,University of Kansas,2006,2020
+WHA,United States of America,Boston,Confucius Institute at University of Massachusetts at Boston,Closed,University of Massachusetts at Boston,2006,2019
+WHA,United States of America,Norman,Confucius Institute at University of Oklahoma,Closed,University of Oklahoma,2006,2020
+WHA,United States of America,Phoenix,Confucius Institute at Arizona State University,Closed,Arizona State University,2007,2019
+WHA,United States of America,Denver,Confucius Institute at Community College of Denver,Closed,Community College of Denver,2007,2020
+WHA,United States of America,Indianapolis,Confucius Institute at Indiana University–Purdue University Indianapolis (IUPUI),Closed,Indiana University–Purdue University Indianapolis (IUPUI),2007,2019
+WHA,United States of America,Oxford,Confucius Institute at Miami University,Closed,Miami University,2007,2020
+WHA,United States of America,Las Cruces,Confucius Institute at New Mexico State University,Closed,New Mexico State University,2007,2020
+WHA,United States of America,Portland,Confucius Institute at Portland State University,Closed,Portland State University,2007,2021
+WHA,United States of America,West Lafayette,Confucius Institute at Purdue University,Closed,Purdue University,2007,2018
+WHA,United States of America,New Brunswick,Confucius Institute at Rutgers University,Closed,Rutgers University,2007,2020
+WHA,United States of America,Troy,Confucius Institute at Troy University,Active,Troy University,2007,NA
+WHA,United States of America,Tucson,Confucius Institute at University of Arizona,Closed,University of Arizona,2007,2020
+WHA,United States of America,Conway,Confucius Institute at University of Central Arkansas,Closed,University of Central Arkansas,2007,2021
+WHA,United States of America,Memphis,Confucius Institute at University of Memphis,Closed,University of Memphis,2007,2020
+WHA,United States of America,Lincoln,Confucius Institute at University of Nebraska Lincoln,Closed,University of Nebraska Lincoln,2007,2020
+WHA,United States of America,Pittsburgh,Confucius Institute at University of Pittsburgh,Closed,University of Pittsburgh,2007,2020
+WHA,United States of America,Kingston,Confucius Institute at University of Rhode Island,Closed,University of Rhode Island,2007,2018
+WHA,United States of America,Tampa,Confucius Institute at University of South Florida,Closed,University of South Florida,2007,2018
+WHA,United States of America,Dallas,Confucius Institute at University of Texas at Dallas,Closed,University of Texas at Dallas,2007,2019
+WHA,United States of America,Salt Lake City,Confucius Institute at University of Utah,Active,University of Utah,2007,NA
+WHA,United States of America,Platteville,Confucius Institute at University of Wisconsin-Platteville,Closed,University of Wisconsin-Platteville,2007,2021
+WHA,United States of America,Valparaiso,Confucius Institute at Valparaiso University,Closed,Valparaiso University,2007,2022
+WHA,United States of America,Detroit,Confucius Institute at Wayne State University,Closed,Wayne State University,2007,2021
+WHA,United States of America,St. Louis,Confucius Institute at Webster University,Active,Webster University,2007,NA
+WHA,United States of America,Alfred,Confucius Institute at Alfred University,Active,Alfred University,2008,NA
+WHA,United States of America,Atlanta,Confucius Institute at Emory University,Closed,Emory University,2008,2021
+WHA,United States of America,Fairfax,Confucius Institute at George Mason University,Closed,George Mason University,2008,2020
+WHA,United States of America,Kennesaw,Confucius Institute at Kennesaw State University,Closed,Kennesaw State University,2008,2019
+WHA,United States of America,Charlotte,Confucius Institute at Pfeiffer University,Closed,Pfeiffer University,2008,2016
+WHA,United States of America,Clinton,Confucius Institute at Presbyterian College,Active,Presbyterian College,2008,NA
+WHA,United States of America,San Diego,Confucius Institute at San Diego State University,Closed,San Diego State University,2008,2019
+WHA,United States of America,Stony Brook,Confucius Institute at Stony Brook University,Closed,Stony Brook University,2008,2021
+WHA,United States of America,College Station,Confucius Institute at Texas A&M University,Closed,Texas A&M University,2008,2018
+WHA,United States of America,Akron,Confucius Institute at University of Akron,Closed,University of Akron,2008,2022
+WHA,United States of America,Minneapolis,Confucius Institute at University of Minnesota,Closed,University of Minnesota,2008,2019
+WHA,United States of America,Missoula,Confucius Institute at University of Montana,Closed,University of Montana,2008,2019
+WHA,United States of America,Colombia,Confucius Institute at University of South Carolina,Closed,University of South Carolina,2008,2021
+WHA,United States of America,Toledo,Confucius Institute at University of Toledo,Active,University of Toledo,2008,NA
+WHA,United States of America,Binghamton,Confucius Institute at Binghamton University,Closed,Binghamton University,2009,2021
+WHA,United States of America,Cleveland,Confucius Institute at Cleveland State University,Closed,Cleveland State University,2009,2021
+WHA,United States of America,New York,Confucius Institute at Columbia University,Closed,Columbia University,2009,2021
+WHA,United States of America,Miami,Confucius Institute at Miami Dade College,Closed,Miami Dade College,2009,2019
+WHA,United States of America,Murfreeboro,Confucius Institute at Middle Tennessee State University,Closed,Middle Tennessee State University,2009,2020
+WHA,United States of America,New York,Confucius Institute at Pace University,Closed,Pace University,2009,2019
+WHA,United States of America,Stanford,Confucius Institute at Stanford University,Active,Stanford University,2009,NA
+WHA,United States of America,New York,Confucius Institute at SUNY College of Optometry,Closed,SUNY College of Optometry,2009,2021
+WHA,United States of America,Buffalo,"Confucius Institute at University at Buffalo, State University of New York",Closed,"University at Buffalo, State University of New York",2009,2021
+WHA,United States of America,Anchorage,Confucius Institute at University of Alaska Anchorage,Closed,University of Alaska Anchorage,2009,2020
+WHA,United States of America,Chicago,Confucius Institute at University of Chicago,Closed,University of Chicago,2009,2014
+WHA,United States of America,Newark,Confucius Institute at University of Delaware,Closed,University of Delaware,2009,2020
+WHA,United States of America,Ann Arbor,Confucius Institute at University of Michigan,Closed,University of Michigan,2009,2018
+WHA,United States of America,San Antonio,Confucius Institute at University of Texas at San Antonio,Closed,University of Texas at San Antonio,2009,2019
+WHA,United States of America,Seattle,Confucius Institute at University of Washington and Seattle Public Schools,Closed,University of Washington and Seattle Public Schools,2009,2020
+WHA,United States of America,Kalamazoo,Confucius Institute at Western Michigan University,Closed,Western Michigan University,2009,2021
+WHA,United States of America,Atlanta,Confucius Institute at Georgia State University,Closed,Georgia State University,2010,2020
+WHA,United States of America,Tacoma,Confucius Institute of the State of Washington,Active,Pacific Lutheran University,2010,NA
+WHA,United States of America,New York,Confucius Institute at State University of New York,Closed,State University of New York,2010,2022
+WHA,United States of America,Lexington,Confucius Institute at University of Kentucky,Closed,University of Kentucky,2010,2021
+WHA,United States of America,Durham,Confucius Institute at University of New Hampshire,Closed,University of New Hampshire,2010,2021
+WHA,United States of America,Eugene,Confucius Institute at University of Oregon,Closed,University of Oregon,2010,2019
+WHA,United States of America,Bowling Green,Confucius Institute at Western Kentucky University,Closed,Western Kentucky University,2010,2019
+WHA,United States of America,Williamsburg,Confucius Institute at College of William & Mary,Closed,College of William & Mary,2011,2021
+WHA,United States of America,State College,Confucius Institute at Pennsylvania State University,Closed,Pennsylvania State University,2011,2014
+WHA,United States of America,Columbia,Confucius Institute at University of Missouri,Closed,University of Missouri,2011,2020
+WHA,United States of America,New Orleans,Confucius Institute at Xavier University of Louisiana,Closed,Xavier University of Louisiana,2011,2021
+WHA,United States of America,Montgomery,Confucius Institute at Auburn University at Montgomery,Closed,Auburn University at Montgomery,2012,2019
+WHA,United States of America,Fort Lauderdale,Confucius Institute at Broward County Public Schools,Closed,Broward County Public Schools,2012,2019
+WHA,United States of America,New Britain,Confucius Institute at Central Connecticut State University,Closed,Central Connecticut State University,2012,2021
+WHA,United States of America,Las Vegas,Confucius Institute at Clark County School District,Closed,Clark County School District,2012,2019
+WHA,United States of America,Fort Collins,Confucius Institute at Colorado State University,Closed,Colorado State University,2012,2021
+WHA,United States of America,Farmington,Confucius Institute at Davis County School District,Active,Davis County School District,2012,NA
+WHA,United States of America,New Philadelphia,Confucius Institute at East Central Ohio Educational Center,Active,East Central Ohio Educational Center,2012,NA
+WHA,United States of America,"Washington, D.C.",Confucius Institute at George Washington University,Closed,George Washington University,2012,2021
+WHA,United States of America,Houston,Confucius Institute at Houston Independent School District,Active,Houston Independent School District,2012,NA
+WHA,United States of America,Norfolk,Confucius Institute at Old Dominion University,Closed,Old Dominion University,2012,2020
+WHA,United States of America,Houston,Confucius Institute at Texas Southern University,Closed,Texas Southern University,2012,2018
+WHA,United States of America,Davis,Confucius Institute at University of California-Davis,Closed,University of California-Davis,2012,2020
+WHA,United States of America,Macon,Confucius Institute at Wesleyan College,Active,Wesleyan College,2012,NA
+WHA,United States of America,Prairie View,Confucius Institute at Prarie View A&M University,Closed,Prairie View A&M University,2013,2018
+WHA,United States of America,Savannah,Confucius Institute at Savannah State University,Closed,Savannah State University,2013,2020
+WHA,United States of America,St. Cloud,Confucius Institute at St. Cloud State University,Active,St. Cloud State University,2013,NA
+WHA,United States of America,New Orleans,Confucius Institute at Tulane University,Closed,Tulane University,2013,2017
+WHA,United States of America,Albany,"Confucius Institute at University at Albany, State University of New York",Closed,"University at Albany, State University of New York",2013,2021
+WHA,United States of America,Santa Barbara,"Confucius Institute at University of California, Santa Barbara",Closed,"University of California, Santa Barbara",2013,2021
+WHA,United States of America,Moscow,Confucius Institute at University of Idaho,Closed,University of Idaho,2013,2020
+WHA,United States of America,Champaign,Confucius Institute at University of Illinois at Urbana-Champaign,Closed,University of Illinois at Urbana-Champaign,2013,2017
+WHA,United States of America,Portland,Confucius Institute at University of Southern Maine,Closed,University of Southern Maine,2013,2021
+WHA,United States of America,Knoxville,Confucius Institute at University of Tennessee,Closed,University of Tennessee,2013,2019
+WHA,United States of America,Pensacola,Confucius Institute at University of West Florida,Closed,University of West Florida,2013,2018
+WHA,United States of America,Huntsville,Confucius Institute at Alabama A&M University,Closed,Alabama A&M University,2014,2021
+WHA,United States of America,Augusta,Confucius Institute at Augusta University,Closed,Augusta University,2014,2018
+WHA,United States of America,Long Beach,Confucius Institute at California State University - Long Beach,Closed,California State University - Long Beach,2014,2020
+WHA,United States of America,Manhattan,Confucius Institute at Kansas State University,Closed,Kansas State University,2014,2019
+WHA,United States of America,Aberdeen,Confucius Institute at Northern State University,Closed,Northern State University,2014,2019
+WHA,United States of America,Philadelphia,Confucius Institute at Temple University,Closed,Temple University,2014,2021
+WHA,United States of America,Medford,Confucius Institute at Tufts University,Closed,Tufts University,2014,2021
+WHA,United States of America,Jacksonville,Confucius Institute at University of North Florida,Closed,University of North Florida,2014,2018
+WHA,United States of America,Morgantown,Confucius Institute at West Virginia University,Closed,West Virginia University,2014,2021
+WHA,United States of America,Jersey City,Confucius Institute at New Jersey City University,Closed,New Jersey City University,2015,2021
+WHA,United States of America,Nampa,Confucius Institute at Northwest Nazarene University,Closed,Northwest Nazarene University,2015,2021
+WHA,United States of America,Cedar City,Confucius Institute at Southern Utah University,Closed,Southern Utah University,2015,2022
+WHA,United States of America,New York,Confucius Institute at Baruch College,Closed,Baruch College,2016,2021
+WHA,United States of America,Charlotte,Confucius Institute at University of North Carolina at Charlotte,Closed,University of North Carolina at Charlotte,2016,2020
+WHA,United States of America,New York,Confucius Institute at Medgar Evers College,Active,Medgar Evers College,2018,NA
+WHA,United States of America,Franklin,Confucius Institute at Simpson County Schools,Active,Simpson County Schools,2019,NA
+WHA,Uruguay,Montevideo,Confucius Institute at University of the Republic,Active,University of the Republic,2016,NA
+SCA,Uzbekistan,Tashkent,"Confucius Institute at Tashkent State Institute of Oriental Studies, Uzbekistan",Active,"Tashkent State Institute of Oriental Studies, Uzbekistan",2004,NA
+SCA,Uzbekistan,Samarkand,Confucius Institute at Samarkand State Institute of Foreign Languages,Active,Samarkand State Institute of Foreign Languages,2013,NA
+WHA,Venezuela (Bolivarian Republic of),Caracas,Confucius Institute at Bolivarian University of Venezuela,Active,Bolivarian University of Venezuela,2015,NA
+EAP,Viet Nam,Hanoi,Confucius Institute at Hanoi University,Active,Hanoi University,2013,NA
+AF,Zambia,Lusaka,Confucius Institute at University of Zambia,Active,University of Zambia,2010,NA
+AF,Zimbabwe,Harare,Confucius Institute at University of Zimbabwe,Active,University of Zimbabwe,2006,NA

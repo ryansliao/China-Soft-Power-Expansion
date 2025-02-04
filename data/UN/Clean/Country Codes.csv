@@ -1,0 +1,2133 @@
+ccode2,country,un_continent,un_region,regime,year
+2,United States,Americas,Northern America,Democracy,2000
+2,United States,Americas,Northern America,Democracy,2001
+2,United States,Americas,Northern America,Democracy,2002
+2,United States,Americas,Northern America,Democracy,2003
+2,United States,Americas,Northern America,Democracy,2004
+2,United States,Americas,Northern America,Democracy,2005
+2,United States,Americas,Northern America,Democracy,2006
+2,United States,Americas,Northern America,Democracy,2007
+2,United States,Americas,Northern America,Democracy,2008
+2,United States,Americas,Northern America,Democracy,2009
+2,United States,Americas,Northern America,Democracy,2010
+2,United States,Americas,Northern America,Democracy,2011
+2,United States,Americas,Northern America,Democracy,2012
+20,Canada,Americas,Northern America,Democracy,2000
+20,Canada,Americas,Northern America,Democracy,2001
+20,Canada,Americas,Northern America,Democracy,2002
+20,Canada,Americas,Northern America,Democracy,2003
+20,Canada,Americas,Northern America,Democracy,2004
+20,Canada,Americas,Northern America,Democracy,2005
+20,Canada,Americas,Northern America,Democracy,2006
+20,Canada,Americas,Northern America,Democracy,2007
+20,Canada,Americas,Northern America,Democracy,2008
+20,Canada,Americas,Northern America,Democracy,2009
+20,Canada,Americas,Northern America,Democracy,2010
+20,Canada,Americas,Northern America,Democracy,2011
+20,Canada,Americas,Northern America,Democracy,2012
+40,Cuba,Americas,Caribbean,Single Party,2000
+40,Cuba,Americas,Caribbean,Single Party,2001
+40,Cuba,Americas,Caribbean,Single Party,2002
+40,Cuba,Americas,Caribbean,Single Party,2003
+40,Cuba,Americas,Caribbean,Single Party,2004
+40,Cuba,Americas,Caribbean,Single Party,2005
+40,Cuba,Americas,Caribbean,Single Party,2006
+40,Cuba,Americas,Caribbean,Single Party,2007
+40,Cuba,Americas,Caribbean,Single Party,2008
+40,Cuba,Americas,Caribbean,Single Party,2009
+40,Cuba,Americas,Caribbean,Single Party,2010
+40,Cuba,Americas,Caribbean,Single Party,2011
+40,Cuba,Americas,Caribbean,Single Party,2012
+41,Haiti,Americas,Caribbean,Multiparty,2000
+41,Haiti,Americas,Caribbean,Multiparty,2001
+41,Haiti,Americas,Caribbean,Multiparty,2002
+41,Haiti,Americas,Caribbean,Multiparty,2003
+41,Haiti,Americas,Caribbean,Multiparty,2004
+41,Haiti,Americas,Caribbean,Multiparty,2005
+41,Haiti,Americas,Caribbean,Multiparty,2006
+41,Haiti,Americas,Caribbean,Multiparty,2007
+41,Haiti,Americas,Caribbean,Multiparty,2008
+41,Haiti,Americas,Caribbean,Multiparty,2009
+41,Haiti,Americas,Caribbean,Multiparty,2010
+41,Haiti,Americas,Caribbean,Multiparty,2011
+41,Haiti,Americas,Caribbean,Multiparty,2012
+42,Dominican Republic,Americas,Caribbean,Democracy,2000
+42,Dominican Republic,Americas,Caribbean,Democracy,2001
+42,Dominican Republic,Americas,Caribbean,Democracy,2002
+42,Dominican Republic,Americas,Caribbean,Democracy,2003
+42,Dominican Republic,Americas,Caribbean,Democracy,2004
+42,Dominican Republic,Americas,Caribbean,Democracy,2005
+42,Dominican Republic,Americas,Caribbean,Democracy,2006
+42,Dominican Republic,Americas,Caribbean,Democracy,2007
+42,Dominican Republic,Americas,Caribbean,Democracy,2008
+42,Dominican Republic,Americas,Caribbean,Democracy,2009
+42,Dominican Republic,Americas,Caribbean,Democracy,2010
+42,Dominican Republic,Americas,Caribbean,Democracy,2011
+42,Dominican Republic,Americas,Caribbean,Democracy,2012
+51,Jamaica,Americas,Caribbean,Democracy,2000
+51,Jamaica,Americas,Caribbean,Democracy,2001
+51,Jamaica,Americas,Caribbean,Democracy,2002
+51,Jamaica,Americas,Caribbean,Democracy,2003
+51,Jamaica,Americas,Caribbean,Democracy,2004
+51,Jamaica,Americas,Caribbean,Democracy,2005
+51,Jamaica,Americas,Caribbean,Democracy,2006
+51,Jamaica,Americas,Caribbean,Democracy,2007
+51,Jamaica,Americas,Caribbean,Democracy,2008
+51,Jamaica,Americas,Caribbean,Democracy,2009
+51,Jamaica,Americas,Caribbean,Democracy,2010
+51,Jamaica,Americas,Caribbean,Democracy,2011
+51,Jamaica,Americas,Caribbean,Democracy,2012
+52,Trinidad and Tobago,Americas,Caribbean,Democracy,2000
+52,Trinidad and Tobago,Americas,Caribbean,Democracy,2001
+52,Trinidad and Tobago,Americas,Caribbean,Democracy,2002
+52,Trinidad and Tobago,Americas,Caribbean,Democracy,2003
+52,Trinidad and Tobago,Americas,Caribbean,Democracy,2004
+52,Trinidad and Tobago,Americas,Caribbean,Democracy,2005
+52,Trinidad and Tobago,Americas,Caribbean,Democracy,2006
+52,Trinidad and Tobago,Americas,Caribbean,Democracy,2007
+52,Trinidad and Tobago,Americas,Caribbean,Democracy,2008
+52,Trinidad and Tobago,Americas,Caribbean,Democracy,2009
+52,Trinidad and Tobago,Americas,Caribbean,Democracy,2010
+52,Trinidad and Tobago,Americas,Caribbean,Democracy,2011
+52,Trinidad and Tobago,Americas,Caribbean,Democracy,2012
+70,Mexico,Americas,Central America,Democracy,2000
+70,Mexico,Americas,Central America,Democracy,2001
+70,Mexico,Americas,Central America,Democracy,2002
+70,Mexico,Americas,Central America,Democracy,2003
+70,Mexico,Americas,Central America,Democracy,2004
+70,Mexico,Americas,Central America,Democracy,2005
+70,Mexico,Americas,Central America,Democracy,2006
+70,Mexico,Americas,Central America,Democracy,2007
+70,Mexico,Americas,Central America,Democracy,2008
+70,Mexico,Americas,Central America,Democracy,2009
+70,Mexico,Americas,Central America,Democracy,2010
+70,Mexico,Americas,Central America,Democracy,2011
+70,Mexico,Americas,Central America,Democracy,2012
+90,Guatemala,Americas,Central America,Democracy,2000
+90,Guatemala,Americas,Central America,Democracy,2001
+90,Guatemala,Americas,Central America,Democracy,2002
+90,Guatemala,Americas,Central America,Democracy,2003
+90,Guatemala,Americas,Central America,Democracy,2004
+90,Guatemala,Americas,Central America,Democracy,2005
+90,Guatemala,Americas,Central America,Democracy,2006
+90,Guatemala,Americas,Central America,Democracy,2007
+90,Guatemala,Americas,Central America,Democracy,2008
+90,Guatemala,Americas,Central America,Democracy,2009
+90,Guatemala,Americas,Central America,Democracy,2010
+90,Guatemala,Americas,Central America,Democracy,2011
+90,Guatemala,Americas,Central America,Democracy,2012
+91,Honduras,Americas,Central America,Democracy,2000
+91,Honduras,Americas,Central America,Democracy,2001
+91,Honduras,Americas,Central America,Democracy,2002
+91,Honduras,Americas,Central America,Democracy,2003
+91,Honduras,Americas,Central America,Democracy,2004
+91,Honduras,Americas,Central America,Democracy,2005
+91,Honduras,Americas,Central America,Democracy,2006
+91,Honduras,Americas,Central America,Democracy,2007
+91,Honduras,Americas,Central America,Democracy,2008
+91,Honduras,Americas,Central America,Democracy,2009
+91,Honduras,Americas,Central America,Democracy,2010
+91,Honduras,Americas,Central America,Democracy,2011
+91,Honduras,Americas,Central America,Democracy,2012
+92,El Salvador,Americas,Central America,Democracy,2000
+92,El Salvador,Americas,Central America,Democracy,2001
+92,El Salvador,Americas,Central America,Democracy,2002
+92,El Salvador,Americas,Central America,Democracy,2003
+92,El Salvador,Americas,Central America,Democracy,2004
+92,El Salvador,Americas,Central America,Democracy,2005
+92,El Salvador,Americas,Central America,Democracy,2006
+92,El Salvador,Americas,Central America,Democracy,2007
+92,El Salvador,Americas,Central America,Democracy,2008
+92,El Salvador,Americas,Central America,Democracy,2009
+92,El Salvador,Americas,Central America,Democracy,2010
+92,El Salvador,Americas,Central America,Democracy,2011
+92,El Salvador,Americas,Central America,Democracy,2012
+93,Nicaragua,Americas,Central America,Democracy,2000
+93,Nicaragua,Americas,Central America,Democracy,2001
+93,Nicaragua,Americas,Central America,Democracy,2002
+93,Nicaragua,Americas,Central America,Democracy,2003
+93,Nicaragua,Americas,Central America,Democracy,2004
+93,Nicaragua,Americas,Central America,Democracy,2005
+93,Nicaragua,Americas,Central America,Democracy,2006
+93,Nicaragua,Americas,Central America,Democracy,2007
+93,Nicaragua,Americas,Central America,Democracy,2008
+93,Nicaragua,Americas,Central America,Democracy,2009
+93,Nicaragua,Americas,Central America,Democracy,2010
+93,Nicaragua,Americas,Central America,Democracy,2011
+93,Nicaragua,Americas,Central America,Democracy,2012
+94,Costa Rica,Americas,Central America,Democracy,2000
+94,Costa Rica,Americas,Central America,Democracy,2001
+94,Costa Rica,Americas,Central America,Democracy,2002
+94,Costa Rica,Americas,Central America,Democracy,2003
+94,Costa Rica,Americas,Central America,Democracy,2004
+94,Costa Rica,Americas,Central America,Democracy,2005
+94,Costa Rica,Americas,Central America,Democracy,2006
+94,Costa Rica,Americas,Central America,Democracy,2007
+94,Costa Rica,Americas,Central America,Democracy,2008
+94,Costa Rica,Americas,Central America,Democracy,2009
+94,Costa Rica,Americas,Central America,Democracy,2010
+94,Costa Rica,Americas,Central America,Democracy,2011
+94,Costa Rica,Americas,Central America,Democracy,2012
+95,Panama,Americas,Central America,Democracy,2000
+95,Panama,Americas,Central America,Democracy,2001
+95,Panama,Americas,Central America,Democracy,2002
+95,Panama,Americas,Central America,Democracy,2003
+95,Panama,Americas,Central America,Democracy,2004
+95,Panama,Americas,Central America,Democracy,2005
+95,Panama,Americas,Central America,Democracy,2006
+95,Panama,Americas,Central America,Democracy,2007
+95,Panama,Americas,Central America,Democracy,2008
+95,Panama,Americas,Central America,Democracy,2009
+95,Panama,Americas,Central America,Democracy,2010
+95,Panama,Americas,Central America,Democracy,2011
+95,Panama,Americas,Central America,Democracy,2012
+100,Colombia,Americas,South America,Democracy,2000
+100,Colombia,Americas,South America,Democracy,2001
+100,Colombia,Americas,South America,Democracy,2002
+100,Colombia,Americas,South America,Democracy,2003
+100,Colombia,Americas,South America,Democracy,2004
+100,Colombia,Americas,South America,Democracy,2005
+100,Colombia,Americas,South America,Democracy,2006
+100,Colombia,Americas,South America,Democracy,2007
+100,Colombia,Americas,South America,Democracy,2008
+100,Colombia,Americas,South America,Democracy,2009
+100,Colombia,Americas,South America,Democracy,2010
+100,Colombia,Americas,South America,Democracy,2011
+100,Colombia,Americas,South America,Democracy,2012
+101,Venezuela,Americas,South America,Democracy,2000
+101,Venezuela,Americas,South America,Democracy,2001
+101,Venezuela,Americas,South America,Multiparty,2002
+101,Venezuela,Americas,South America,Multiparty,2003
+101,Venezuela,Americas,South America,Multiparty,2004
+101,Venezuela,Americas,South America,Multiparty,2005
+101,Venezuela,Americas,South America,Multiparty,2006
+101,Venezuela,Americas,South America,Multiparty,2007
+101,Venezuela,Americas,South America,Multiparty,2008
+101,Venezuela,Americas,South America,Multiparty,2009
+101,Venezuela,Americas,South America,Multiparty,2010
+101,Venezuela,Americas,South America,Multiparty,2011
+101,Venezuela,Americas,South America,Multiparty,2012
+110,Guyana,Americas,South America,Democracy,2000
+110,Guyana,Americas,South America,Democracy,2001
+110,Guyana,Americas,South America,Democracy,2002
+110,Guyana,Americas,South America,Democracy,2003
+110,Guyana,Americas,South America,Democracy,2004
+110,Guyana,Americas,South America,Democracy,2005
+110,Guyana,Americas,South America,Democracy,2006
+110,Guyana,Americas,South America,Democracy,2007
+110,Guyana,Americas,South America,Democracy,2008
+110,Guyana,Americas,South America,Democracy,2009
+110,Guyana,Americas,South America,Democracy,2010
+110,Guyana,Americas,South America,Democracy,2011
+110,Guyana,Americas,South America,Democracy,2012
+115,Suriname,Americas,South America,Democracy,2000
+115,Suriname,Americas,South America,Democracy,2001
+115,Suriname,Americas,South America,Democracy,2002
+115,Suriname,Americas,South America,Democracy,2003
+115,Suriname,Americas,South America,Democracy,2004
+115,Suriname,Americas,South America,Democracy,2005
+115,Suriname,Americas,South America,Democracy,2006
+115,Suriname,Americas,South America,Democracy,2007
+115,Suriname,Americas,South America,Democracy,2008
+115,Suriname,Americas,South America,Democracy,2009
+115,Suriname,Americas,South America,Democracy,2010
+115,Suriname,Americas,South America,Democracy,2011
+115,Suriname,Americas,South America,Democracy,2012
+130,Ecuador,Americas,South America,Military,2000
+130,Ecuador,Americas,South America,Military,2001
+130,Ecuador,Americas,South America,Military,2002
+130,Ecuador,Americas,South America,Democracy,2003
+130,Ecuador,Americas,South America,Democracy,2004
+130,Ecuador,Americas,South America,Democracy,2005
+130,Ecuador,Americas,South America,Democracy,2006
+130,Ecuador,Americas,South America,Democracy,2007
+130,Ecuador,Americas,South America,Democracy,2008
+130,Ecuador,Americas,South America,Democracy,2009
+130,Ecuador,Americas,South America,Democracy,2010
+130,Ecuador,Americas,South America,Democracy,2011
+130,Ecuador,Americas,South America,Democracy,2012
+135,Peru,Americas,South America,Multiparty,2000
+135,Peru,Americas,South America,Democracy,2001
+135,Peru,Americas,South America,Democracy,2002
+135,Peru,Americas,South America,Democracy,2003
+135,Peru,Americas,South America,Democracy,2004
+135,Peru,Americas,South America,Democracy,2005
+135,Peru,Americas,South America,Democracy,2006
+135,Peru,Americas,South America,Democracy,2007
+135,Peru,Americas,South America,Democracy,2008
+135,Peru,Americas,South America,Democracy,2009
+135,Peru,Americas,South America,Democracy,2010
+135,Peru,Americas,South America,Democracy,2011
+135,Peru,Americas,South America,Democracy,2012
+140,Brazil,Americas,South America,Democracy,2000
+140,Brazil,Americas,South America,Democracy,2001
+140,Brazil,Americas,South America,Democracy,2002
+140,Brazil,Americas,South America,Democracy,2003
+140,Brazil,Americas,South America,Democracy,2004
+140,Brazil,Americas,South America,Democracy,2005
+140,Brazil,Americas,South America,Democracy,2006
+140,Brazil,Americas,South America,Democracy,2007
+140,Brazil,Americas,South America,Democracy,2008
+140,Brazil,Americas,South America,Democracy,2009
+140,Brazil,Americas,South America,Democracy,2010
+140,Brazil,Americas,South America,Democracy,2011
+140,Brazil,Americas,South America,Democracy,2012
+145,Bolivia,Americas,South America,Democracy,2000
+145,Bolivia,Americas,South America,Democracy,2001
+145,Bolivia,Americas,South America,Democracy,2002
+145,Bolivia,Americas,South America,Democracy,2003
+145,Bolivia,Americas,South America,Democracy,2004
+145,Bolivia,Americas,South America,Democracy,2005
+145,Bolivia,Americas,South America,Democracy,2006
+145,Bolivia,Americas,South America,Democracy,2007
+145,Bolivia,Americas,South America,Democracy,2008
+145,Bolivia,Americas,South America,Democracy,2009
+145,Bolivia,Americas,South America,Democracy,2010
+145,Bolivia,Americas,South America,Democracy,2011
+145,Bolivia,Americas,South America,Democracy,2012
+150,Paraguay,Americas,South America,Democracy,2000
+150,Paraguay,Americas,South America,Democracy,2001
+150,Paraguay,Americas,South America,Democracy,2002
+150,Paraguay,Americas,South America,Democracy,2003
+150,Paraguay,Americas,South America,Democracy,2004
+150,Paraguay,Americas,South America,Democracy,2005
+150,Paraguay,Americas,South America,Democracy,2006
+150,Paraguay,Americas,South America,Democracy,2007
+150,Paraguay,Americas,South America,Democracy,2008
+150,Paraguay,Americas,South America,Democracy,2009
+150,Paraguay,Americas,South America,Democracy,2010
+150,Paraguay,Americas,South America,Democracy,2011
+150,Paraguay,Americas,South America,Democracy,2012
+155,Chile,Americas,South America,Democracy,2000
+155,Chile,Americas,South America,Democracy,2001
+155,Chile,Americas,South America,Democracy,2002
+155,Chile,Americas,South America,Democracy,2003
+155,Chile,Americas,South America,Democracy,2004
+155,Chile,Americas,South America,Democracy,2005
+155,Chile,Americas,South America,Democracy,2006
+155,Chile,Americas,South America,Democracy,2007
+155,Chile,Americas,South America,Democracy,2008
+155,Chile,Americas,South America,Democracy,2009
+155,Chile,Americas,South America,Democracy,2010
+155,Chile,Americas,South America,Democracy,2011
+155,Chile,Americas,South America,Democracy,2012
+160,Argentina,Americas,South America,Democracy,2000
+160,Argentina,Americas,South America,Democracy,2001
+160,Argentina,Americas,South America,Democracy,2002
+160,Argentina,Americas,South America,Democracy,2003
+160,Argentina,Americas,South America,Democracy,2004
+160,Argentina,Americas,South America,Democracy,2005
+160,Argentina,Americas,South America,Democracy,2006
+160,Argentina,Americas,South America,Democracy,2007
+160,Argentina,Americas,South America,Democracy,2008
+160,Argentina,Americas,South America,Democracy,2009
+160,Argentina,Americas,South America,Democracy,2010
+160,Argentina,Americas,South America,Democracy,2011
+160,Argentina,Americas,South America,Democracy,2012
+165,Uruguay,Americas,South America,Democracy,2000
+165,Uruguay,Americas,South America,Democracy,2001
+165,Uruguay,Americas,South America,Democracy,2002
+165,Uruguay,Americas,South America,Democracy,2003
+165,Uruguay,Americas,South America,Democracy,2004
+165,Uruguay,Americas,South America,Democracy,2005
+165,Uruguay,Americas,South America,Democracy,2006
+165,Uruguay,Americas,South America,Democracy,2007
+165,Uruguay,Americas,South America,Democracy,2008
+165,Uruguay,Americas,South America,Democracy,2009
+165,Uruguay,Americas,South America,Democracy,2010
+165,Uruguay,Americas,South America,Democracy,2011
+165,Uruguay,Americas,South America,Democracy,2012
+200,United Kingdom,Europe,Northern Europe,Democracy,2000
+200,United Kingdom,Europe,Northern Europe,Democracy,2001
+200,United Kingdom,Europe,Northern Europe,Democracy,2002
+200,United Kingdom,Europe,Northern Europe,Democracy,2003
+200,United Kingdom,Europe,Northern Europe,Democracy,2004
+200,United Kingdom,Europe,Northern Europe,Democracy,2005
+200,United Kingdom,Europe,Northern Europe,Democracy,2006
+200,United Kingdom,Europe,Northern Europe,Democracy,2007
+200,United Kingdom,Europe,Northern Europe,Democracy,2008
+200,United Kingdom,Europe,Northern Europe,Democracy,2009
+200,United Kingdom,Europe,Northern Europe,Democracy,2010
+200,United Kingdom,Europe,Northern Europe,Democracy,2011
+200,United Kingdom,Europe,Northern Europe,Democracy,2012
+205,Ireland,Europe,Northern Europe,Democracy,2000
+205,Ireland,Europe,Northern Europe,Democracy,2001
+205,Ireland,Europe,Northern Europe,Democracy,2002
+205,Ireland,Europe,Northern Europe,Democracy,2003
+205,Ireland,Europe,Northern Europe,Democracy,2004
+205,Ireland,Europe,Northern Europe,Democracy,2005
+205,Ireland,Europe,Northern Europe,Democracy,2006
+205,Ireland,Europe,Northern Europe,Democracy,2007
+205,Ireland,Europe,Northern Europe,Democracy,2008
+205,Ireland,Europe,Northern Europe,Democracy,2009
+205,Ireland,Europe,Northern Europe,Democracy,2010
+205,Ireland,Europe,Northern Europe,Democracy,2011
+205,Ireland,Europe,Northern Europe,Democracy,2012
+210,Netherlands,Europe,Western Europe,Democracy,2000
+210,Netherlands,Europe,Western Europe,Democracy,2001
+210,Netherlands,Europe,Western Europe,Democracy,2002
+210,Netherlands,Europe,Western Europe,Democracy,2003
+210,Netherlands,Europe,Western Europe,Democracy,2004
+210,Netherlands,Europe,Western Europe,Democracy,2005
+210,Netherlands,Europe,Western Europe,Democracy,2006
+210,Netherlands,Europe,Western Europe,Democracy,2007
+210,Netherlands,Europe,Western Europe,Democracy,2008
+210,Netherlands,Europe,Western Europe,Democracy,2009
+210,Netherlands,Europe,Western Europe,Democracy,2010
+210,Netherlands,Europe,Western Europe,Democracy,2011
+210,Netherlands,Europe,Western Europe,Democracy,2012
+211,Belgium,Europe,Western Europe,Democracy,2000
+211,Belgium,Europe,Western Europe,Democracy,2001
+211,Belgium,Europe,Western Europe,Democracy,2002
+211,Belgium,Europe,Western Europe,Democracy,2003
+211,Belgium,Europe,Western Europe,Democracy,2004
+211,Belgium,Europe,Western Europe,Democracy,2005
+211,Belgium,Europe,Western Europe,Democracy,2006
+211,Belgium,Europe,Western Europe,Democracy,2007
+211,Belgium,Europe,Western Europe,Democracy,2008
+211,Belgium,Europe,Western Europe,Democracy,2009
+211,Belgium,Europe,Western Europe,Democracy,2010
+211,Belgium,Europe,Western Europe,Democracy,2011
+211,Belgium,Europe,Western Europe,Democracy,2012
+212,Luxembourg,Europe,Western Europe,Democracy,2000
+212,Luxembourg,Europe,Western Europe,Democracy,2001
+212,Luxembourg,Europe,Western Europe,Democracy,2002
+212,Luxembourg,Europe,Western Europe,Democracy,2003
+212,Luxembourg,Europe,Western Europe,Democracy,2004
+212,Luxembourg,Europe,Western Europe,Democracy,2005
+212,Luxembourg,Europe,Western Europe,Democracy,2006
+212,Luxembourg,Europe,Western Europe,Democracy,2007
+212,Luxembourg,Europe,Western Europe,Democracy,2008
+212,Luxembourg,Europe,Western Europe,Democracy,2009
+212,Luxembourg,Europe,Western Europe,Democracy,2010
+212,Luxembourg,Europe,Western Europe,Democracy,2011
+212,Luxembourg,Europe,Western Europe,Democracy,2012
+220,France,Europe,Western Europe,Democracy,2000
+220,France,Europe,Western Europe,Democracy,2001
+220,France,Europe,Western Europe,Democracy,2002
+220,France,Europe,Western Europe,Democracy,2003
+220,France,Europe,Western Europe,Democracy,2004
+220,France,Europe,Western Europe,Democracy,2005
+220,France,Europe,Western Europe,Democracy,2006
+220,France,Europe,Western Europe,Democracy,2007
+220,France,Europe,Western Europe,Democracy,2008
+220,France,Europe,Western Europe,Democracy,2009
+220,France,Europe,Western Europe,Democracy,2010
+220,France,Europe,Western Europe,Democracy,2011
+220,France,Europe,Western Europe,Democracy,2012
+225,Switzerland,Europe,Western Europe,Democracy,2000
+225,Switzerland,Europe,Western Europe,Democracy,2001
+225,Switzerland,Europe,Western Europe,Democracy,2002
+225,Switzerland,Europe,Western Europe,Democracy,2003
+225,Switzerland,Europe,Western Europe,Democracy,2004
+225,Switzerland,Europe,Western Europe,Democracy,2005
+225,Switzerland,Europe,Western Europe,Democracy,2006
+225,Switzerland,Europe,Western Europe,Democracy,2007
+225,Switzerland,Europe,Western Europe,Democracy,2008
+225,Switzerland,Europe,Western Europe,Democracy,2009
+225,Switzerland,Europe,Western Europe,Democracy,2010
+225,Switzerland,Europe,Western Europe,Democracy,2011
+225,Switzerland,Europe,Western Europe,Democracy,2012
+230,Spain,Europe,Southern Europe,Democracy,2000
+230,Spain,Europe,Southern Europe,Democracy,2001
+230,Spain,Europe,Southern Europe,Democracy,2002
+230,Spain,Europe,Southern Europe,Democracy,2003
+230,Spain,Europe,Southern Europe,Democracy,2004
+230,Spain,Europe,Southern Europe,Democracy,2005
+230,Spain,Europe,Southern Europe,Democracy,2006
+230,Spain,Europe,Southern Europe,Democracy,2007
+230,Spain,Europe,Southern Europe,Democracy,2008
+230,Spain,Europe,Southern Europe,Democracy,2009
+230,Spain,Europe,Southern Europe,Democracy,2010
+230,Spain,Europe,Southern Europe,Democracy,2011
+230,Spain,Europe,Southern Europe,Democracy,2012
+235,Portugal,Europe,Southern Europe,Democracy,2000
+235,Portugal,Europe,Southern Europe,Democracy,2001
+235,Portugal,Europe,Southern Europe,Democracy,2002
+235,Portugal,Europe,Southern Europe,Democracy,2003
+235,Portugal,Europe,Southern Europe,Democracy,2004
+235,Portugal,Europe,Southern Europe,Democracy,2005
+235,Portugal,Europe,Southern Europe,Democracy,2006
+235,Portugal,Europe,Southern Europe,Democracy,2007
+235,Portugal,Europe,Southern Europe,Democracy,2008
+235,Portugal,Europe,Southern Europe,Democracy,2009
+235,Portugal,Europe,Southern Europe,Democracy,2010
+235,Portugal,Europe,Southern Europe,Democracy,2011
+235,Portugal,Europe,Southern Europe,Democracy,2012
+255,Germany,Europe,Western Europe,Democracy,2000
+255,Germany,Europe,Western Europe,Democracy,2001
+255,Germany,Europe,Western Europe,Democracy,2002
+255,Germany,Europe,Western Europe,Democracy,2003
+255,Germany,Europe,Western Europe,Democracy,2004
+255,Germany,Europe,Western Europe,Democracy,2005
+255,Germany,Europe,Western Europe,Democracy,2006
+255,Germany,Europe,Western Europe,Democracy,2007
+255,Germany,Europe,Western Europe,Democracy,2008
+255,Germany,Europe,Western Europe,Democracy,2009
+255,Germany,Europe,Western Europe,Democracy,2010
+255,Germany,Europe,Western Europe,Democracy,2011
+255,Germany,Europe,Western Europe,Democracy,2012
+290,Poland,Europe,Eastern Europe,Democracy,2000
+290,Poland,Europe,Eastern Europe,Democracy,2001
+290,Poland,Europe,Eastern Europe,Democracy,2002
+290,Poland,Europe,Eastern Europe,Democracy,2003
+290,Poland,Europe,Eastern Europe,Democracy,2004
+290,Poland,Europe,Eastern Europe,Democracy,2005
+290,Poland,Europe,Eastern Europe,Democracy,2006
+290,Poland,Europe,Eastern Europe,Democracy,2007
+290,Poland,Europe,Eastern Europe,Democracy,2008
+290,Poland,Europe,Eastern Europe,Democracy,2009
+290,Poland,Europe,Eastern Europe,Democracy,2010
+290,Poland,Europe,Eastern Europe,Democracy,2011
+290,Poland,Europe,Eastern Europe,Democracy,2012
+305,Austria,Europe,Western Europe,Democracy,2000
+305,Austria,Europe,Western Europe,Democracy,2001
+305,Austria,Europe,Western Europe,Democracy,2002
+305,Austria,Europe,Western Europe,Democracy,2003
+305,Austria,Europe,Western Europe,Democracy,2004
+305,Austria,Europe,Western Europe,Democracy,2005
+305,Austria,Europe,Western Europe,Democracy,2006
+305,Austria,Europe,Western Europe,Democracy,2007
+305,Austria,Europe,Western Europe,Democracy,2008
+305,Austria,Europe,Western Europe,Democracy,2009
+305,Austria,Europe,Western Europe,Democracy,2010
+305,Austria,Europe,Western Europe,Democracy,2011
+305,Austria,Europe,Western Europe,Democracy,2012
+310,Hungary,Europe,Eastern Europe,Democracy,2000
+310,Hungary,Europe,Eastern Europe,Democracy,2001
+310,Hungary,Europe,Eastern Europe,Democracy,2002
+310,Hungary,Europe,Eastern Europe,Democracy,2003
+310,Hungary,Europe,Eastern Europe,Democracy,2004
+310,Hungary,Europe,Eastern Europe,Democracy,2005
+310,Hungary,Europe,Eastern Europe,Democracy,2006
+310,Hungary,Europe,Eastern Europe,Democracy,2007
+310,Hungary,Europe,Eastern Europe,Democracy,2008
+310,Hungary,Europe,Eastern Europe,Democracy,2009
+310,Hungary,Europe,Eastern Europe,Democracy,2010
+310,Hungary,Europe,Eastern Europe,Democracy,2011
+310,Hungary,Europe,Eastern Europe,Democracy,2012
+316,Czech Republic,Europe,Eastern Europe,Democracy,2000
+316,Czech Republic,Europe,Eastern Europe,Democracy,2001
+316,Czech Republic,Europe,Eastern Europe,Democracy,2002
+316,Czech Republic,Europe,Eastern Europe,Democracy,2003
+316,Czech Republic,Europe,Eastern Europe,Democracy,2004
+316,Czech Republic,Europe,Eastern Europe,Democracy,2005
+316,Czech Republic,Europe,Eastern Europe,Democracy,2006
+316,Czech Republic,Europe,Eastern Europe,Democracy,2007
+316,Czech Republic,Europe,Eastern Europe,Democracy,2008
+316,Czech Republic,Europe,Eastern Europe,Democracy,2009
+316,Czech Republic,Europe,Eastern Europe,Democracy,2010
+316,Czech Republic,Europe,Eastern Europe,Democracy,2011
+316,Czech Republic,Europe,Eastern Europe,Democracy,2012
+317,Slovak Republic,Europe,Eastern Europe,Democracy,2000
+317,Slovak Republic,Europe,Eastern Europe,Democracy,2001
+317,Slovak Republic,Europe,Eastern Europe,Democracy,2002
+317,Slovak Republic,Europe,Eastern Europe,Democracy,2003
+317,Slovak Republic,Europe,Eastern Europe,Democracy,2004
+317,Slovak Republic,Europe,Eastern Europe,Democracy,2005
+317,Slovak Republic,Europe,Eastern Europe,Democracy,2006
+317,Slovak Republic,Europe,Eastern Europe,Democracy,2007
+317,Slovak Republic,Europe,Eastern Europe,Democracy,2008
+317,Slovak Republic,Europe,Eastern Europe,Democracy,2009
+317,Slovak Republic,Europe,Eastern Europe,Democracy,2010
+317,Slovak Republic,Europe,Eastern Europe,Democracy,2011
+317,Slovak Republic,Europe,Eastern Europe,Democracy,2012
+325,Italy,Europe,Southern Europe,Democracy,2000
+325,Italy,Europe,Southern Europe,Democracy,2001
+325,Italy,Europe,Southern Europe,Democracy,2002
+325,Italy,Europe,Southern Europe,Democracy,2003
+325,Italy,Europe,Southern Europe,Democracy,2004
+325,Italy,Europe,Southern Europe,Democracy,2005
+325,Italy,Europe,Southern Europe,Democracy,2006
+325,Italy,Europe,Southern Europe,Democracy,2007
+325,Italy,Europe,Southern Europe,Democracy,2008
+325,Italy,Europe,Southern Europe,Democracy,2009
+325,Italy,Europe,Southern Europe,Democracy,2010
+325,Italy,Europe,Southern Europe,Democracy,2011
+325,Italy,Europe,Southern Europe,Democracy,2012
+339,Albania,Europe,Southern Europe,Democracy,2000
+339,Albania,Europe,Southern Europe,Democracy,2001
+339,Albania,Europe,Southern Europe,Democracy,2002
+339,Albania,Europe,Southern Europe,Democracy,2003
+339,Albania,Europe,Southern Europe,Democracy,2004
+339,Albania,Europe,Southern Europe,Democracy,2005
+339,Albania,Europe,Southern Europe,Democracy,2006
+339,Albania,Europe,Southern Europe,Democracy,2007
+339,Albania,Europe,Southern Europe,Democracy,2008
+339,Albania,Europe,Southern Europe,Democracy,2009
+339,Albania,Europe,Southern Europe,Democracy,2010
+339,Albania,Europe,Southern Europe,Democracy,2011
+339,Albania,Europe,Southern Europe,Democracy,2012
+341,Kosovo,Europe,Southern Europe,Democracy,2008
+341,Kosovo,Europe,Southern Europe,Democracy,2009
+341,Kosovo,Europe,Southern Europe,Democracy,2010
+341,Kosovo,Europe,Southern Europe,Democracy,2011
+341,Kosovo,Europe,Southern Europe,Democracy,2012
+342,Serbia,Europe,Southern Europe,Democracy,2006
+342,Serbia,Europe,Southern Europe,Democracy,2007
+342,Serbia,Europe,Southern Europe,Democracy,2008
+342,Serbia,Europe,Southern Europe,Democracy,2009
+342,Serbia,Europe,Southern Europe,Democracy,2010
+342,Serbia,Europe,Southern Europe,Democracy,2011
+342,Serbia,Europe,Southern Europe,Democracy,2012
+343,Macedonia,Europe,Southern Europe,Democracy,2000
+343,Macedonia,Europe,Southern Europe,Democracy,2001
+343,Macedonia,Europe,Southern Europe,Democracy,2002
+343,Macedonia,Europe,Southern Europe,Democracy,2003
+343,Macedonia,Europe,Southern Europe,Democracy,2004
+343,Macedonia,Europe,Southern Europe,Democracy,2005
+343,Macedonia,Europe,Southern Europe,Democracy,2006
+343,Macedonia,Europe,Southern Europe,Democracy,2007
+343,Macedonia,Europe,Southern Europe,Democracy,2008
+343,Macedonia,Europe,Southern Europe,Democracy,2009
+343,Macedonia,Europe,Southern Europe,Democracy,2010
+343,Macedonia,Europe,Southern Europe,Democracy,2011
+343,Macedonia,Europe,Southern Europe,Democracy,2012
+344,Croatia,Europe,Southern Europe,Democracy,2000
+344,Croatia,Europe,Southern Europe,Democracy,2001
+344,Croatia,Europe,Southern Europe,Democracy,2002
+344,Croatia,Europe,Southern Europe,Democracy,2003
+344,Croatia,Europe,Southern Europe,Democracy,2004
+344,Croatia,Europe,Southern Europe,Democracy,2005
+344,Croatia,Europe,Southern Europe,Democracy,2006
+344,Croatia,Europe,Southern Europe,Democracy,2007
+344,Croatia,Europe,Southern Europe,Democracy,2008
+344,Croatia,Europe,Southern Europe,Democracy,2009
+344,Croatia,Europe,Southern Europe,Democracy,2010
+344,Croatia,Europe,Southern Europe,Democracy,2011
+344,Croatia,Europe,Southern Europe,Democracy,2012
+346,Bosnia,Europe,Southern Europe,Multiparty,2000
+346,Bosnia,Europe,Southern Europe,Multiparty,2001
+346,Bosnia,Europe,Southern Europe,Multiparty,2002
+346,Bosnia,Europe,Southern Europe,Multiparty,2003
+346,Bosnia,Europe,Southern Europe,Multiparty,2004
+346,Bosnia,Europe,Southern Europe,Multiparty,2005
+346,Bosnia,Europe,Southern Europe,Multiparty,2006
+346,Bosnia,Europe,Southern Europe,Multiparty,2007
+346,Bosnia,Europe,Southern Europe,Multiparty,2008
+346,Bosnia,Europe,Southern Europe,Multiparty,2009
+346,Bosnia,Europe,Southern Europe,Multiparty,2010
+346,Bosnia,Europe,Southern Europe,Multiparty,2011
+346,Bosnia,Europe,Southern Europe,Multiparty,2012
+347,Serbia and Montenegro,Europe,Southern Europe,Multiparty,2000
+347,Serbia and Montenegro,Europe,Southern Europe,Democracy,2001
+347,Serbia and Montenegro,Europe,Southern Europe,Democracy,2002
+347,Serbia and Montenegro,Europe,Southern Europe,Democracy,2003
+347,Serbia and Montenegro,Europe,Southern Europe,Democracy,2004
+347,Serbia and Montenegro,Europe,Southern Europe,Democracy,2005
+348,Montenegro,Europe,Eastern Europe,Democracy,2006
+348,Montenegro,Europe,Eastern Europe,Democracy,2007
+348,Montenegro,Europe,Eastern Europe,Democracy,2008
+348,Montenegro,Europe,Eastern Europe,Democracy,2009
+348,Montenegro,Europe,Eastern Europe,Democracy,2010
+348,Montenegro,Europe,Eastern Europe,Democracy,2011
+348,Montenegro,Europe,Eastern Europe,Democracy,2012
+349,Slovenia,Europe,Southern Europe,Democracy,2000
+349,Slovenia,Europe,Southern Europe,Democracy,2001
+349,Slovenia,Europe,Southern Europe,Democracy,2002
+349,Slovenia,Europe,Southern Europe,Democracy,2003
+349,Slovenia,Europe,Southern Europe,Democracy,2004
+349,Slovenia,Europe,Southern Europe,Democracy,2005
+349,Slovenia,Europe,Southern Europe,Democracy,2006
+349,Slovenia,Europe,Southern Europe,Democracy,2007
+349,Slovenia,Europe,Southern Europe,Democracy,2008
+349,Slovenia,Europe,Southern Europe,Democracy,2009
+349,Slovenia,Europe,Southern Europe,Democracy,2010
+349,Slovenia,Europe,Southern Europe,Democracy,2011
+349,Slovenia,Europe,Southern Europe,Democracy,2012
+350,Greece,Europe,Southern Europe,Democracy,2000
+350,Greece,Europe,Southern Europe,Democracy,2001
+350,Greece,Europe,Southern Europe,Democracy,2002
+350,Greece,Europe,Southern Europe,Democracy,2003
+350,Greece,Europe,Southern Europe,Democracy,2004
+350,Greece,Europe,Southern Europe,Democracy,2005
+350,Greece,Europe,Southern Europe,Democracy,2006
+350,Greece,Europe,Southern Europe,Democracy,2007
+350,Greece,Europe,Southern Europe,Democracy,2008
+350,Greece,Europe,Southern Europe,Democracy,2009
+350,Greece,Europe,Southern Europe,Democracy,2010
+350,Greece,Europe,Southern Europe,Democracy,2011
+350,Greece,Europe,Southern Europe,Democracy,2012
+352,Cyprus,Asia,Western Asia,Democracy,2000
+352,Cyprus,Asia,Western Asia,Democracy,2001
+352,Cyprus,Asia,Western Asia,Democracy,2002
+352,Cyprus,Asia,Western Asia,Democracy,2003
+352,Cyprus,Asia,Western Asia,Democracy,2004
+352,Cyprus,Asia,Western Asia,Democracy,2005
+352,Cyprus,Asia,Western Asia,Democracy,2006
+352,Cyprus,Asia,Western Asia,Democracy,2007
+352,Cyprus,Asia,Western Asia,Democracy,2008
+352,Cyprus,Asia,Western Asia,Democracy,2009
+352,Cyprus,Asia,Western Asia,Democracy,2010
+352,Cyprus,Asia,Western Asia,Democracy,2011
+352,Cyprus,Asia,Western Asia,Democracy,2012
+355,Bulgaria,Europe,Eastern Europe,Democracy,2000
+355,Bulgaria,Europe,Eastern Europe,Democracy,2001
+355,Bulgaria,Europe,Eastern Europe,Democracy,2002
+355,Bulgaria,Europe,Eastern Europe,Democracy,2003
+355,Bulgaria,Europe,Eastern Europe,Democracy,2004
+355,Bulgaria,Europe,Eastern Europe,Democracy,2005
+355,Bulgaria,Europe,Eastern Europe,Democracy,2006
+355,Bulgaria,Europe,Eastern Europe,Democracy,2007
+355,Bulgaria,Europe,Eastern Europe,Democracy,2008
+355,Bulgaria,Europe,Eastern Europe,Democracy,2009
+355,Bulgaria,Europe,Eastern Europe,Democracy,2010
+355,Bulgaria,Europe,Eastern Europe,Democracy,2011
+355,Bulgaria,Europe,Eastern Europe,Democracy,2012
+359,Moldova,Europe,Eastern Europe,Democracy,2000
+359,Moldova,Europe,Eastern Europe,Democracy,2001
+359,Moldova,Europe,Eastern Europe,Democracy,2002
+359,Moldova,Europe,Eastern Europe,Democracy,2003
+359,Moldova,Europe,Eastern Europe,Democracy,2004
+359,Moldova,Europe,Eastern Europe,Democracy,2005
+359,Moldova,Europe,Eastern Europe,Democracy,2006
+359,Moldova,Europe,Eastern Europe,Democracy,2007
+359,Moldova,Europe,Eastern Europe,Democracy,2008
+359,Moldova,Europe,Eastern Europe,Democracy,2009
+359,Moldova,Europe,Eastern Europe,Democracy,2010
+359,Moldova,Europe,Eastern Europe,Democracy,2011
+359,Moldova,Europe,Eastern Europe,Democracy,2012
+360,Romania,Europe,Eastern Europe,Democracy,2000
+360,Romania,Europe,Eastern Europe,Democracy,2001
+360,Romania,Europe,Eastern Europe,Democracy,2002
+360,Romania,Europe,Eastern Europe,Democracy,2003
+360,Romania,Europe,Eastern Europe,Democracy,2004
+360,Romania,Europe,Eastern Europe,Democracy,2005
+360,Romania,Europe,Eastern Europe,Democracy,2006
+360,Romania,Europe,Eastern Europe,Democracy,2007
+360,Romania,Europe,Eastern Europe,Democracy,2008
+360,Romania,Europe,Eastern Europe,Democracy,2009
+360,Romania,Europe,Eastern Europe,Democracy,2010
+360,Romania,Europe,Eastern Europe,Democracy,2011
+360,Romania,Europe,Eastern Europe,Democracy,2012
+365,Russia,Europe,Eastern Europe,Multiparty,2000
+365,Russia,Europe,Eastern Europe,Multiparty,2001
+365,Russia,Europe,Eastern Europe,Multiparty,2002
+365,Russia,Europe,Eastern Europe,Multiparty,2003
+365,Russia,Europe,Eastern Europe,Multiparty,2004
+365,Russia,Europe,Eastern Europe,Multiparty,2005
+365,Russia,Europe,Eastern Europe,Multiparty,2006
+365,Russia,Europe,Eastern Europe,Multiparty,2007
+365,Russia,Europe,Eastern Europe,Multiparty,2008
+365,Russia,Europe,Eastern Europe,Multiparty,2009
+365,Russia,Europe,Eastern Europe,Multiparty,2010
+365,Russia,Europe,Eastern Europe,Multiparty,2011
+365,Russia,Europe,Eastern Europe,Multiparty,2012
+366,Estonia,Europe,Northern Europe,Democracy,2000
+366,Estonia,Europe,Northern Europe,Democracy,2001
+366,Estonia,Europe,Northern Europe,Democracy,2002
+366,Estonia,Europe,Northern Europe,Democracy,2003
+366,Estonia,Europe,Northern Europe,Democracy,2004
+366,Estonia,Europe,Northern Europe,Democracy,2005
+366,Estonia,Europe,Northern Europe,Democracy,2006
+366,Estonia,Europe,Northern Europe,Democracy,2007
+366,Estonia,Europe,Northern Europe,Democracy,2008
+366,Estonia,Europe,Northern Europe,Democracy,2009
+366,Estonia,Europe,Northern Europe,Democracy,2010
+366,Estonia,Europe,Northern Europe,Democracy,2011
+366,Estonia,Europe,Northern Europe,Democracy,2012
+367,Latvia,Europe,Northern Europe,Democracy,2000
+367,Latvia,Europe,Northern Europe,Democracy,2001
+367,Latvia,Europe,Northern Europe,Democracy,2002
+367,Latvia,Europe,Northern Europe,Democracy,2003
+367,Latvia,Europe,Northern Europe,Democracy,2004
+367,Latvia,Europe,Northern Europe,Democracy,2005
+367,Latvia,Europe,Northern Europe,Democracy,2006
+367,Latvia,Europe,Northern Europe,Democracy,2007
+367,Latvia,Europe,Northern Europe,Democracy,2008
+367,Latvia,Europe,Northern Europe,Democracy,2009
+367,Latvia,Europe,Northern Europe,Democracy,2010
+367,Latvia,Europe,Northern Europe,Democracy,2011
+367,Latvia,Europe,Northern Europe,Democracy,2012
+368,Lithuania,Europe,Northern Europe,Democracy,2000
+368,Lithuania,Europe,Northern Europe,Democracy,2001
+368,Lithuania,Europe,Northern Europe,Democracy,2002
+368,Lithuania,Europe,Northern Europe,Democracy,2003
+368,Lithuania,Europe,Northern Europe,Democracy,2004
+368,Lithuania,Europe,Northern Europe,Democracy,2005
+368,Lithuania,Europe,Northern Europe,Democracy,2006
+368,Lithuania,Europe,Northern Europe,Democracy,2007
+368,Lithuania,Europe,Northern Europe,Democracy,2008
+368,Lithuania,Europe,Northern Europe,Democracy,2009
+368,Lithuania,Europe,Northern Europe,Democracy,2010
+368,Lithuania,Europe,Northern Europe,Democracy,2011
+368,Lithuania,Europe,Northern Europe,Democracy,2012
+369,Ukraine,Europe,Eastern Europe,Democracy,2000
+369,Ukraine,Europe,Eastern Europe,Democracy,2001
+369,Ukraine,Europe,Eastern Europe,Democracy,2002
+369,Ukraine,Europe,Eastern Europe,Democracy,2003
+369,Ukraine,Europe,Eastern Europe,Democracy,2004
+369,Ukraine,Europe,Eastern Europe,Democracy,2005
+369,Ukraine,Europe,Eastern Europe,Democracy,2006
+369,Ukraine,Europe,Eastern Europe,Democracy,2007
+369,Ukraine,Europe,Eastern Europe,Democracy,2008
+369,Ukraine,Europe,Eastern Europe,Democracy,2009
+369,Ukraine,Europe,Eastern Europe,Democracy,2010
+369,Ukraine,Europe,Eastern Europe,Democracy,2011
+369,Ukraine,Europe,Eastern Europe,Democracy,2012
+370,Belarus,Europe,Eastern Europe,Multiparty,2000
+370,Belarus,Europe,Eastern Europe,Multiparty,2001
+370,Belarus,Europe,Eastern Europe,Multiparty,2002
+370,Belarus,Europe,Eastern Europe,Multiparty,2003
+370,Belarus,Europe,Eastern Europe,Multiparty,2004
+370,Belarus,Europe,Eastern Europe,Multiparty,2005
+370,Belarus,Europe,Eastern Europe,Multiparty,2006
+370,Belarus,Europe,Eastern Europe,Multiparty,2007
+370,Belarus,Europe,Eastern Europe,Multiparty,2008
+370,Belarus,Europe,Eastern Europe,Multiparty,2009
+370,Belarus,Europe,Eastern Europe,Multiparty,2010
+370,Belarus,Europe,Eastern Europe,Multiparty,2011
+370,Belarus,Europe,Eastern Europe,Multiparty,2012
+371,Armenia,Asia,Western Asia,Multiparty,2000
+371,Armenia,Asia,Western Asia,Multiparty,2001
+371,Armenia,Asia,Western Asia,Multiparty,2002
+371,Armenia,Asia,Western Asia,Multiparty,2003
+371,Armenia,Asia,Western Asia,Multiparty,2004
+371,Armenia,Asia,Western Asia,Multiparty,2005
+371,Armenia,Asia,Western Asia,Multiparty,2006
+371,Armenia,Asia,Western Asia,Multiparty,2007
+371,Armenia,Asia,Western Asia,Multiparty,2008
+371,Armenia,Asia,Western Asia,Multiparty,2009
+371,Armenia,Asia,Western Asia,Multiparty,2010
+371,Armenia,Asia,Western Asia,Multiparty,2011
+371,Armenia,Asia,Western Asia,Multiparty,2012
+372,Georgia,Asia,Western Asia,Multiparty,2000
+372,Georgia,Asia,Western Asia,Multiparty,2001
+372,Georgia,Asia,Western Asia,Multiparty,2002
+372,Georgia,Asia,Western Asia,Multiparty,2003
+372,Georgia,Asia,Western Asia,Democracy,2004
+372,Georgia,Asia,Western Asia,Democracy,2005
+372,Georgia,Asia,Western Asia,Democracy,2006
+372,Georgia,Asia,Western Asia,Democracy,2007
+372,Georgia,Asia,Western Asia,Democracy,2008
+372,Georgia,Asia,Western Asia,Democracy,2009
+372,Georgia,Asia,Western Asia,Democracy,2010
+372,Georgia,Asia,Western Asia,Democracy,2011
+372,Georgia,Asia,Western Asia,Democracy,2012
+373,Azerbaijan,Asia,Western Asia,Multiparty,2000
+373,Azerbaijan,Asia,Western Asia,Multiparty,2001
+373,Azerbaijan,Asia,Western Asia,Multiparty,2002
+373,Azerbaijan,Asia,Western Asia,Multiparty,2003
+373,Azerbaijan,Asia,Western Asia,Multiparty,2004
+373,Azerbaijan,Asia,Western Asia,Multiparty,2005
+373,Azerbaijan,Asia,Western Asia,Multiparty,2006
+373,Azerbaijan,Asia,Western Asia,Multiparty,2007
+373,Azerbaijan,Asia,Western Asia,Multiparty,2008
+373,Azerbaijan,Asia,Western Asia,Multiparty,2009
+373,Azerbaijan,Asia,Western Asia,Multiparty,2010
+373,Azerbaijan,Asia,Western Asia,Multiparty,2011
+373,Azerbaijan,Asia,Western Asia,Multiparty,2012
+375,Finland,Europe,Northern Europe,Democracy,2000
+375,Finland,Europe,Northern Europe,Democracy,2001
+375,Finland,Europe,Northern Europe,Democracy,2002
+375,Finland,Europe,Northern Europe,Democracy,2003
+375,Finland,Europe,Northern Europe,Democracy,2004
+375,Finland,Europe,Northern Europe,Democracy,2005
+375,Finland,Europe,Northern Europe,Democracy,2006
+375,Finland,Europe,Northern Europe,Democracy,2007
+375,Finland,Europe,Northern Europe,Democracy,2008
+375,Finland,Europe,Northern Europe,Democracy,2009
+375,Finland,Europe,Northern Europe,Democracy,2010
+375,Finland,Europe,Northern Europe,Democracy,2011
+375,Finland,Europe,Northern Europe,Democracy,2012
+380,Sweden,Europe,Northern Europe,Democracy,2000
+380,Sweden,Europe,Northern Europe,Democracy,2001
+380,Sweden,Europe,Northern Europe,Democracy,2002
+380,Sweden,Europe,Northern Europe,Democracy,2003
+380,Sweden,Europe,Northern Europe,Democracy,2004
+380,Sweden,Europe,Northern Europe,Democracy,2005
+380,Sweden,Europe,Northern Europe,Democracy,2006
+380,Sweden,Europe,Northern Europe,Democracy,2007
+380,Sweden,Europe,Northern Europe,Democracy,2008
+380,Sweden,Europe,Northern Europe,Democracy,2009
+380,Sweden,Europe,Northern Europe,Democracy,2010
+380,Sweden,Europe,Northern Europe,Democracy,2011
+380,Sweden,Europe,Northern Europe,Democracy,2012
+385,Norway,Europe,Northern Europe,Democracy,2000
+385,Norway,Europe,Northern Europe,Democracy,2001
+385,Norway,Europe,Northern Europe,Democracy,2002
+385,Norway,Europe,Northern Europe,Democracy,2003
+385,Norway,Europe,Northern Europe,Democracy,2004
+385,Norway,Europe,Northern Europe,Democracy,2005
+385,Norway,Europe,Northern Europe,Democracy,2006
+385,Norway,Europe,Northern Europe,Democracy,2007
+385,Norway,Europe,Northern Europe,Democracy,2008
+385,Norway,Europe,Northern Europe,Democracy,2009
+385,Norway,Europe,Northern Europe,Democracy,2010
+385,Norway,Europe,Northern Europe,Democracy,2011
+385,Norway,Europe,Northern Europe,Democracy,2012
+390,Denmark,Europe,Northern Europe,Democracy,2000
+390,Denmark,Europe,Northern Europe,Democracy,2001
+390,Denmark,Europe,Northern Europe,Democracy,2002
+390,Denmark,Europe,Northern Europe,Democracy,2003
+390,Denmark,Europe,Northern Europe,Democracy,2004
+390,Denmark,Europe,Northern Europe,Democracy,2005
+390,Denmark,Europe,Northern Europe,Democracy,2006
+390,Denmark,Europe,Northern Europe,Democracy,2007
+390,Denmark,Europe,Northern Europe,Democracy,2008
+390,Denmark,Europe,Northern Europe,Democracy,2009
+390,Denmark,Europe,Northern Europe,Democracy,2010
+390,Denmark,Europe,Northern Europe,Democracy,2011
+390,Denmark,Europe,Northern Europe,Democracy,2012
+402,Cape Verde,Africa,Western Africa,Democracy,2000
+402,Cape Verde,Africa,Western Africa,Democracy,2001
+402,Cape Verde,Africa,Western Africa,Democracy,2002
+402,Cape Verde,Africa,Western Africa,Democracy,2003
+402,Cape Verde,Africa,Western Africa,Democracy,2004
+402,Cape Verde,Africa,Western Africa,Democracy,2005
+402,Cape Verde,Africa,Western Africa,Democracy,2006
+402,Cape Verde,Africa,Western Africa,Democracy,2007
+402,Cape Verde,Africa,Western Africa,Democracy,2008
+402,Cape Verde,Africa,Western Africa,Democracy,2009
+402,Cape Verde,Africa,Western Africa,Democracy,2010
+402,Cape Verde,Africa,Western Africa,Democracy,2011
+402,Cape Verde,Africa,Western Africa,Democracy,2012
+404,Guinea-Bissau,Africa,Western Africa,Democracy,2000
+404,Guinea-Bissau,Africa,Western Africa,Democracy,2001
+404,Guinea-Bissau,Africa,Western Africa,Democracy,2002
+404,Guinea-Bissau,Africa,Western Africa,Democracy,2003
+404,Guinea-Bissau,Africa,Western Africa,Democracy,2004
+404,Guinea-Bissau,Africa,Western Africa,Democracy,2005
+404,Guinea-Bissau,Africa,Western Africa,Democracy,2006
+404,Guinea-Bissau,Africa,Western Africa,Democracy,2007
+404,Guinea-Bissau,Africa,Western Africa,Democracy,2008
+404,Guinea-Bissau,Africa,Western Africa,Democracy,2009
+404,Guinea-Bissau,Africa,Western Africa,Democracy,2010
+404,Guinea-Bissau,Africa,Western Africa,Democracy,2011
+404,Guinea-Bissau,Africa,Western Africa,Military,2012
+411,Equatorial Guinea,Africa,Middle Africa,Multiparty,2000
+411,Equatorial Guinea,Africa,Middle Africa,Multiparty,2001
+411,Equatorial Guinea,Africa,Middle Africa,Multiparty,2002
+411,Equatorial Guinea,Africa,Middle Africa,Multiparty,2003
+411,Equatorial Guinea,Africa,Middle Africa,Multiparty,2004
+411,Equatorial Guinea,Africa,Middle Africa,Multiparty,2005
+411,Equatorial Guinea,Africa,Middle Africa,Multiparty,2006
+411,Equatorial Guinea,Africa,Middle Africa,Multiparty,2007
+411,Equatorial Guinea,Africa,Middle Africa,Multiparty,2008
+411,Equatorial Guinea,Africa,Middle Africa,Multiparty,2009
+411,Equatorial Guinea,Africa,Middle Africa,Multiparty,2010
+411,Equatorial Guinea,Africa,Middle Africa,Multiparty,2011
+411,Equatorial Guinea,Africa,Middle Africa,Multiparty,2012
+420,Gambia,Africa,Western Africa,Multiparty,2000
+420,Gambia,Africa,Western Africa,Multiparty,2001
+420,Gambia,Africa,Western Africa,Multiparty,2002
+420,Gambia,Africa,Western Africa,Multiparty,2003
+420,Gambia,Africa,Western Africa,Multiparty,2004
+420,Gambia,Africa,Western Africa,Multiparty,2005
+420,Gambia,Africa,Western Africa,Multiparty,2006
+420,Gambia,Africa,Western Africa,Multiparty,2007
+420,Gambia,Africa,Western Africa,Multiparty,2008
+420,Gambia,Africa,Western Africa,Multiparty,2009
+420,Gambia,Africa,Western Africa,Multiparty,2010
+420,Gambia,Africa,Western Africa,Multiparty,2011
+420,Gambia,Africa,Western Africa,Multiparty,2012
+432,Mali,Africa,Western Africa,Democracy,2000
+432,Mali,Africa,Western Africa,Democracy,2001
+432,Mali,Africa,Western Africa,Democracy,2002
+432,Mali,Africa,Western Africa,Democracy,2003
+432,Mali,Africa,Western Africa,Democracy,2004
+432,Mali,Africa,Western Africa,Democracy,2005
+432,Mali,Africa,Western Africa,Democracy,2006
+432,Mali,Africa,Western Africa,Democracy,2007
+432,Mali,Africa,Western Africa,Democracy,2008
+432,Mali,Africa,Western Africa,Democracy,2009
+432,Mali,Africa,Western Africa,Democracy,2010
+432,Mali,Africa,Western Africa,Democracy,2011
+432,Mali,Africa,Western Africa,Military,2012
+433,Senegal,Africa,Western Africa,Democracy,2000
+433,Senegal,Africa,Western Africa,Democracy,2001
+433,Senegal,Africa,Western Africa,Democracy,2002
+433,Senegal,Africa,Western Africa,Democracy,2003
+433,Senegal,Africa,Western Africa,Democracy,2004
+433,Senegal,Africa,Western Africa,Democracy,2005
+433,Senegal,Africa,Western Africa,Democracy,2006
+433,Senegal,Africa,Western Africa,Democracy,2007
+433,Senegal,Africa,Western Africa,Democracy,2008
+433,Senegal,Africa,Western Africa,Democracy,2009
+433,Senegal,Africa,Western Africa,Democracy,2010
+433,Senegal,Africa,Western Africa,Democracy,2011
+433,Senegal,Africa,Western Africa,Democracy,2012
+434,Benin,Africa,Western Africa,Democracy,2000
+434,Benin,Africa,Western Africa,Democracy,2001
+434,Benin,Africa,Western Africa,Democracy,2002
+434,Benin,Africa,Western Africa,Democracy,2003
+434,Benin,Africa,Western Africa,Democracy,2004
+434,Benin,Africa,Western Africa,Democracy,2005
+434,Benin,Africa,Western Africa,Democracy,2006
+434,Benin,Africa,Western Africa,Democracy,2007
+434,Benin,Africa,Western Africa,Democracy,2008
+434,Benin,Africa,Western Africa,Democracy,2009
+434,Benin,Africa,Western Africa,Democracy,2010
+434,Benin,Africa,Western Africa,Democracy,2011
+434,Benin,Africa,Western Africa,Democracy,2012
+435,Mauritania,Africa,Western Africa,Military,2000
+435,Mauritania,Africa,Western Africa,Military,2001
+435,Mauritania,Africa,Western Africa,Military,2002
+435,Mauritania,Africa,Western Africa,Military,2003
+435,Mauritania,Africa,Western Africa,Military,2004
+435,Mauritania,Africa,Western Africa,Military,2005
+435,Mauritania,Africa,Western Africa,Military,2006
+435,Mauritania,Africa,Western Africa,Multiparty,2007
+435,Mauritania,Africa,Western Africa,Multiparty,2008
+435,Mauritania,Africa,Western Africa,Military,2009
+435,Mauritania,Africa,Western Africa,Military,2010
+435,Mauritania,Africa,Western Africa,Military,2011
+435,Mauritania,Africa,Western Africa,Military,2012
+436,Niger,Africa,Western Africa,Democracy,2000
+436,Niger,Africa,Western Africa,Democracy,2001
+436,Niger,Africa,Western Africa,Democracy,2002
+436,Niger,Africa,Western Africa,Democracy,2003
+436,Niger,Africa,Western Africa,Democracy,2004
+436,Niger,Africa,Western Africa,Democracy,2005
+436,Niger,Africa,Western Africa,Democracy,2006
+436,Niger,Africa,Western Africa,Democracy,2007
+436,Niger,Africa,Western Africa,Democracy,2008
+436,Niger,Africa,Western Africa,Multiparty,2009
+436,Niger,Africa,Western Africa,Military,2010
+436,Niger,Africa,Western Africa,Democracy,2011
+436,Niger,Africa,Western Africa,Democracy,2012
+437,Ivory Coast,Africa,Western Africa,Military,2000
+437,Ivory Coast,Africa,Western Africa,Multiparty,2001
+437,Ivory Coast,Africa,Western Africa,Multiparty,2002
+437,Ivory Coast,Africa,Western Africa,Multiparty,2003
+437,Ivory Coast,Africa,Western Africa,Multiparty,2004
+437,Ivory Coast,Africa,Western Africa,Multiparty,2005
+437,Ivory Coast,Africa,Western Africa,Multiparty,2006
+437,Ivory Coast,Africa,Western Africa,Multiparty,2007
+437,Ivory Coast,Africa,Western Africa,Multiparty,2008
+437,Ivory Coast,Africa,Western Africa,Multiparty,2009
+437,Ivory Coast,Africa,Western Africa,Multiparty,2010
+437,Ivory Coast,Africa,Western Africa,Multiparty,2011
+437,Ivory Coast,Africa,Western Africa,Multiparty,2012
+438,Guinea,Africa,Western Africa,Multiparty,2000
+438,Guinea,Africa,Western Africa,Multiparty,2001
+438,Guinea,Africa,Western Africa,Multiparty,2002
+438,Guinea,Africa,Western Africa,Multiparty,2003
+438,Guinea,Africa,Western Africa,Multiparty,2004
+438,Guinea,Africa,Western Africa,Multiparty,2005
+438,Guinea,Africa,Western Africa,Multiparty,2006
+438,Guinea,Africa,Western Africa,Multiparty,2007
+438,Guinea,Africa,Western Africa,Multiparty,2008
+438,Guinea,Africa,Western Africa,Military,2009
+438,Guinea,Africa,Western Africa,Military,2010
+438,Guinea,Africa,Western Africa,Multiparty,2011
+438,Guinea,Africa,Western Africa,Multiparty,2012
+439,Burkina Faso,Africa,Western Africa,Multiparty,2000
+439,Burkina Faso,Africa,Western Africa,Multiparty,2001
+439,Burkina Faso,Africa,Western Africa,Multiparty,2002
+439,Burkina Faso,Africa,Western Africa,Multiparty,2003
+439,Burkina Faso,Africa,Western Africa,Multiparty,2004
+439,Burkina Faso,Africa,Western Africa,Multiparty,2005
+439,Burkina Faso,Africa,Western Africa,Multiparty,2006
+439,Burkina Faso,Africa,Western Africa,Multiparty,2007
+439,Burkina Faso,Africa,Western Africa,Multiparty,2008
+439,Burkina Faso,Africa,Western Africa,Multiparty,2009
+439,Burkina Faso,Africa,Western Africa,Multiparty,2010
+439,Burkina Faso,Africa,Western Africa,Multiparty,2011
+439,Burkina Faso,Africa,Western Africa,Multiparty,2012
+450,Liberia,Africa,Western Africa,Multiparty,2000
+450,Liberia,Africa,Western Africa,Multiparty,2001
+450,Liberia,Africa,Western Africa,Multiparty,2002
+450,Liberia,Africa,Western Africa,Multiparty,2003
+450,Liberia,Africa,Western Africa,Multiparty,2004
+450,Liberia,Africa,Western Africa,Multiparty,2005
+450,Liberia,Africa,Western Africa,Democracy,2006
+450,Liberia,Africa,Western Africa,Democracy,2007
+450,Liberia,Africa,Western Africa,Democracy,2008
+450,Liberia,Africa,Western Africa,Democracy,2009
+450,Liberia,Africa,Western Africa,Democracy,2010
+450,Liberia,Africa,Western Africa,Democracy,2011
+450,Liberia,Africa,Western Africa,Democracy,2012
+451,Sierra Leone,Africa,Western Africa,Multiparty,2000
+451,Sierra Leone,Africa,Western Africa,Multiparty,2001
+451,Sierra Leone,Africa,Western Africa,Democracy,2002
+451,Sierra Leone,Africa,Western Africa,Democracy,2003
+451,Sierra Leone,Africa,Western Africa,Democracy,2004
+451,Sierra Leone,Africa,Western Africa,Democracy,2005
+451,Sierra Leone,Africa,Western Africa,Democracy,2006
+451,Sierra Leone,Africa,Western Africa,Democracy,2007
+451,Sierra Leone,Africa,Western Africa,Democracy,2008
+451,Sierra Leone,Africa,Western Africa,Democracy,2009
+451,Sierra Leone,Africa,Western Africa,Democracy,2010
+451,Sierra Leone,Africa,Western Africa,Democracy,2011
+451,Sierra Leone,Africa,Western Africa,Democracy,2012
+452,Ghana,Africa,Western Africa,Multiparty,2000
+452,Ghana,Africa,Western Africa,Democracy,2001
+452,Ghana,Africa,Western Africa,Democracy,2002
+452,Ghana,Africa,Western Africa,Democracy,2003
+452,Ghana,Africa,Western Africa,Democracy,2004
+452,Ghana,Africa,Western Africa,Democracy,2005
+452,Ghana,Africa,Western Africa,Democracy,2006
+452,Ghana,Africa,Western Africa,Democracy,2007
+452,Ghana,Africa,Western Africa,Democracy,2008
+452,Ghana,Africa,Western Africa,Democracy,2009
+452,Ghana,Africa,Western Africa,Democracy,2010
+452,Ghana,Africa,Western Africa,Democracy,2011
+452,Ghana,Africa,Western Africa,Democracy,2012
+461,Togo,Africa,Western Africa,Multiparty,2000
+461,Togo,Africa,Western Africa,Multiparty,2001
+461,Togo,Africa,Western Africa,Multiparty,2002
+461,Togo,Africa,Western Africa,Multiparty,2003
+461,Togo,Africa,Western Africa,Multiparty,2004
+461,Togo,Africa,Western Africa,Multiparty,2005
+461,Togo,Africa,Western Africa,Multiparty,2006
+461,Togo,Africa,Western Africa,Multiparty,2007
+461,Togo,Africa,Western Africa,Multiparty,2008
+461,Togo,Africa,Western Africa,Multiparty,2009
+461,Togo,Africa,Western Africa,Multiparty,2010
+461,Togo,Africa,Western Africa,Multiparty,2011
+461,Togo,Africa,Western Africa,Multiparty,2012
+471,Cameroon,Africa,Middle Africa,Multiparty,2000
+471,Cameroon,Africa,Middle Africa,Multiparty,2001
+471,Cameroon,Africa,Middle Africa,Multiparty,2002
+471,Cameroon,Africa,Middle Africa,Multiparty,2003
+471,Cameroon,Africa,Middle Africa,Multiparty,2004
+471,Cameroon,Africa,Middle Africa,Multiparty,2005
+471,Cameroon,Africa,Middle Africa,Multiparty,2006
+471,Cameroon,Africa,Middle Africa,Multiparty,2007
+471,Cameroon,Africa,Middle Africa,Multiparty,2008
+471,Cameroon,Africa,Middle Africa,Multiparty,2009
+471,Cameroon,Africa,Middle Africa,Multiparty,2010
+471,Cameroon,Africa,Middle Africa,Multiparty,2011
+471,Cameroon,Africa,Middle Africa,Multiparty,2012
+475,Nigeria,Africa,Western Africa,Multiparty,2000
+475,Nigeria,Africa,Western Africa,Multiparty,2001
+475,Nigeria,Africa,Western Africa,Multiparty,2002
+475,Nigeria,Africa,Western Africa,Multiparty,2003
+475,Nigeria,Africa,Western Africa,Multiparty,2004
+475,Nigeria,Africa,Western Africa,Multiparty,2005
+475,Nigeria,Africa,Western Africa,Multiparty,2006
+475,Nigeria,Africa,Western Africa,Multiparty,2007
+475,Nigeria,Africa,Western Africa,Multiparty,2008
+475,Nigeria,Africa,Western Africa,Multiparty,2009
+475,Nigeria,Africa,Western Africa,Multiparty,2010
+475,Nigeria,Africa,Western Africa,Multiparty,2011
+475,Nigeria,Africa,Western Africa,Multiparty,2012
+481,Gabon,Africa,Middle Africa,Multiparty,2000
+481,Gabon,Africa,Middle Africa,Multiparty,2001
+481,Gabon,Africa,Middle Africa,Multiparty,2002
+481,Gabon,Africa,Middle Africa,Multiparty,2003
+481,Gabon,Africa,Middle Africa,Multiparty,2004
+481,Gabon,Africa,Middle Africa,Multiparty,2005
+481,Gabon,Africa,Middle Africa,Multiparty,2006
+481,Gabon,Africa,Middle Africa,Multiparty,2007
+481,Gabon,Africa,Middle Africa,Multiparty,2008
+481,Gabon,Africa,Middle Africa,Multiparty,2009
+481,Gabon,Africa,Middle Africa,Multiparty,2010
+481,Gabon,Africa,Middle Africa,Multiparty,2011
+481,Gabon,Africa,Middle Africa,Multiparty,2012
+482,Central African Republic,Africa,Middle Africa,Democracy,2000
+482,Central African Republic,Africa,Middle Africa,Democracy,2001
+482,Central African Republic,Africa,Middle Africa,Democracy,2002
+482,Central African Republic,Africa,Middle Africa,Military,2003
+482,Central African Republic,Africa,Middle Africa,Military,2004
+482,Central African Republic,Africa,Middle Africa,Multiparty,2005
+482,Central African Republic,Africa,Middle Africa,Multiparty,2006
+482,Central African Republic,Africa,Middle Africa,Multiparty,2007
+482,Central African Republic,Africa,Middle Africa,Multiparty,2008
+482,Central African Republic,Africa,Middle Africa,Multiparty,2009
+482,Central African Republic,Africa,Middle Africa,Multiparty,2010
+482,Central African Republic,Africa,Middle Africa,Multiparty,2011
+482,Central African Republic,Africa,Middle Africa,Multiparty,2012
+483,Chad,Africa,Middle Africa,Multiparty,2000
+483,Chad,Africa,Middle Africa,Multiparty,2001
+483,Chad,Africa,Middle Africa,Multiparty,2002
+483,Chad,Africa,Middle Africa,Multiparty,2003
+483,Chad,Africa,Middle Africa,Multiparty,2004
+483,Chad,Africa,Middle Africa,Multiparty,2005
+483,Chad,Africa,Middle Africa,Multiparty,2006
+483,Chad,Africa,Middle Africa,Multiparty,2007
+483,Chad,Africa,Middle Africa,Multiparty,2008
+483,Chad,Africa,Middle Africa,Multiparty,2009
+483,Chad,Africa,Middle Africa,Multiparty,2010
+483,Chad,Africa,Middle Africa,Multiparty,2011
+483,Chad,Africa,Middle Africa,Multiparty,2012
+484,Congo Brazzaville,Africa,Middle Africa,Multiparty,2000
+484,Congo Brazzaville,Africa,Middle Africa,Multiparty,2001
+484,Congo Brazzaville,Africa,Middle Africa,Multiparty,2002
+484,Congo Brazzaville,Africa,Middle Africa,Multiparty,2003
+484,Congo Brazzaville,Africa,Middle Africa,Multiparty,2004
+484,Congo Brazzaville,Africa,Middle Africa,Multiparty,2005
+484,Congo Brazzaville,Africa,Middle Africa,Multiparty,2006
+484,Congo Brazzaville,Africa,Middle Africa,Multiparty,2007
+484,Congo Brazzaville,Africa,Middle Africa,Multiparty,2008
+484,Congo Brazzaville,Africa,Middle Africa,Multiparty,2009
+484,Congo Brazzaville,Africa,Middle Africa,Multiparty,2010
+484,Congo Brazzaville,Africa,Middle Africa,Multiparty,2011
+484,Congo Brazzaville,Africa,Middle Africa,Multiparty,2012
+490,Congo Kinshasa,Africa,Middle Africa,Military,2000
+490,Congo Kinshasa,Africa,Middle Africa,Multiparty,2001
+490,Congo Kinshasa,Africa,Middle Africa,Multiparty,2002
+490,Congo Kinshasa,Africa,Middle Africa,Multiparty,2003
+490,Congo Kinshasa,Africa,Middle Africa,Multiparty,2004
+490,Congo Kinshasa,Africa,Middle Africa,Multiparty,2005
+490,Congo Kinshasa,Africa,Middle Africa,Multiparty,2006
+490,Congo Kinshasa,Africa,Middle Africa,Multiparty,2007
+490,Congo Kinshasa,Africa,Middle Africa,Multiparty,2008
+490,Congo Kinshasa,Africa,Middle Africa,Multiparty,2009
+490,Congo Kinshasa,Africa,Middle Africa,Multiparty,2010
+490,Congo Kinshasa,Africa,Middle Africa,Multiparty,2011
+490,Congo Kinshasa,Africa,Middle Africa,Multiparty,2012
+500,Uganda,Africa,Eastern Africa,Single Party,2000
+500,Uganda,Africa,Eastern Africa,Single Party,2001
+500,Uganda,Africa,Eastern Africa,Single Party,2002
+500,Uganda,Africa,Eastern Africa,Single Party,2003
+500,Uganda,Africa,Eastern Africa,Single Party,2004
+500,Uganda,Africa,Eastern Africa,Single Party,2005
+500,Uganda,Africa,Eastern Africa,Multiparty,2006
+500,Uganda,Africa,Eastern Africa,Multiparty,2007
+500,Uganda,Africa,Eastern Africa,Multiparty,2008
+500,Uganda,Africa,Eastern Africa,Multiparty,2009
+500,Uganda,Africa,Eastern Africa,Multiparty,2010
+500,Uganda,Africa,Eastern Africa,Multiparty,2011
+500,Uganda,Africa,Eastern Africa,Multiparty,2012
+501,Kenya,Africa,Eastern Africa,Multiparty,2000
+501,Kenya,Africa,Eastern Africa,Multiparty,2001
+501,Kenya,Africa,Eastern Africa,Multiparty,2002
+501,Kenya,Africa,Eastern Africa,Democracy,2003
+501,Kenya,Africa,Eastern Africa,Democracy,2004
+501,Kenya,Africa,Eastern Africa,Democracy,2005
+501,Kenya,Africa,Eastern Africa,Democracy,2006
+501,Kenya,Africa,Eastern Africa,Democracy,2007
+501,Kenya,Africa,Eastern Africa,Democracy,2008
+501,Kenya,Africa,Eastern Africa,Democracy,2009
+501,Kenya,Africa,Eastern Africa,Democracy,2010
+501,Kenya,Africa,Eastern Africa,Democracy,2011
+501,Kenya,Africa,Eastern Africa,Democracy,2012
+510,Tanzania,Africa,Eastern Africa,Multiparty,2000
+510,Tanzania,Africa,Eastern Africa,Multiparty,2001
+510,Tanzania,Africa,Eastern Africa,Multiparty,2002
+510,Tanzania,Africa,Eastern Africa,Multiparty,2003
+510,Tanzania,Africa,Eastern Africa,Multiparty,2004
+510,Tanzania,Africa,Eastern Africa,Multiparty,2005
+510,Tanzania,Africa,Eastern Africa,Multiparty,2006
+510,Tanzania,Africa,Eastern Africa,Multiparty,2007
+510,Tanzania,Africa,Eastern Africa,Multiparty,2008
+510,Tanzania,Africa,Eastern Africa,Multiparty,2009
+510,Tanzania,Africa,Eastern Africa,Multiparty,2010
+510,Tanzania,Africa,Eastern Africa,Multiparty,2011
+510,Tanzania,Africa,Eastern Africa,Multiparty,2012
+516,Burundi,Africa,Eastern Africa,Military,2000
+516,Burundi,Africa,Eastern Africa,Military,2001
+516,Burundi,Africa,Eastern Africa,Military,2002
+516,Burundi,Africa,Eastern Africa,Multiparty,2003
+516,Burundi,Africa,Eastern Africa,Multiparty,2004
+516,Burundi,Africa,Eastern Africa,Multiparty,2005
+516,Burundi,Africa,Eastern Africa,Multiparty,2006
+516,Burundi,Africa,Eastern Africa,Multiparty,2007
+516,Burundi,Africa,Eastern Africa,Multiparty,2008
+516,Burundi,Africa,Eastern Africa,Multiparty,2009
+516,Burundi,Africa,Eastern Africa,Multiparty,2010
+516,Burundi,Africa,Eastern Africa,Multiparty,2011
+516,Burundi,Africa,Eastern Africa,Multiparty,2012
+517,Rwanda,Africa,Eastern Africa,Military,2000
+517,Rwanda,Africa,Eastern Africa,Military,2001
+517,Rwanda,Africa,Eastern Africa,Military,2002
+517,Rwanda,Africa,Eastern Africa,Military,2003
+517,Rwanda,Africa,Eastern Africa,Military,2004
+517,Rwanda,Africa,Eastern Africa,Military,2005
+517,Rwanda,Africa,Eastern Africa,Military,2006
+517,Rwanda,Africa,Eastern Africa,Military,2007
+517,Rwanda,Africa,Eastern Africa,Military,2008
+517,Rwanda,Africa,Eastern Africa,Military,2009
+517,Rwanda,Africa,Eastern Africa,Military,2010
+517,Rwanda,Africa,Eastern Africa,Military,2011
+517,Rwanda,Africa,Eastern Africa,Military,2012
+520,Somalia,Africa,Eastern Africa,NA,2012
+522,Djibouti,Africa,Eastern Africa,Multiparty,2000
+522,Djibouti,Africa,Eastern Africa,Multiparty,2001
+522,Djibouti,Africa,Eastern Africa,Multiparty,2002
+522,Djibouti,Africa,Eastern Africa,Multiparty,2003
+522,Djibouti,Africa,Eastern Africa,Multiparty,2004
+522,Djibouti,Africa,Eastern Africa,Multiparty,2005
+522,Djibouti,Africa,Eastern Africa,Multiparty,2006
+522,Djibouti,Africa,Eastern Africa,Multiparty,2007
+522,Djibouti,Africa,Eastern Africa,Multiparty,2008
+522,Djibouti,Africa,Eastern Africa,Multiparty,2009
+522,Djibouti,Africa,Eastern Africa,Multiparty,2010
+522,Djibouti,Africa,Eastern Africa,Multiparty,2011
+522,Djibouti,Africa,Eastern Africa,Multiparty,2012
+530,Ethiopia,Africa,Eastern Africa,Multiparty,2000
+530,Ethiopia,Africa,Eastern Africa,Multiparty,2001
+530,Ethiopia,Africa,Eastern Africa,Multiparty,2002
+530,Ethiopia,Africa,Eastern Africa,Multiparty,2003
+530,Ethiopia,Africa,Eastern Africa,Multiparty,2004
+530,Ethiopia,Africa,Eastern Africa,Multiparty,2005
+530,Ethiopia,Africa,Eastern Africa,Multiparty,2006
+530,Ethiopia,Africa,Eastern Africa,Multiparty,2007
+530,Ethiopia,Africa,Eastern Africa,Multiparty,2008
+530,Ethiopia,Africa,Eastern Africa,Multiparty,2009
+530,Ethiopia,Africa,Eastern Africa,Multiparty,2010
+530,Ethiopia,Africa,Eastern Africa,Multiparty,2011
+530,Ethiopia,Africa,Eastern Africa,Multiparty,2012
+531,Eritrea,Africa,Eastern Africa,Single Party,2000
+531,Eritrea,Africa,Eastern Africa,Single Party,2001
+531,Eritrea,Africa,Eastern Africa,Single Party,2002
+531,Eritrea,Africa,Eastern Africa,Single Party,2003
+531,Eritrea,Africa,Eastern Africa,Single Party,2004
+531,Eritrea,Africa,Eastern Africa,Single Party,2005
+531,Eritrea,Africa,Eastern Africa,Single Party,2006
+531,Eritrea,Africa,Eastern Africa,Single Party,2007
+531,Eritrea,Africa,Eastern Africa,Single Party,2008
+531,Eritrea,Africa,Eastern Africa,Single Party,2009
+531,Eritrea,Africa,Eastern Africa,Single Party,2010
+531,Eritrea,Africa,Eastern Africa,Single Party,2011
+531,Eritrea,Africa,Eastern Africa,Single Party,2012
+540,Angola,Africa,Middle Africa,Multiparty,2000
+540,Angola,Africa,Middle Africa,Multiparty,2001
+540,Angola,Africa,Middle Africa,Multiparty,2002
+540,Angola,Africa,Middle Africa,Multiparty,2003
+540,Angola,Africa,Middle Africa,Multiparty,2004
+540,Angola,Africa,Middle Africa,Multiparty,2005
+540,Angola,Africa,Middle Africa,Multiparty,2006
+540,Angola,Africa,Middle Africa,Multiparty,2007
+540,Angola,Africa,Middle Africa,Multiparty,2008
+540,Angola,Africa,Middle Africa,Multiparty,2009
+540,Angola,Africa,Middle Africa,Multiparty,2010
+540,Angola,Africa,Middle Africa,Multiparty,2011
+540,Angola,Africa,Middle Africa,Multiparty,2012
+541,Mozambique,Africa,Eastern Africa,Multiparty,2000
+541,Mozambique,Africa,Eastern Africa,Multiparty,2001
+541,Mozambique,Africa,Eastern Africa,Multiparty,2002
+541,Mozambique,Africa,Eastern Africa,Multiparty,2003
+541,Mozambique,Africa,Eastern Africa,Multiparty,2004
+541,Mozambique,Africa,Eastern Africa,Multiparty,2005
+541,Mozambique,Africa,Eastern Africa,Multiparty,2006
+541,Mozambique,Africa,Eastern Africa,Multiparty,2007
+541,Mozambique,Africa,Eastern Africa,Multiparty,2008
+541,Mozambique,Africa,Eastern Africa,Multiparty,2009
+541,Mozambique,Africa,Eastern Africa,Multiparty,2010
+541,Mozambique,Africa,Eastern Africa,Multiparty,2011
+541,Mozambique,Africa,Eastern Africa,Multiparty,2012
+551,Zambia,Africa,Eastern Africa,Multiparty,2000
+551,Zambia,Africa,Eastern Africa,Multiparty,2001
+551,Zambia,Africa,Eastern Africa,Multiparty,2002
+551,Zambia,Africa,Eastern Africa,Multiparty,2003
+551,Zambia,Africa,Eastern Africa,Multiparty,2004
+551,Zambia,Africa,Eastern Africa,Multiparty,2005
+551,Zambia,Africa,Eastern Africa,Multiparty,2006
+551,Zambia,Africa,Eastern Africa,Multiparty,2007
+551,Zambia,Africa,Eastern Africa,Multiparty,2008
+551,Zambia,Africa,Eastern Africa,Democracy,2009
+551,Zambia,Africa,Eastern Africa,Democracy,2010
+551,Zambia,Africa,Eastern Africa,Democracy,2011
+551,Zambia,Africa,Eastern Africa,Democracy,2012
+552,Zimbabwe,Africa,Eastern Africa,Multiparty,2000
+552,Zimbabwe,Africa,Eastern Africa,Multiparty,2001
+552,Zimbabwe,Africa,Eastern Africa,Multiparty,2002
+552,Zimbabwe,Africa,Eastern Africa,Multiparty,2003
+552,Zimbabwe,Africa,Eastern Africa,Multiparty,2004
+552,Zimbabwe,Africa,Eastern Africa,Multiparty,2005
+552,Zimbabwe,Africa,Eastern Africa,Multiparty,2006
+552,Zimbabwe,Africa,Eastern Africa,Multiparty,2007
+552,Zimbabwe,Africa,Eastern Africa,Multiparty,2008
+552,Zimbabwe,Africa,Eastern Africa,Multiparty,2009
+552,Zimbabwe,Africa,Eastern Africa,Multiparty,2010
+552,Zimbabwe,Africa,Eastern Africa,Multiparty,2011
+552,Zimbabwe,Africa,Eastern Africa,Multiparty,2012
+553,Malawi,Africa,Eastern Africa,Democracy,2000
+553,Malawi,Africa,Eastern Africa,Democracy,2001
+553,Malawi,Africa,Eastern Africa,Democracy,2002
+553,Malawi,Africa,Eastern Africa,Democracy,2003
+553,Malawi,Africa,Eastern Africa,Democracy,2004
+553,Malawi,Africa,Eastern Africa,Democracy,2005
+553,Malawi,Africa,Eastern Africa,Democracy,2006
+553,Malawi,Africa,Eastern Africa,Democracy,2007
+553,Malawi,Africa,Eastern Africa,Democracy,2008
+553,Malawi,Africa,Eastern Africa,Democracy,2009
+553,Malawi,Africa,Eastern Africa,Democracy,2010
+553,Malawi,Africa,Eastern Africa,Democracy,2011
+553,Malawi,Africa,Eastern Africa,Democracy,2012
+560,South Africa,Africa,Southern Africa,Democracy,2000
+560,South Africa,Africa,Southern Africa,Democracy,2001
+560,South Africa,Africa,Southern Africa,Democracy,2002
+560,South Africa,Africa,Southern Africa,Democracy,2003
+560,South Africa,Africa,Southern Africa,Democracy,2004
+560,South Africa,Africa,Southern Africa,Democracy,2005
+560,South Africa,Africa,Southern Africa,Democracy,2006
+560,South Africa,Africa,Southern Africa,Democracy,2007
+560,South Africa,Africa,Southern Africa,Democracy,2008
+560,South Africa,Africa,Southern Africa,Democracy,2009
+560,South Africa,Africa,Southern Africa,Democracy,2010
+560,South Africa,Africa,Southern Africa,Democracy,2011
+560,South Africa,Africa,Southern Africa,Democracy,2012
+565,Namibia,Africa,Southern Africa,Multiparty,2000
+565,Namibia,Africa,Southern Africa,Multiparty,2001
+565,Namibia,Africa,Southern Africa,Multiparty,2002
+565,Namibia,Africa,Southern Africa,Multiparty,2003
+565,Namibia,Africa,Southern Africa,Multiparty,2004
+565,Namibia,Africa,Southern Africa,Multiparty,2005
+565,Namibia,Africa,Southern Africa,Multiparty,2006
+565,Namibia,Africa,Southern Africa,Multiparty,2007
+565,Namibia,Africa,Southern Africa,Multiparty,2008
+565,Namibia,Africa,Southern Africa,Multiparty,2009
+565,Namibia,Africa,Southern Africa,Multiparty,2010
+565,Namibia,Africa,Southern Africa,Multiparty,2011
+565,Namibia,Africa,Southern Africa,Multiparty,2012
+570,Lesotho,Africa,Southern Africa,Multiparty,2000
+570,Lesotho,Africa,Southern Africa,Multiparty,2001
+570,Lesotho,Africa,Southern Africa,Multiparty,2002
+570,Lesotho,Africa,Southern Africa,Multiparty,2003
+570,Lesotho,Africa,Southern Africa,Multiparty,2004
+570,Lesotho,Africa,Southern Africa,Multiparty,2005
+570,Lesotho,Africa,Southern Africa,Multiparty,2006
+570,Lesotho,Africa,Southern Africa,Multiparty,2007
+570,Lesotho,Africa,Southern Africa,Multiparty,2008
+570,Lesotho,Africa,Southern Africa,Multiparty,2009
+570,Lesotho,Africa,Southern Africa,Multiparty,2010
+570,Lesotho,Africa,Southern Africa,Multiparty,2011
+570,Lesotho,Africa,Southern Africa,Democracy,2012
+571,Botswana,Africa,Southern Africa,Multiparty,2000
+571,Botswana,Africa,Southern Africa,Multiparty,2001
+571,Botswana,Africa,Southern Africa,Multiparty,2002
+571,Botswana,Africa,Southern Africa,Multiparty,2003
+571,Botswana,Africa,Southern Africa,Multiparty,2004
+571,Botswana,Africa,Southern Africa,Multiparty,2005
+571,Botswana,Africa,Southern Africa,Multiparty,2006
+571,Botswana,Africa,Southern Africa,Multiparty,2007
+571,Botswana,Africa,Southern Africa,Multiparty,2008
+571,Botswana,Africa,Southern Africa,Multiparty,2009
+571,Botswana,Africa,Southern Africa,Multiparty,2010
+571,Botswana,Africa,Southern Africa,Multiparty,2011
+571,Botswana,Africa,Southern Africa,Multiparty,2012
+572,Swaziland,Africa,Southern Africa,Monarchy,2000
+572,Swaziland,Africa,Southern Africa,Monarchy,2001
+572,Swaziland,Africa,Southern Africa,Monarchy,2002
+572,Swaziland,Africa,Southern Africa,Monarchy,2003
+572,Swaziland,Africa,Southern Africa,Monarchy,2004
+572,Swaziland,Africa,Southern Africa,Monarchy,2005
+572,Swaziland,Africa,Southern Africa,Monarchy,2006
+572,Swaziland,Africa,Southern Africa,Monarchy,2007
+572,Swaziland,Africa,Southern Africa,Monarchy,2008
+572,Swaziland,Africa,Southern Africa,Monarchy,2009
+572,Swaziland,Africa,Southern Africa,Monarchy,2010
+572,Swaziland,Africa,Southern Africa,Monarchy,2011
+572,Swaziland,Africa,Southern Africa,Monarchy,2012
+580,Madagascar,Africa,Eastern Africa,Democracy,2000
+580,Madagascar,Africa,Eastern Africa,Democracy,2001
+580,Madagascar,Africa,Eastern Africa,Democracy,2002
+580,Madagascar,Africa,Eastern Africa,Democracy,2003
+580,Madagascar,Africa,Eastern Africa,Democracy,2004
+580,Madagascar,Africa,Eastern Africa,Democracy,2005
+580,Madagascar,Africa,Eastern Africa,Democracy,2006
+580,Madagascar,Africa,Eastern Africa,Democracy,2007
+580,Madagascar,Africa,Eastern Africa,Democracy,2008
+580,Madagascar,Africa,Eastern Africa,Military,2009
+580,Madagascar,Africa,Eastern Africa,Military,2010
+580,Madagascar,Africa,Eastern Africa,Military,2011
+580,Madagascar,Africa,Eastern Africa,Military,2012
+581,Comoros,Africa,Eastern Africa,Military,2000
+581,Comoros,Africa,Eastern Africa,Military,2001
+581,Comoros,Africa,Eastern Africa,Multiparty,2002
+581,Comoros,Africa,Eastern Africa,Multiparty,2003
+581,Comoros,Africa,Eastern Africa,Democracy,2004
+581,Comoros,Africa,Eastern Africa,Democracy,2005
+581,Comoros,Africa,Eastern Africa,Democracy,2006
+581,Comoros,Africa,Eastern Africa,Democracy,2007
+581,Comoros,Africa,Eastern Africa,Democracy,2008
+581,Comoros,Africa,Eastern Africa,Democracy,2009
+581,Comoros,Africa,Eastern Africa,Democracy,2010
+581,Comoros,Africa,Eastern Africa,Democracy,2011
+581,Comoros,Africa,Eastern Africa,Democracy,2012
+590,Mauritius,Africa,Eastern Africa,Democracy,2000
+590,Mauritius,Africa,Eastern Africa,Democracy,2001
+590,Mauritius,Africa,Eastern Africa,Democracy,2002
+590,Mauritius,Africa,Eastern Africa,Democracy,2003
+590,Mauritius,Africa,Eastern Africa,Democracy,2004
+590,Mauritius,Africa,Eastern Africa,Democracy,2005
+590,Mauritius,Africa,Eastern Africa,Democracy,2006
+590,Mauritius,Africa,Eastern Africa,Democracy,2007
+590,Mauritius,Africa,Eastern Africa,Democracy,2008
+590,Mauritius,Africa,Eastern Africa,Democracy,2009
+590,Mauritius,Africa,Eastern Africa,Democracy,2010
+590,Mauritius,Africa,Eastern Africa,Democracy,2011
+590,Mauritius,Africa,Eastern Africa,Democracy,2012
+600,Morocco,Africa,Northern Africa,Monarchy,2000
+600,Morocco,Africa,Northern Africa,Monarchy,2001
+600,Morocco,Africa,Northern Africa,Monarchy,2002
+600,Morocco,Africa,Northern Africa,Monarchy,2003
+600,Morocco,Africa,Northern Africa,Monarchy,2004
+600,Morocco,Africa,Northern Africa,Monarchy,2005
+600,Morocco,Africa,Northern Africa,Monarchy,2006
+600,Morocco,Africa,Northern Africa,Monarchy,2007
+600,Morocco,Africa,Northern Africa,Monarchy,2008
+600,Morocco,Africa,Northern Africa,Monarchy,2009
+600,Morocco,Africa,Northern Africa,Monarchy,2010
+600,Morocco,Africa,Northern Africa,Monarchy,2011
+600,Morocco,Africa,Northern Africa,Monarchy,2012
+615,Algeria,Africa,Northern Africa,Multiparty,2000
+615,Algeria,Africa,Northern Africa,Multiparty,2001
+615,Algeria,Africa,Northern Africa,Multiparty,2002
+615,Algeria,Africa,Northern Africa,Multiparty,2003
+615,Algeria,Africa,Northern Africa,Multiparty,2004
+615,Algeria,Africa,Northern Africa,Multiparty,2005
+615,Algeria,Africa,Northern Africa,Multiparty,2006
+615,Algeria,Africa,Northern Africa,Multiparty,2007
+615,Algeria,Africa,Northern Africa,Multiparty,2008
+615,Algeria,Africa,Northern Africa,Multiparty,2009
+615,Algeria,Africa,Northern Africa,Multiparty,2010
+615,Algeria,Africa,Northern Africa,Multiparty,2011
+615,Algeria,Africa,Northern Africa,Multiparty,2012
+616,Tunisia,Africa,Northern Africa,Multiparty,2000
+616,Tunisia,Africa,Northern Africa,Multiparty,2001
+616,Tunisia,Africa,Northern Africa,Multiparty,2002
+616,Tunisia,Africa,Northern Africa,Multiparty,2003
+616,Tunisia,Africa,Northern Africa,Multiparty,2004
+616,Tunisia,Africa,Northern Africa,Multiparty,2005
+616,Tunisia,Africa,Northern Africa,Multiparty,2006
+616,Tunisia,Africa,Northern Africa,Multiparty,2007
+616,Tunisia,Africa,Northern Africa,Multiparty,2008
+616,Tunisia,Africa,Northern Africa,Multiparty,2009
+616,Tunisia,Africa,Northern Africa,Multiparty,2010
+616,Tunisia,Africa,Northern Africa,Multiparty,2011
+616,Tunisia,Africa,Northern Africa,Multiparty,2012
+620,Libya,Africa,Northern Africa,Military,2000
+620,Libya,Africa,Northern Africa,Military,2001
+620,Libya,Africa,Northern Africa,Military,2002
+620,Libya,Africa,Northern Africa,Military,2003
+620,Libya,Africa,Northern Africa,Military,2004
+620,Libya,Africa,Northern Africa,Military,2005
+620,Libya,Africa,Northern Africa,Military,2006
+620,Libya,Africa,Northern Africa,Military,2007
+620,Libya,Africa,Northern Africa,Military,2008
+620,Libya,Africa,Northern Africa,Military,2009
+620,Libya,Africa,Northern Africa,Military,2010
+620,Libya,Africa,Northern Africa,Military,2011
+620,Libya,Africa,Northern Africa,Single Party,2012
+625,Sudan,Africa,Northern Africa,Military,2000
+625,Sudan,Africa,Northern Africa,Military,2001
+625,Sudan,Africa,Northern Africa,Military,2002
+625,Sudan,Africa,Northern Africa,Military,2003
+625,Sudan,Africa,Northern Africa,Military,2004
+625,Sudan,Africa,Northern Africa,Military,2005
+625,Sudan,Africa,Northern Africa,Military,2006
+625,Sudan,Africa,Northern Africa,Military,2007
+625,Sudan,Africa,Northern Africa,Military,2008
+625,Sudan,Africa,Northern Africa,Military,2009
+625,Sudan,Africa,Northern Africa,Multiparty,2010
+625,Sudan,Africa,Northern Africa,Multiparty,2011
+625,Sudan,Africa,Northern Africa,Multiparty,2012
+626,South Sudan,Africa,Eastern Africa,NA,2011
+626,South Sudan,Africa,Eastern Africa,Multiparty,2012
+630,Iran,Asia,Southern Asia,Single Party,2000
+630,Iran,Asia,Southern Asia,Single Party,2001
+630,Iran,Asia,Southern Asia,Single Party,2002
+630,Iran,Asia,Southern Asia,Single Party,2003
+630,Iran,Asia,Southern Asia,Single Party,2004
+630,Iran,Asia,Southern Asia,Single Party,2005
+630,Iran,Asia,Southern Asia,Single Party,2006
+630,Iran,Asia,Southern Asia,Single Party,2007
+630,Iran,Asia,Southern Asia,Single Party,2008
+630,Iran,Asia,Southern Asia,Single Party,2009
+630,Iran,Asia,Southern Asia,Single Party,2010
+630,Iran,Asia,Southern Asia,Single Party,2011
+630,Iran,Asia,Southern Asia,Single Party,2012
+640,Turkey,Asia,Western Asia,Democracy,2000
+640,Turkey,Asia,Western Asia,Democracy,2001
+640,Turkey,Asia,Western Asia,Democracy,2002
+640,Turkey,Asia,Western Asia,Democracy,2003
+640,Turkey,Asia,Western Asia,Democracy,2004
+640,Turkey,Asia,Western Asia,Democracy,2005
+640,Turkey,Asia,Western Asia,Democracy,2006
+640,Turkey,Asia,Western Asia,Democracy,2007
+640,Turkey,Asia,Western Asia,Democracy,2008
+640,Turkey,Asia,Western Asia,Democracy,2009
+640,Turkey,Asia,Western Asia,Democracy,2010
+640,Turkey,Asia,Western Asia,Democracy,2011
+640,Turkey,Asia,Western Asia,Democracy,2012
+645,Iraq,Asia,Western Asia,Single Party,2000
+645,Iraq,Asia,Western Asia,Single Party,2001
+645,Iraq,Asia,Western Asia,Single Party,2002
+645,Iraq,Asia,Western Asia,Single Party,2003
+645,Iraq,Asia,Western Asia,Single Party,2004
+645,Iraq,Asia,Western Asia,Multiparty,2005
+645,Iraq,Asia,Western Asia,Multiparty,2006
+645,Iraq,Asia,Western Asia,Multiparty,2007
+645,Iraq,Asia,Western Asia,Multiparty,2008
+645,Iraq,Asia,Western Asia,Multiparty,2009
+645,Iraq,Asia,Western Asia,Multiparty,2010
+645,Iraq,Asia,Western Asia,Multiparty,2011
+645,Iraq,Asia,Western Asia,Multiparty,2012
+651,Egypt,Africa,Northern Africa,Military,2000
+651,Egypt,Africa,Northern Africa,Military,2001
+651,Egypt,Africa,Northern Africa,Military,2002
+651,Egypt,Africa,Northern Africa,Military,2003
+651,Egypt,Africa,Northern Africa,Military,2004
+651,Egypt,Africa,Northern Africa,Military,2005
+651,Egypt,Africa,Northern Africa,Military,2006
+651,Egypt,Africa,Northern Africa,Military,2007
+651,Egypt,Africa,Northern Africa,Military,2008
+651,Egypt,Africa,Northern Africa,Military,2009
+651,Egypt,Africa,Northern Africa,Military,2010
+651,Egypt,Africa,Northern Africa,Military,2011
+651,Egypt,Africa,Northern Africa,Military,2012
+652,Syria,Asia,Western Asia,Military,2000
+652,Syria,Asia,Western Asia,Military,2001
+652,Syria,Asia,Western Asia,Military,2002
+652,Syria,Asia,Western Asia,Military,2003
+652,Syria,Asia,Western Asia,Military,2004
+652,Syria,Asia,Western Asia,Military,2005
+652,Syria,Asia,Western Asia,Military,2006
+652,Syria,Asia,Western Asia,Military,2007
+652,Syria,Asia,Western Asia,Military,2008
+652,Syria,Asia,Western Asia,Military,2009
+652,Syria,Asia,Western Asia,Military,2010
+652,Syria,Asia,Western Asia,Military,2011
+652,Syria,Asia,Western Asia,Military,2012
+660,Lebanon,Asia,Western Asia,Multiparty,2000
+660,Lebanon,Asia,Western Asia,Multiparty,2001
+660,Lebanon,Asia,Western Asia,Multiparty,2002
+660,Lebanon,Asia,Western Asia,Multiparty,2003
+660,Lebanon,Asia,Western Asia,Multiparty,2004
+660,Lebanon,Asia,Western Asia,Multiparty,2005
+660,Lebanon,Asia,Western Asia,Multiparty,2006
+660,Lebanon,Asia,Western Asia,Multiparty,2007
+660,Lebanon,Asia,Western Asia,Multiparty,2008
+660,Lebanon,Asia,Western Asia,Multiparty,2009
+660,Lebanon,Asia,Western Asia,Multiparty,2010
+660,Lebanon,Asia,Western Asia,Multiparty,2011
+660,Lebanon,Asia,Western Asia,Multiparty,2012
+663,Jordan,Asia,Western Asia,Monarchy,2000
+663,Jordan,Asia,Western Asia,Monarchy,2001
+663,Jordan,Asia,Western Asia,Monarchy,2002
+663,Jordan,Asia,Western Asia,Monarchy,2003
+663,Jordan,Asia,Western Asia,Monarchy,2004
+663,Jordan,Asia,Western Asia,Monarchy,2005
+663,Jordan,Asia,Western Asia,Monarchy,2006
+663,Jordan,Asia,Western Asia,Monarchy,2007
+663,Jordan,Asia,Western Asia,Monarchy,2008
+663,Jordan,Asia,Western Asia,Monarchy,2009
+663,Jordan,Asia,Western Asia,Monarchy,2010
+663,Jordan,Asia,Western Asia,Monarchy,2011
+663,Jordan,Asia,Western Asia,Monarchy,2012
+666,Israel,Asia,Western Asia,Democracy,2000
+666,Israel,Asia,Western Asia,Democracy,2001
+666,Israel,Asia,Western Asia,Democracy,2002
+666,Israel,Asia,Western Asia,Democracy,2003
+666,Israel,Asia,Western Asia,Democracy,2004
+666,Israel,Asia,Western Asia,Democracy,2005
+666,Israel,Asia,Western Asia,Democracy,2006
+666,Israel,Asia,Western Asia,Democracy,2007
+666,Israel,Asia,Western Asia,Democracy,2008
+666,Israel,Asia,Western Asia,Democracy,2009
+666,Israel,Asia,Western Asia,Democracy,2010
+666,Israel,Asia,Western Asia,Democracy,2011
+666,Israel,Asia,Western Asia,Democracy,2012
+670,Saudi Arabia,Asia,Western Asia,Monarchy,2000
+670,Saudi Arabia,Asia,Western Asia,Monarchy,2001
+670,Saudi Arabia,Asia,Western Asia,Monarchy,2002
+670,Saudi Arabia,Asia,Western Asia,Monarchy,2003
+670,Saudi Arabia,Asia,Western Asia,Monarchy,2004
+670,Saudi Arabia,Asia,Western Asia,Monarchy,2005
+670,Saudi Arabia,Asia,Western Asia,Monarchy,2006
+670,Saudi Arabia,Asia,Western Asia,Monarchy,2007
+670,Saudi Arabia,Asia,Western Asia,Monarchy,2008
+670,Saudi Arabia,Asia,Western Asia,Monarchy,2009
+670,Saudi Arabia,Asia,Western Asia,Monarchy,2010
+670,Saudi Arabia,Asia,Western Asia,Monarchy,2011
+670,Saudi Arabia,Asia,Western Asia,Monarchy,2012
+679,Yemen,Asia,Western Asia,Military,2000
+679,Yemen,Asia,Western Asia,Military,2001
+679,Yemen,Asia,Western Asia,Military,2002
+679,Yemen,Asia,Western Asia,Military,2003
+679,Yemen,Asia,Western Asia,Military,2004
+679,Yemen,Asia,Western Asia,Military,2005
+679,Yemen,Asia,Western Asia,Military,2006
+679,Yemen,Asia,Western Asia,Military,2007
+679,Yemen,Asia,Western Asia,Military,2008
+679,Yemen,Asia,Western Asia,Military,2009
+679,Yemen,Asia,Western Asia,Military,2010
+679,Yemen,Asia,Western Asia,Military,2011
+679,Yemen,Asia,Western Asia,Multiparty,2012
+690,Kuwait,Asia,Western Asia,Monarchy,2000
+690,Kuwait,Asia,Western Asia,Monarchy,2001
+690,Kuwait,Asia,Western Asia,Monarchy,2002
+690,Kuwait,Asia,Western Asia,Monarchy,2003
+690,Kuwait,Asia,Western Asia,Monarchy,2004
+690,Kuwait,Asia,Western Asia,Monarchy,2005
+690,Kuwait,Asia,Western Asia,Monarchy,2006
+690,Kuwait,Asia,Western Asia,Monarchy,2007
+690,Kuwait,Asia,Western Asia,Monarchy,2008
+690,Kuwait,Asia,Western Asia,Monarchy,2009
+690,Kuwait,Asia,Western Asia,Monarchy,2010
+690,Kuwait,Asia,Western Asia,Monarchy,2011
+690,Kuwait,Asia,Western Asia,Monarchy,2012
+692,Bahrain,Asia,Western Asia,Monarchy,2000
+692,Bahrain,Asia,Western Asia,Monarchy,2001
+692,Bahrain,Asia,Western Asia,Monarchy,2002
+692,Bahrain,Asia,Western Asia,Monarchy,2003
+692,Bahrain,Asia,Western Asia,Monarchy,2004
+692,Bahrain,Asia,Western Asia,Monarchy,2005
+692,Bahrain,Asia,Western Asia,Monarchy,2006
+692,Bahrain,Asia,Western Asia,Monarchy,2007
+692,Bahrain,Asia,Western Asia,Monarchy,2008
+692,Bahrain,Asia,Western Asia,Monarchy,2009
+692,Bahrain,Asia,Western Asia,Monarchy,2010
+692,Bahrain,Asia,Western Asia,Monarchy,2011
+692,Bahrain,Asia,Western Asia,Monarchy,2012
+694,Qatar,Asia,Western Asia,Monarchy,2000
+694,Qatar,Asia,Western Asia,Monarchy,2001
+694,Qatar,Asia,Western Asia,Monarchy,2002
+694,Qatar,Asia,Western Asia,Monarchy,2003
+694,Qatar,Asia,Western Asia,Monarchy,2004
+694,Qatar,Asia,Western Asia,Monarchy,2005
+694,Qatar,Asia,Western Asia,Monarchy,2006
+694,Qatar,Asia,Western Asia,Monarchy,2007
+694,Qatar,Asia,Western Asia,Monarchy,2008
+694,Qatar,Asia,Western Asia,Monarchy,2009
+694,Qatar,Asia,Western Asia,Monarchy,2010
+694,Qatar,Asia,Western Asia,Monarchy,2011
+694,Qatar,Asia,Western Asia,Monarchy,2012
+696,United Arab Emirates,Asia,Western Asia,Monarchy,2000
+696,United Arab Emirates,Asia,Western Asia,Monarchy,2001
+696,United Arab Emirates,Asia,Western Asia,Monarchy,2002
+696,United Arab Emirates,Asia,Western Asia,Monarchy,2003
+696,United Arab Emirates,Asia,Western Asia,Monarchy,2004
+696,United Arab Emirates,Asia,Western Asia,Monarchy,2005
+696,United Arab Emirates,Asia,Western Asia,Monarchy,2006
+696,United Arab Emirates,Asia,Western Asia,Monarchy,2007
+696,United Arab Emirates,Asia,Western Asia,Monarchy,2008
+696,United Arab Emirates,Asia,Western Asia,Monarchy,2009
+696,United Arab Emirates,Asia,Western Asia,Monarchy,2010
+696,United Arab Emirates,Asia,Western Asia,Monarchy,2011
+696,United Arab Emirates,Asia,Western Asia,Monarchy,2012
+698,Oman,Asia,Western Asia,Monarchy,2000
+698,Oman,Asia,Western Asia,Monarchy,2001
+698,Oman,Asia,Western Asia,Monarchy,2002
+698,Oman,Asia,Western Asia,Monarchy,2003
+698,Oman,Asia,Western Asia,Monarchy,2004
+698,Oman,Asia,Western Asia,Monarchy,2005
+698,Oman,Asia,Western Asia,Monarchy,2006
+698,Oman,Asia,Western Asia,Monarchy,2007
+698,Oman,Asia,Western Asia,Monarchy,2008
+698,Oman,Asia,Western Asia,Monarchy,2009
+698,Oman,Asia,Western Asia,Monarchy,2010
+698,Oman,Asia,Western Asia,Monarchy,2011
+698,Oman,Asia,Western Asia,Monarchy,2012
+700,Afghanistan,Asia,Southern Asia,Military,2000
+700,Afghanistan,Asia,Southern Asia,Military,2001
+700,Afghanistan,Asia,Southern Asia,Multiparty,2002
+700,Afghanistan,Asia,Southern Asia,Multiparty,2003
+700,Afghanistan,Asia,Southern Asia,Multiparty,2004
+700,Afghanistan,Asia,Southern Asia,Multiparty,2005
+700,Afghanistan,Asia,Southern Asia,Multiparty,2006
+700,Afghanistan,Asia,Southern Asia,Multiparty,2007
+700,Afghanistan,Asia,Southern Asia,Multiparty,2008
+700,Afghanistan,Asia,Southern Asia,Multiparty,2009
+700,Afghanistan,Asia,Southern Asia,Multiparty,2010
+700,Afghanistan,Asia,Southern Asia,Multiparty,2011
+700,Afghanistan,Asia,Southern Asia,Multiparty,2012
+701,Turkmenistan,Asia,Central Asia,Single Party,2000
+701,Turkmenistan,Asia,Central Asia,Single Party,2001
+701,Turkmenistan,Asia,Central Asia,Single Party,2002
+701,Turkmenistan,Asia,Central Asia,Single Party,2003
+701,Turkmenistan,Asia,Central Asia,Single Party,2004
+701,Turkmenistan,Asia,Central Asia,Single Party,2005
+701,Turkmenistan,Asia,Central Asia,Single Party,2006
+701,Turkmenistan,Asia,Central Asia,Single Party,2007
+701,Turkmenistan,Asia,Central Asia,Single Party,2008
+701,Turkmenistan,Asia,Central Asia,Single Party,2009
+701,Turkmenistan,Asia,Central Asia,Single Party,2010
+701,Turkmenistan,Asia,Central Asia,Single Party,2011
+701,Turkmenistan,Asia,Central Asia,Single Party,2012
+702,Tajikistan,Asia,Central Asia,Multiparty,2000
+702,Tajikistan,Asia,Central Asia,Multiparty,2001
+702,Tajikistan,Asia,Central Asia,Multiparty,2002
+702,Tajikistan,Asia,Central Asia,Multiparty,2003
+702,Tajikistan,Asia,Central Asia,Multiparty,2004
+702,Tajikistan,Asia,Central Asia,Multiparty,2005
+702,Tajikistan,Asia,Central Asia,Multiparty,2006
+702,Tajikistan,Asia,Central Asia,Multiparty,2007
+702,Tajikistan,Asia,Central Asia,Multiparty,2008
+702,Tajikistan,Asia,Central Asia,Multiparty,2009
+702,Tajikistan,Asia,Central Asia,Multiparty,2010
+702,Tajikistan,Asia,Central Asia,Multiparty,2011
+702,Tajikistan,Asia,Central Asia,Multiparty,2012
+703,Kyrgyzstan,Asia,Central Asia,Multiparty,2000
+703,Kyrgyzstan,Asia,Central Asia,Multiparty,2001
+703,Kyrgyzstan,Asia,Central Asia,Multiparty,2002
+703,Kyrgyzstan,Asia,Central Asia,Multiparty,2003
+703,Kyrgyzstan,Asia,Central Asia,Multiparty,2004
+703,Kyrgyzstan,Asia,Central Asia,Multiparty,2005
+703,Kyrgyzstan,Asia,Central Asia,Multiparty,2006
+703,Kyrgyzstan,Asia,Central Asia,Multiparty,2007
+703,Kyrgyzstan,Asia,Central Asia,Multiparty,2008
+703,Kyrgyzstan,Asia,Central Asia,Multiparty,2009
+703,Kyrgyzstan,Asia,Central Asia,Multiparty,2010
+703,Kyrgyzstan,Asia,Central Asia,Democracy,2011
+703,Kyrgyzstan,Asia,Central Asia,Democracy,2012
+704,Uzbekistan,Asia,Central Asia,Multiparty,2000
+704,Uzbekistan,Asia,Central Asia,Multiparty,2001
+704,Uzbekistan,Asia,Central Asia,Multiparty,2002
+704,Uzbekistan,Asia,Central Asia,Multiparty,2003
+704,Uzbekistan,Asia,Central Asia,Multiparty,2004
+704,Uzbekistan,Asia,Central Asia,Multiparty,2005
+704,Uzbekistan,Asia,Central Asia,Multiparty,2006
+704,Uzbekistan,Asia,Central Asia,Multiparty,2007
+704,Uzbekistan,Asia,Central Asia,Multiparty,2008
+704,Uzbekistan,Asia,Central Asia,Multiparty,2009
+704,Uzbekistan,Asia,Central Asia,Multiparty,2010
+704,Uzbekistan,Asia,Central Asia,Multiparty,2011
+704,Uzbekistan,Asia,Central Asia,Multiparty,2012
+705,Kazakhstan,Asia,Central Asia,Multiparty,2000
+705,Kazakhstan,Asia,Central Asia,Multiparty,2001
+705,Kazakhstan,Asia,Central Asia,Multiparty,2002
+705,Kazakhstan,Asia,Central Asia,Multiparty,2003
+705,Kazakhstan,Asia,Central Asia,Multiparty,2004
+705,Kazakhstan,Asia,Central Asia,Multiparty,2005
+705,Kazakhstan,Asia,Central Asia,Multiparty,2006
+705,Kazakhstan,Asia,Central Asia,Multiparty,2007
+705,Kazakhstan,Asia,Central Asia,Multiparty,2008
+705,Kazakhstan,Asia,Central Asia,Multiparty,2009
+705,Kazakhstan,Asia,Central Asia,Multiparty,2010
+705,Kazakhstan,Asia,Central Asia,Multiparty,2011
+705,Kazakhstan,Asia,Central Asia,Multiparty,2012
+710,China,Asia,Eastern Asia,Single Party,2000
+710,China,Asia,Eastern Asia,Single Party,2001
+710,China,Asia,Eastern Asia,Single Party,2002
+710,China,Asia,Eastern Asia,Single Party,2003
+710,China,Asia,Eastern Asia,Single Party,2004
+710,China,Asia,Eastern Asia,Single Party,2005
+710,China,Asia,Eastern Asia,Single Party,2006
+710,China,Asia,Eastern Asia,Single Party,2007
+710,China,Asia,Eastern Asia,Single Party,2008
+710,China,Asia,Eastern Asia,Single Party,2009
+710,China,Asia,Eastern Asia,Single Party,2010
+710,China,Asia,Eastern Asia,Single Party,2011
+710,China,Asia,Eastern Asia,Single Party,2012
+712,Mongolia,Asia,Eastern Asia,Democracy,2000
+712,Mongolia,Asia,Eastern Asia,Democracy,2001
+712,Mongolia,Asia,Eastern Asia,Democracy,2002
+712,Mongolia,Asia,Eastern Asia,Democracy,2003
+712,Mongolia,Asia,Eastern Asia,Democracy,2004
+712,Mongolia,Asia,Eastern Asia,Democracy,2005
+712,Mongolia,Asia,Eastern Asia,Democracy,2006
+712,Mongolia,Asia,Eastern Asia,Democracy,2007
+712,Mongolia,Asia,Eastern Asia,Democracy,2008
+712,Mongolia,Asia,Eastern Asia,Democracy,2009
+712,Mongolia,Asia,Eastern Asia,Democracy,2010
+712,Mongolia,Asia,Eastern Asia,Democracy,2011
+712,Mongolia,Asia,Eastern Asia,Democracy,2012
+713,Taiwan,Asia,Eastern Asia,Democracy,2000
+713,Taiwan,Asia,Eastern Asia,Democracy,2001
+713,Taiwan,Asia,Eastern Asia,Democracy,2002
+713,Taiwan,Asia,Eastern Asia,Democracy,2003
+713,Taiwan,Asia,Eastern Asia,Democracy,2004
+713,Taiwan,Asia,Eastern Asia,Democracy,2005
+713,Taiwan,Asia,Eastern Asia,Democracy,2006
+713,Taiwan,Asia,Eastern Asia,Democracy,2007
+713,Taiwan,Asia,Eastern Asia,Democracy,2008
+713,Taiwan,Asia,Eastern Asia,Democracy,2009
+713,Taiwan,Asia,Eastern Asia,Democracy,2010
+713,Taiwan,Asia,Eastern Asia,Democracy,2011
+713,Taiwan,Asia,Eastern Asia,Democracy,2012
+731,Korea North,Asia,Eastern Asia,Single Party,2000
+731,Korea North,Asia,Eastern Asia,Single Party,2001
+731,Korea North,Asia,Eastern Asia,Single Party,2002
+731,Korea North,Asia,Eastern Asia,Single Party,2003
+731,Korea North,Asia,Eastern Asia,Single Party,2004
+731,Korea North,Asia,Eastern Asia,Single Party,2005
+731,Korea North,Asia,Eastern Asia,Single Party,2006
+731,Korea North,Asia,Eastern Asia,Single Party,2007
+731,Korea North,Asia,Eastern Asia,Single Party,2008
+731,Korea North,Asia,Eastern Asia,Single Party,2009
+731,Korea North,Asia,Eastern Asia,Single Party,2010
+731,Korea North,Asia,Eastern Asia,Single Party,2011
+731,Korea North,Asia,Eastern Asia,Single Party,2012
+732,Korea South,Asia,Eastern Asia,Democracy,2000
+732,Korea South,Asia,Eastern Asia,Democracy,2001
+732,Korea South,Asia,Eastern Asia,Democracy,2002
+732,Korea South,Asia,Eastern Asia,Democracy,2003
+732,Korea South,Asia,Eastern Asia,Democracy,2004
+732,Korea South,Asia,Eastern Asia,Democracy,2005
+732,Korea South,Asia,Eastern Asia,Democracy,2006
+732,Korea South,Asia,Eastern Asia,Democracy,2007
+732,Korea South,Asia,Eastern Asia,Democracy,2008
+732,Korea South,Asia,Eastern Asia,Democracy,2009
+732,Korea South,Asia,Eastern Asia,Democracy,2010
+732,Korea South,Asia,Eastern Asia,Democracy,2011
+732,Korea South,Asia,Eastern Asia,Democracy,2012
+740,Japan,Asia,Eastern Asia,Democracy,2000
+740,Japan,Asia,Eastern Asia,Democracy,2001
+740,Japan,Asia,Eastern Asia,Democracy,2002
+740,Japan,Asia,Eastern Asia,Democracy,2003
+740,Japan,Asia,Eastern Asia,Democracy,2004
+740,Japan,Asia,Eastern Asia,Democracy,2005
+740,Japan,Asia,Eastern Asia,Democracy,2006
+740,Japan,Asia,Eastern Asia,Democracy,2007
+740,Japan,Asia,Eastern Asia,Democracy,2008
+740,Japan,Asia,Eastern Asia,Democracy,2009
+740,Japan,Asia,Eastern Asia,Democracy,2010
+740,Japan,Asia,Eastern Asia,Democracy,2011
+740,Japan,Asia,Eastern Asia,Democracy,2012
+750,India,Asia,Southern Asia,Democracy,2000
+750,India,Asia,Southern Asia,Democracy,2001
+750,India,Asia,Southern Asia,Democracy,2002
+750,India,Asia,Southern Asia,Democracy,2003
+750,India,Asia,Southern Asia,Democracy,2004
+750,India,Asia,Southern Asia,Democracy,2005
+750,India,Asia,Southern Asia,Democracy,2006
+750,India,Asia,Southern Asia,Democracy,2007
+750,India,Asia,Southern Asia,Democracy,2008
+750,India,Asia,Southern Asia,Democracy,2009
+750,India,Asia,Southern Asia,Democracy,2010
+750,India,Asia,Southern Asia,Democracy,2011
+750,India,Asia,Southern Asia,Democracy,2012
+760,Bhutan,Asia,Southern Asia,Monarchy,2000
+760,Bhutan,Asia,Southern Asia,Monarchy,2001
+760,Bhutan,Asia,Southern Asia,Monarchy,2002
+760,Bhutan,Asia,Southern Asia,Monarchy,2003
+760,Bhutan,Asia,Southern Asia,Monarchy,2004
+760,Bhutan,Asia,Southern Asia,Monarchy,2005
+760,Bhutan,Asia,Southern Asia,Monarchy,2006
+760,Bhutan,Asia,Southern Asia,Monarchy,2007
+760,Bhutan,Asia,Southern Asia,Multiparty,2008
+760,Bhutan,Asia,Southern Asia,Multiparty,2009
+760,Bhutan,Asia,Southern Asia,Multiparty,2010
+760,Bhutan,Asia,Southern Asia,Multiparty,2011
+760,Bhutan,Asia,Southern Asia,Multiparty,2012
+770,Pakistan,Asia,Southern Asia,Military,2000
+770,Pakistan,Asia,Southern Asia,Military,2001
+770,Pakistan,Asia,Southern Asia,Military,2002
+770,Pakistan,Asia,Southern Asia,Military,2003
+770,Pakistan,Asia,Southern Asia,Military,2004
+770,Pakistan,Asia,Southern Asia,Military,2005
+770,Pakistan,Asia,Southern Asia,Military,2006
+770,Pakistan,Asia,Southern Asia,Military,2007
+770,Pakistan,Asia,Southern Asia,Democracy,2008
+770,Pakistan,Asia,Southern Asia,Democracy,2009
+770,Pakistan,Asia,Southern Asia,Democracy,2010
+770,Pakistan,Asia,Southern Asia,Democracy,2011
+770,Pakistan,Asia,Southern Asia,Democracy,2012
+771,Bangladesh,Asia,Southern Asia,Democracy,2000
+771,Bangladesh,Asia,Southern Asia,Democracy,2001
+771,Bangladesh,Asia,Southern Asia,Democracy,2002
+771,Bangladesh,Asia,Southern Asia,Democracy,2003
+771,Bangladesh,Asia,Southern Asia,Democracy,2004
+771,Bangladesh,Asia,Southern Asia,Democracy,2005
+771,Bangladesh,Asia,Southern Asia,Democracy,2006
+771,Bangladesh,Asia,Southern Asia,Democracy,2007
+771,Bangladesh,Asia,Southern Asia,Democracy,2008
+771,Bangladesh,Asia,Southern Asia,Democracy,2009
+771,Bangladesh,Asia,Southern Asia,Democracy,2010
+771,Bangladesh,Asia,Southern Asia,Democracy,2011
+771,Bangladesh,Asia,Southern Asia,Democracy,2012
+775,Myanmar (Burma),Asia,South-Eastern Asia,Military,2000
+775,Myanmar (Burma),Asia,South-Eastern Asia,Military,2001
+775,Myanmar (Burma),Asia,South-Eastern Asia,Military,2002
+775,Myanmar (Burma),Asia,South-Eastern Asia,Military,2003
+775,Myanmar (Burma),Asia,South-Eastern Asia,Military,2004
+775,Myanmar (Burma),Asia,South-Eastern Asia,Military,2005
+775,Myanmar (Burma),Asia,South-Eastern Asia,Military,2006
+775,Myanmar (Burma),Asia,South-Eastern Asia,Military,2007
+775,Myanmar (Burma),Asia,South-Eastern Asia,Military,2008
+775,Myanmar (Burma),Asia,South-Eastern Asia,Military,2009
+775,Myanmar (Burma),Asia,South-Eastern Asia,Military,2010
+775,Myanmar (Burma),Asia,South-Eastern Asia,Military,2011
+775,Myanmar (Burma),Asia,South-Eastern Asia,Multiparty,2012
+780,Sri Lanka,Asia,Southern Asia,Democracy,2000
+780,Sri Lanka,Asia,Southern Asia,Democracy,2001
+780,Sri Lanka,Asia,Southern Asia,Democracy,2002
+780,Sri Lanka,Asia,Southern Asia,Democracy,2003
+780,Sri Lanka,Asia,Southern Asia,Democracy,2004
+780,Sri Lanka,Asia,Southern Asia,Democracy,2005
+780,Sri Lanka,Asia,Southern Asia,Democracy,2006
+780,Sri Lanka,Asia,Southern Asia,Democracy,2007
+780,Sri Lanka,Asia,Southern Asia,Democracy,2008
+780,Sri Lanka,Asia,Southern Asia,Democracy,2009
+780,Sri Lanka,Asia,Southern Asia,Multiparty,2010
+780,Sri Lanka,Asia,Southern Asia,Multiparty,2011
+780,Sri Lanka,Asia,Southern Asia,Multiparty,2012
+790,Nepal,Asia,Southern Asia,Democracy,2000
+790,Nepal,Asia,Southern Asia,Democracy,2001
+790,Nepal,Asia,Southern Asia,Monarchy,2002
+790,Nepal,Asia,Southern Asia,Monarchy,2003
+790,Nepal,Asia,Southern Asia,Monarchy,2004
+790,Nepal,Asia,Southern Asia,Monarchy,2005
+790,Nepal,Asia,Southern Asia,Democracy,2006
+790,Nepal,Asia,Southern Asia,Democracy,2007
+790,Nepal,Asia,Southern Asia,Democracy,2008
+790,Nepal,Asia,Southern Asia,Democracy,2009
+790,Nepal,Asia,Southern Asia,Democracy,2010
+790,Nepal,Asia,Southern Asia,Democracy,2011
+790,Nepal,Asia,Southern Asia,Democracy,2012
+800,Thailand,Asia,South-Eastern Asia,Democracy,2000
+800,Thailand,Asia,South-Eastern Asia,Democracy,2001
+800,Thailand,Asia,South-Eastern Asia,Democracy,2002
+800,Thailand,Asia,South-Eastern Asia,Democracy,2003
+800,Thailand,Asia,South-Eastern Asia,Democracy,2004
+800,Thailand,Asia,South-Eastern Asia,Democracy,2005
+800,Thailand,Asia,South-Eastern Asia,Democracy,2006
+800,Thailand,Asia,South-Eastern Asia,Military,2007
+800,Thailand,Asia,South-Eastern Asia,Democracy,2008
+800,Thailand,Asia,South-Eastern Asia,Democracy,2009
+800,Thailand,Asia,South-Eastern Asia,Democracy,2010
+800,Thailand,Asia,South-Eastern Asia,Democracy,2011
+800,Thailand,Asia,South-Eastern Asia,Democracy,2012
+811,Cambodia,Asia,South-Eastern Asia,Multiparty,2000
+811,Cambodia,Asia,South-Eastern Asia,Multiparty,2001
+811,Cambodia,Asia,South-Eastern Asia,Multiparty,2002
+811,Cambodia,Asia,South-Eastern Asia,Multiparty,2003
+811,Cambodia,Asia,South-Eastern Asia,Multiparty,2004
+811,Cambodia,Asia,South-Eastern Asia,Multiparty,2005
+811,Cambodia,Asia,South-Eastern Asia,Multiparty,2006
+811,Cambodia,Asia,South-Eastern Asia,Multiparty,2007
+811,Cambodia,Asia,South-Eastern Asia,Multiparty,2008
+811,Cambodia,Asia,South-Eastern Asia,Multiparty,2009
+811,Cambodia,Asia,South-Eastern Asia,Multiparty,2010
+811,Cambodia,Asia,South-Eastern Asia,Multiparty,2011
+811,Cambodia,Asia,South-Eastern Asia,Multiparty,2012
+812,Laos,Asia,South-Eastern Asia,Single Party,2000
+812,Laos,Asia,South-Eastern Asia,Single Party,2001
+812,Laos,Asia,South-Eastern Asia,Single Party,2002
+812,Laos,Asia,South-Eastern Asia,Single Party,2003
+812,Laos,Asia,South-Eastern Asia,Single Party,2004
+812,Laos,Asia,South-Eastern Asia,Single Party,2005
+812,Laos,Asia,South-Eastern Asia,Single Party,2006
+812,Laos,Asia,South-Eastern Asia,Single Party,2007
+812,Laos,Asia,South-Eastern Asia,Single Party,2008
+812,Laos,Asia,South-Eastern Asia,Single Party,2009
+812,Laos,Asia,South-Eastern Asia,Single Party,2010
+812,Laos,Asia,South-Eastern Asia,Single Party,2011
+812,Laos,Asia,South-Eastern Asia,Single Party,2012
+816,Vietnam,Asia,South-Eastern Asia,Single Party,2000
+816,Vietnam,Asia,South-Eastern Asia,Single Party,2001
+816,Vietnam,Asia,South-Eastern Asia,Single Party,2002
+816,Vietnam,Asia,South-Eastern Asia,Single Party,2003
+816,Vietnam,Asia,South-Eastern Asia,Single Party,2004
+816,Vietnam,Asia,South-Eastern Asia,Single Party,2005
+816,Vietnam,Asia,South-Eastern Asia,Single Party,2006
+816,Vietnam,Asia,South-Eastern Asia,Single Party,2007
+816,Vietnam,Asia,South-Eastern Asia,Single Party,2008
+816,Vietnam,Asia,South-Eastern Asia,Single Party,2009
+816,Vietnam,Asia,South-Eastern Asia,Single Party,2010
+816,Vietnam,Asia,South-Eastern Asia,Single Party,2011
+816,Vietnam,Asia,South-Eastern Asia,Single Party,2012
+820,Malaysia,Asia,South-Eastern Asia,Multiparty,2000
+820,Malaysia,Asia,South-Eastern Asia,Multiparty,2001
+820,Malaysia,Asia,South-Eastern Asia,Multiparty,2002
+820,Malaysia,Asia,South-Eastern Asia,Multiparty,2003
+820,Malaysia,Asia,South-Eastern Asia,Multiparty,2004
+820,Malaysia,Asia,South-Eastern Asia,Multiparty,2005
+820,Malaysia,Asia,South-Eastern Asia,Multiparty,2006
+820,Malaysia,Asia,South-Eastern Asia,Multiparty,2007
+820,Malaysia,Asia,South-Eastern Asia,Multiparty,2008
+820,Malaysia,Asia,South-Eastern Asia,Multiparty,2009
+820,Malaysia,Asia,South-Eastern Asia,Multiparty,2010
+820,Malaysia,Asia,South-Eastern Asia,Multiparty,2011
+820,Malaysia,Asia,South-Eastern Asia,Multiparty,2012
+830,Singapore,Asia,South-Eastern Asia,Multiparty,2000
+830,Singapore,Asia,South-Eastern Asia,Multiparty,2001
+830,Singapore,Asia,South-Eastern Asia,Multiparty,2002
+830,Singapore,Asia,South-Eastern Asia,Multiparty,2003
+830,Singapore,Asia,South-Eastern Asia,Multiparty,2004
+830,Singapore,Asia,South-Eastern Asia,Multiparty,2005
+830,Singapore,Asia,South-Eastern Asia,Multiparty,2006
+830,Singapore,Asia,South-Eastern Asia,Multiparty,2007
+830,Singapore,Asia,South-Eastern Asia,Multiparty,2008
+830,Singapore,Asia,South-Eastern Asia,Multiparty,2009
+830,Singapore,Asia,South-Eastern Asia,Multiparty,2010
+830,Singapore,Asia,South-Eastern Asia,Multiparty,2011
+830,Singapore,Asia,South-Eastern Asia,Multiparty,2012
+840,Philippines,Asia,South-Eastern Asia,Democracy,2000
+840,Philippines,Asia,South-Eastern Asia,Democracy,2001
+840,Philippines,Asia,South-Eastern Asia,Democracy,2002
+840,Philippines,Asia,South-Eastern Asia,Democracy,2003
+840,Philippines,Asia,South-Eastern Asia,Democracy,2004
+840,Philippines,Asia,South-Eastern Asia,Democracy,2005
+840,Philippines,Asia,South-Eastern Asia,Democracy,2006
+840,Philippines,Asia,South-Eastern Asia,Democracy,2007
+840,Philippines,Asia,South-Eastern Asia,Democracy,2008
+840,Philippines,Asia,South-Eastern Asia,Democracy,2009
+840,Philippines,Asia,South-Eastern Asia,Democracy,2010
+840,Philippines,Asia,South-Eastern Asia,Democracy,2011
+840,Philippines,Asia,South-Eastern Asia,Democracy,2012
+850,Indonesia,Asia,South-Eastern Asia,Democracy,2000
+850,Indonesia,Asia,South-Eastern Asia,Democracy,2001
+850,Indonesia,Asia,South-Eastern Asia,Democracy,2002
+850,Indonesia,Asia,South-Eastern Asia,Democracy,2003
+850,Indonesia,Asia,South-Eastern Asia,Democracy,2004
+850,Indonesia,Asia,South-Eastern Asia,Democracy,2005
+850,Indonesia,Asia,South-Eastern Asia,Democracy,2006
+850,Indonesia,Asia,South-Eastern Asia,Democracy,2007
+850,Indonesia,Asia,South-Eastern Asia,Democracy,2008
+850,Indonesia,Asia,South-Eastern Asia,Democracy,2009
+850,Indonesia,Asia,South-Eastern Asia,Democracy,2010
+850,Indonesia,Asia,South-Eastern Asia,Democracy,2011
+850,Indonesia,Asia,South-Eastern Asia,Democracy,2012
+860,East Timor,Asia,South-Eastern Asia,Democracy,2002
+860,East Timor,Asia,South-Eastern Asia,Democracy,2003
+860,East Timor,Asia,South-Eastern Asia,Democracy,2004
+860,East Timor,Asia,South-Eastern Asia,Democracy,2005
+860,East Timor,Asia,South-Eastern Asia,Democracy,2006
+860,East Timor,Asia,South-Eastern Asia,Democracy,2007
+860,East Timor,Asia,South-Eastern Asia,Democracy,2008
+860,East Timor,Asia,South-Eastern Asia,Democracy,2009
+860,East Timor,Asia,South-Eastern Asia,Democracy,2010
+860,East Timor,Asia,South-Eastern Asia,Democracy,2011
+860,East Timor,Asia,South-Eastern Asia,Democracy,2012
+900,Australia,Oceania,Australia and New Zealand,Democracy,2000
+900,Australia,Oceania,Australia and New Zealand,Democracy,2001
+900,Australia,Oceania,Australia and New Zealand,Democracy,2002
+900,Australia,Oceania,Australia and New Zealand,Democracy,2003
+900,Australia,Oceania,Australia and New Zealand,Democracy,2004
+900,Australia,Oceania,Australia and New Zealand,Democracy,2005
+900,Australia,Oceania,Australia and New Zealand,Democracy,2006
+900,Australia,Oceania,Australia and New Zealand,Democracy,2007
+900,Australia,Oceania,Australia and New Zealand,Democracy,2008
+900,Australia,Oceania,Australia and New Zealand,Democracy,2009
+900,Australia,Oceania,Australia and New Zealand,Democracy,2010
+900,Australia,Oceania,Australia and New Zealand,Democracy,2011
+900,Australia,Oceania,Australia and New Zealand,Democracy,2012
+910,Papua New Guinea,Oceania,Melanesia,Democracy,2000
+910,Papua New Guinea,Oceania,Melanesia,Democracy,2001
+910,Papua New Guinea,Oceania,Melanesia,Democracy,2002
+910,Papua New Guinea,Oceania,Melanesia,Democracy,2003
+910,Papua New Guinea,Oceania,Melanesia,Democracy,2004
+910,Papua New Guinea,Oceania,Melanesia,Democracy,2005
+910,Papua New Guinea,Oceania,Melanesia,Democracy,2006
+910,Papua New Guinea,Oceania,Melanesia,Democracy,2007
+910,Papua New Guinea,Oceania,Melanesia,Democracy,2008
+910,Papua New Guinea,Oceania,Melanesia,Democracy,2009
+910,Papua New Guinea,Oceania,Melanesia,Democracy,2010
+910,Papua New Guinea,Oceania,Melanesia,Democracy,2011
+910,Papua New Guinea,Oceania,Melanesia,Democracy,2012
+920,New Zealand,Oceania,Australia and New Zealand,Democracy,2000
+920,New Zealand,Oceania,Australia and New Zealand,Democracy,2001
+920,New Zealand,Oceania,Australia and New Zealand,Democracy,2002
+920,New Zealand,Oceania,Australia and New Zealand,Democracy,2003
+920,New Zealand,Oceania,Australia and New Zealand,Democracy,2004
+920,New Zealand,Oceania,Australia and New Zealand,Democracy,2005
+920,New Zealand,Oceania,Australia and New Zealand,Democracy,2006
+920,New Zealand,Oceania,Australia and New Zealand,Democracy,2007
+920,New Zealand,Oceania,Australia and New Zealand,Democracy,2008
+920,New Zealand,Oceania,Australia and New Zealand,Democracy,2009
+920,New Zealand,Oceania,Australia and New Zealand,Democracy,2010
+920,New Zealand,Oceania,Australia and New Zealand,Democracy,2011
+920,New Zealand,Oceania,Australia and New Zealand,Democracy,2012
+940,Solomon Islands,Oceania,Melanesia,Democracy,2000
+940,Solomon Islands,Oceania,Melanesia,Democracy,2001
+940,Solomon Islands,Oceania,Melanesia,Democracy,2002
+940,Solomon Islands,Oceania,Melanesia,Democracy,2003
+940,Solomon Islands,Oceania,Melanesia,Democracy,2004
+940,Solomon Islands,Oceania,Melanesia,Democracy,2005
+940,Solomon Islands,Oceania,Melanesia,Democracy,2006
+940,Solomon Islands,Oceania,Melanesia,Democracy,2007
+940,Solomon Islands,Oceania,Melanesia,Democracy,2008
+940,Solomon Islands,Oceania,Melanesia,Democracy,2009
+940,Solomon Islands,Oceania,Melanesia,Democracy,2010
+940,Solomon Islands,Oceania,Melanesia,Democracy,2011
+940,Solomon Islands,Oceania,Melanesia,Democracy,2012
+950,Fiji,Oceania,Melanesia,Multiparty,2000
+950,Fiji,Oceania,Melanesia,Multiparty,2001
+950,Fiji,Oceania,Melanesia,Multiparty,2002
+950,Fiji,Oceania,Melanesia,Multiparty,2003
+950,Fiji,Oceania,Melanesia,Multiparty,2004
+950,Fiji,Oceania,Melanesia,Multiparty,2005
+950,Fiji,Oceania,Melanesia,Multiparty,2006
+950,Fiji,Oceania,Melanesia,Military,2007
+950,Fiji,Oceania,Melanesia,Military,2008
+950,Fiji,Oceania,Melanesia,Military,2009
+950,Fiji,Oceania,Melanesia,Military,2010
+950,Fiji,Oceania,Melanesia,Military,2011
+950,Fiji,Oceania,Melanesia,Military,2012
